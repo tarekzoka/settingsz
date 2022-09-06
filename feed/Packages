@@ -1,10 +1,10 @@
 Package: enigma2-plugin-extensions-footonsat
 Version: tarek-hanfy
-Section: tarek links
+Section: extensions
 Priority: optional
 Architecture: all
-Size: 4333596
 MD5Sum: 6ecf07d2ffc6e6499564020f465916ce
+Size: 4333596
 Filename: enigma2-plugin-extensions-footonsat_tarek-hanfy_all.ipk
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 football
@@ -18,7 +18,7 @@ OE: enigma2
 
 Package: enigma2-plugin-extensions-ipaudio
 Version: tarek-hanfy
-Depends: 
+Depends: extensions
 Section: base
 Architecture: all
 MD5Sum: eafd652413e0b408fd8df5761b5a987a
@@ -36,11 +36,11 @@ OE: enigma2
 
 Package: enigma2-plugin-extensions-iptosat
 Version: tarek-hanfy
-Section: tarek links
+Section: extensions
 Priority: optional
 Architecture: all
-Size: 13822
 MD5Sum: f099dd22fe5093843d0c118bfeb4368b
+Size: 13822
 Filename: enigma2-plugin-tarek.links-iptosat_tarek-hanfy_all
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 iptosat
