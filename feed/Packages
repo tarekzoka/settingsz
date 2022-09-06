@@ -23,7 +23,7 @@ Section: base
 Architecture: all
 MD5Sum: eafd652413e0b408fd8df5761b5a987a
 Size: 744
-Filename: enigma2-plugin-tarek.links-ipaudio_tarek-hanfy_all
+Filename: enigma2-plugin-tarek.links-ipaudio_tarek-hanfy_all.ipk
 Description: plugin-extensions-ipaudio
 Maintainer: plugin-extensions-ipaudio
 Priority: optional
@@ -34,19 +34,20 @@ OE: enigma2
 
 
 
-Package: enigma2-plugin-extensions-iptosat
+Package: enigma2-plugin-extensions-iptosat-v1.8
 Version: tarek-hanfy
-Section: extensions
-Priority: optional
+Depends: exteplayer3 , gstplayer
+Section: base
 Architecture: all
-MD5Sum: f099dd22fe5093843d0c118bfeb4368b
-Size: 13822
-Filename: enigma2-plugin-tarek.links-iptosat_tarek-hanfy_all
-Maintainer: ziko & redouane
-Description: enigma2 plugin OE2.0 OE2.5 iptosat
-Depends: enigma2
-Source: none
-Homepage: unknown
+MD5Sum: 1944dfb07e5219b988d97673ec700e6d
+Size: 14426
+Filename: enigma2-plugin-extensions-iptosat-v1.8_tarek-hanfy_all.ipk
+Description: enigma2 plugin OE2.0
+Maintainer: emil
+Priority: optional
+Source: none https://github.com/ziko-ZR1/IPtoSAT
+Homepage: none
+License: none
 OE: enigma2
 
 
@@ -58,7 +59,7 @@ Priority: optional
 Architecture: all
 Size: 272864
 MD5Sum: b82632e6044deeb660bc7f1e281b7ea9
-Filename: enigma2-plugin-tarek.links-ajpanel_tarek-hanf-v7.0_all
+Filename: enigma2-plugin-tarek.links-ajpanel_tarek-hanf-v7.0_all.ipk
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 ajpanel
 Depends: enigma2
