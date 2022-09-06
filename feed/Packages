@@ -1,0 +1,53 @@
+Package: enigma2-plugin-extensions-footonsat
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 4333866
+MD5Sum: a72492b2859894976e68a994b4c258b3
+Filename: enigma2-plugin-extensions-footonsat_tarek-hanfy_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 football
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+
+Package: enigma2-plugin-extensions-ipaudio
+Version: tarek-hanfy
+Depends: 
+Section: base
+Architecture: all
+MD5Sum: eafd652413e0b408fd8df5761b5a987a
+Size: 744
+Filename: enigma2-plugin-tarek.links-ipaudio_tarek-hanfy_all
+Description: plugin-extensions-ipaudio
+Maintainer: plugin-extensions-ipaudio
+Priority: optional
+Source: none
+Homepage: unknown
+License: none
+OE: enigma2
+
+
+
+Package: enigma2-plugin-extensions-iptosat
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 13822
+MD5Sum: f099dd22fe5093843d0c118bfeb4368b
+Filename: enigma2-plugin-tarek.links-iptosat_tarek-hanfy_all
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 iptosat
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
