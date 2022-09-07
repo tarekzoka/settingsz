@@ -20,9 +20,9 @@ Version: tarek-hanfy
 Depends: extensions
 Section: base
 Architecture: all
-MD5Sum: eafd652413e0b408fd8df5761b5a987a
-Size: 792
-Filename: enigma2-plugin-extensions-ipaudio_tarek-V6.6_all
+MD5Sum: 9a342e8bcabae0f9de1444d752abd3f1
+Size: 956
+Filename: enigma2-plugin-extensions-ipaudio_tarek-V6.6_all.ipk
 Description: plugin-extensions-ipaudio
 Maintainer: plugin-extensions-ipaudio
 Priority: optional
