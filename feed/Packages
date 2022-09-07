@@ -1,19 +1,17 @@
-Package: enigma2-plugin-extensions-footonsat_tarek-hanfy-v1.6
-Version: tarek-hanfy-v1.6
-Section: extensions
+Package: enigma2-plugin-extensions-footonsat
+Version: tarek-hanfy
+Section: tarek links
 Priority: optional
 Architecture: all
-MD5Sum: c8c4d8404628cba10fb3d8422096821f
-Size: 4616684
-Filename: 
-enigma2-plugin-tarek.links-extensions-footonsat_tarek-hanfy-v1.6_all.ipk
+Size: 4333570
+MD5Sum: d402f7e794ec3d032ed755573104ab06
+Filename: enigma2-plugin-extensions-footonsat_tarek-V1.6_all.ipk
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 football
 Depends: enigma2
 Source: none
 Homepage: unknown
 OE: enigma2
-
 
 
 
