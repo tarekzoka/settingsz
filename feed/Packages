@@ -21,8 +21,8 @@ Depends: extensions
 Section: base
 Architecture: all
 MD5Sum: eafd652413e0b408fd8df5761b5a987a
-Size: 744
-Filename: enigma2-plugin-tarek.links-ipaudio_tarek-hanfy_all.ipk
+Size: 792
+Filename: enigma2-plugin-extensions-ipaudio_tarek-V6.6_all.ipk
 Description: plugin-extensions-ipaudio
 Maintainer: plugin-extensions-ipaudio
 Priority: optional
@@ -96,23 +96,6 @@ MD5Sum: f4d86d853536fb8152779657ab326c89
 Filename: enigma2-plugin-tarek.links-dreamsatpanel_tarek-hanfy-1.3_all
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 dreamsatpanel
-Depends: enigma2
-Source: none
-Homepage: unknown
-OE: enigma2
-
-
-Package: enigma2-plugin-extensions-footonsat_1.6
-Version: tarek-hanfy-v1.6
-Section: extensions
-Priority: optional
-Architecture: all
-MD5Sum: 04c90eaa3e86d8f06ad5def4a950e2d0
-Size: 4620624
-Filename: 
-enigma2-plugin-extensions-footonsat_1.6
-Maintainer: ziko & redouane
-Description: enigma2 plugin OE2.0 OE2.5 football
 Depends: enigma2
 Source: none
 Homepage: unknown
