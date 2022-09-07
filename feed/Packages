@@ -104,17 +104,19 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: T-SKIN_beta-pro-blue-posterx
-Version: tarek-hanfy
-Section: tarek links
+Package: enigma2-plugin-extensions-footonsat_1.6
+Version: tarek-hanfy-v1.6
+Section: extensions
 Priority: optional
 Architecture: all
-Size: 256
-MD5Sum: 8f5f88eed6ab1a667fd1b7ad3b338a9c
-Filename: T-SKIN_beta-pro-blue-posterx
+MD5Sum: 04c90eaa3e86d8f06ad5def4a950e2d0
+Size: 4620624
+Filename: 
+enigma2-plugin-extensions-footonsat_1.6
 Maintainer: ziko & redouane
-Description: enigma2 plugin OE2.0 OE2.5 posterx
+Description: enigma2 plugin OE2.0 OE2.5 football
 Depends: enigma2
 Source: none
 Homepage: unknown
 OE: enigma2
+
