@@ -16,13 +16,13 @@ OE: enigma2
 
 
 Package: enigma2-plugin-extensions-ipaudio
-Version: tarek-hanfy
+Version: tarek-v6.6
 Depends: extensions
 Section: base
 Architecture: all
 MD5Sum: 9a342e8bcabae0f9de1444d752abd3f1
-Size: 312856
-Filename: enigma2-plugin-extensions-ipaudio_tarek-V6.6_all.ipk
+Size: 312854
+Filename: enigma2-plugin-extensions-ipaudio_v6.6_all.ipk
 Description: enigma2 plugin OE2.0 OE2.5 ipaudio
 Maintainer: ziko & redouane
 Priority: optional
