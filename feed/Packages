@@ -132,3 +132,20 @@ Depends: enigma2
 Source: none
 Homepage: unknown
 OE: enigma2
+
+
+Package: enigma2-plugin-webadlinks-ch.league
+Version: tarek-v1.1
+Section: enigma2
+Priority: optional
+Architecture: all
+Size: 10571918
+MD5Sum: 4537f8bb36a77a1661e740e3cc98feb7
+Filename: enigma2-plugin-webadlinks-ch.league_v1.1_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ch.league
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
