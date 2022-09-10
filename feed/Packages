@@ -101,3 +101,19 @@ Source: none
 Homepage: unknown
 OE: enigma2
 
+
+Package: enigma2-plugin-extensions-betapro
+Version: tarek-v1.5
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 5569176
+MD5Sum: a24a36695e492da7320d2b686e9dacac
+Filename: enigma2-plugin-skins-betapro_v1.5_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 betapro
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
