@@ -134,14 +134,14 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-webadlinks-skins-ch.league
+Package: enigma2-plugin-xxxxxxxx
 Version: tarek-v1.1
 Section: enigma2
 Priority: optional
 Architecture: all
 Size: 10571918
 MD5Sum: 4537f8bb36a77a1661e740e3cc98feb7
-Filename: enigma2-plugin-webadlinks-ch.league_v1.1_all.ipk
+Filename: enigma2-plugin-xxxxxxxx.ipk
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 ch.league
 Depends: enigma2
@@ -150,14 +150,14 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-webadlinks--skins-ch.league
+Package: enigma2-plugin-xxxxxxxx
 Version: tarek-v1.1
 Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: 004d2939dee8f572cd9b380d57ea2173
 Size: 10572152
-Filename: enigma2-plugin-webadlinks--skins-ch.league_v1.1_all.ipk
+Filename: enigma2-plugin-xxxxxxxx.ipk
 Description: hazemwahba E2 Settings ch.league
 Maintainer: tarek
 Priority: optional
