@@ -134,7 +134,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-webadlinks-ch.league
+Package: enigma2-plugin-webadlinks-skins-ch.league
 Version: tarek-v1.1
 Section: enigma2
 Priority: optional
@@ -148,4 +148,21 @@ Depends: enigma2
 Source: none
 Homepage: unknown
 OE: enigma2
+
+
+Package: enigma2-plugin-webadlinks--skins-ch.league
+Version: tarek-v1.1
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 004d2939dee8f572cd9b380d57ea2173
+Size: 10572152
+Filename: enigma2-plugin-webadlinks--skins-ch.league_v1.1_all.ipk
+Description: hazemwahba E2 Settings ch.league
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
