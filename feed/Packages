@@ -117,3 +117,18 @@ Source: none
 Homepage: unknown
 OE: enigma2
 
+
+Package: enigma2-plugin-webtarek-worldcam
+Version: tarek-4.2_r5
+Section: webtarek
+Priority: optional
+Architecture: all
+Size: 538146
+MD5Sum: 6b3647baf6ca9b5a4d0c3f3002fae1ac
+Filename: enigma2-plugin-webtarek-worldcam_tarek-4.2_r5_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 worldcam
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
