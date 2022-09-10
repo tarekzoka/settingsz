@@ -102,7 +102,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-extensions-betapro
+Package: enigma2-plugin-skins-betapro
 Version: tarek-v1.5
 Section: tarek links
 Priority: optional
