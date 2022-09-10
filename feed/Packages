@@ -134,14 +134,14 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-xxxxxxxx
-Version: tarek-v1.1
+Package: enigma2-plugin-skins-betaposterx
+Version: tarek-v1.5
 Section: enigma2
 Priority: optional
 Architecture: all
-Size: 10571918
-MD5Sum: 4537f8bb36a77a1661e740e3cc98feb7
-Filename: enigma2-plugin-xxxxxxxx.ipk
+Size: 6259736
+MD5Sum: f9f69847ab14ba78c1c77cdbc214711a
+Filename: enigma2-plugin-skins-betaposterx_v1.5_all.ipk
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 ch.league
 Depends: enigma2
