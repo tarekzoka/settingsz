@@ -235,6 +235,198 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-extensions-e2iplayer-py3
+Version: tarek-py3.10_06
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 3d3854f5e9467776096850626d14d1c4
+Size: 14073624
+Filename: enigma2-plugin-extensions-e2iplayer-py3.10_06.07.2022_all.ipk
+Description: tarek E2 e2iplayer-py3
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-levi45multicamm
+Version: tarek-9.6-r1
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 3d3854f5e9467776096850626d14d1c4
+Size: 2206388
+Filename: enigma2-plugin-extensions-levi45multicamm_9.6-r1_all.ipk
+Description: tarek E2 levi45multicamm
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-plutotv_
+Version: tarek-plutotv
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: b86485fd0a361239208377ed2d1536c4
+Size: 2826410
+Filename: enigma2-plugin-extensions-plutotv_2022_all
+.ipk
+Description: tarek E2 plutotv
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-subssupport
+Version: tarek-1.5.8-r3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: f871696f831b661e3e029e0eed850423
+Size: 658792
+Filename: enigma2-plugin-extensions-subssupport_1.5.8-r3_all
+.ipk
+Description: tarek E2 subssupport
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-turkvod
+Version: tarek-12.00_PY3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 97bc0c4a4ab595b127bd1ad82311d9f6
+Size: 1894626
+Filename: enigma2-plugin-extensions-turkvod_12.00_PY3.all
+.ipk
+Description: tarek E2 turkvod
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensions-octagon-fhd
+Version: tarek-1.2v
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 08ffc4a7ca1e2a83c47d403a2655a41f
+Size: 27043062
+Filename: enigma2-plugin-skins-octagon-fhd-all_1.2v_all.ipk
+Description: tarek E2 octagon-fhd
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-oscam_11712
+Version: tarek-11712-emu
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 517a7434623a5260ab3072cbdd8b07ae
+Size: 3311254
+Filename: enigma2-plugin-softcams-gosat-oscam_11712-emu-r798_all
+.ipk
+Description: tarek E2 gosat-oscam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-ncam_V13
+Version: tarek-v3.71
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 7e9f126d3ba5c943efc3638664cecf2f
+Size: 4949386
+Filename: enigma2-plugin-softcams-ncam_V13.0-r0_all
+.ipk
+Description: tarek E2 ncam_V13
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-oscam_11712
+Version: tarek-11712-emu
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 2a5871200c87d055acdae400b34c37a6
+Size: 3313446
+Filename: enigma2-plugin-softcams-oscam_11712-emu-r798_all
+.ipk
+Description: tarek E2 oscam_11712
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-oscam-tnt_11.678
+Version: tarek-tnt_11.678
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: eb8b00d5a1f9f248d456986f16599691
+Size: 2272300
+Filename: enigma2-plugin-softcams-oscam-tnt_11.678-tnt_all
+.ipk
+Description: tarek E2 oscam-tnt_11.678
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensions-cccam-all-ima
+Version: tarek-cccam-239
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 21cf3cd1ee395adc6b5c739a36f8d7f7
+Size: 1411096
+Filename: enigma2-softcams-cccam-all-ima_239-r6-RAED_OE2.0_all
+.ipk
+Description: tarek E2 cccam-all-ima
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
 Package: enigma2-plugin-extensions-xxxxxxxxxx
 Version: tarek-v3.71
 Depends: enigma2
@@ -253,38 +445,8 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-xxxxxxxxxx
-Version: tarek-v3.71
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: 9f7f22f68b60e4bbf3f3ee476f95e63b
-Size: 2206388
-Filename: enigma2-plugin-extensions-xxxxxxxxxx
-.ipk
-Description: xstreamity E2 xstreamity
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
 
 
-Package: enigma2-plugin-extensions-xxxxxxxxxx
-Version: tarek-v3.71
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: 9f7f22f68b60e4bbf3f3ee476f95e63b
-Size: 2206388
-Filename: enigma2-plugin-extensions-xxxxxxxxxx
-.ipk
-Description: xstreamity E2 xstreamity
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
+
+
 
