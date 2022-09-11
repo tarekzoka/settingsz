@@ -453,7 +453,7 @@ Architecture: all
 MD5Sum: 05241f3266d14b8970ef766d0c4227e1
 Size: 100792
 Filename: enigma2-plugin-extensions-chocholou-picons_5.0.220121_all.ipk
-Description: tarek E2 picons_5.0
+Description: tarek E2 piconsMaintainer
 Maintainer: tarek
 Priority: optional
 Source: none
@@ -567,7 +567,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-op-artkoala
+Package: enigma2-plugin-skins-op-artkoala
 Version: tarek-op-artkoala
 Depends: enigma2
 Section: base
@@ -585,8 +585,8 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-elite-fhd
-Version: tarek-elite-fhd-all_1.3
+Package: enigma2-plugin-skins-elite-fhd
+Version: tarek-elite-fhd
 Depends: enigma2
 Section: base
 Architecture: all
@@ -618,3 +618,103 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+
+Package: enigma2-plugin-skins-ekselancexe-fhd
+Version: tarek-ekselancexe-fhd
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 28c317f234aa260fe396d53ca661a30c
+Size: 8092300
+Filename: enigma2-plugin-skins-ekselancexe-fhd-dragon-py3_4.0_all
+.ipk
+Description: tarek E2 ekselancexe-fhd
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-froid
+Version: tarek-froid_4.00
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 0371ecbd02144bd1060cfb7a2cb3183a
+Size: 2682686
+Filename: enigma2-plugin-skins-froid_4.00_all
+.ipk
+Description: tarek E2 froid
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-skins-KIII-PRO
+Version: tarek-KIII-PROv3.3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 3acd95a5115e26bb8672b14569e227e5
+Size: 22228532
+Filename: enigma2-plugin-skins-KIII-PRO-by-zelda77_v3.3_all
+.ipk
+Description: tarek E2 KIII-PRO
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-skins-metrixconfluencexp
+Version: tarek-metrixconfluencexp
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: ecd77ad0bde6a274b64bacda216be1e3
+Size: 14900518
+Filename: enigma2-plugin-skins-metrixconfluencexp-atv-dragon-lululla_1.1_all
+.ipk
+Description: tarek E2 metrixconfluencexp
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-skins-nacht
+Version: tarek-nachtv2..
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: da25f54c2768e003f2dfddf27d207bae
+Size: 7327828
+Filename: enigma2-plugin-skins-nacht_2.0_all.ipk
+Description: tarek E2 nacht
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+
+
+
+
+
