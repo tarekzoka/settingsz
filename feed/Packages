@@ -20,8 +20,8 @@ Version: tarek
 Depends: extensions
 Section: base
 Architecture: all
-MD5Sum: 2896de2e0047da179874178b07fd36a1
-Size: 1220
+MD5Sum: 9975b09a4ae117090df69e8dfa90ce3c
+Size: 1102
 Filename: enigma2-plugin-extensions-ipaudio_tarek_all.ipk
 Description: tarek OE2.0 OE2.5 tarek
 Maintainer: ziko & redouane
