@@ -150,15 +150,15 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-xxxxxxxx
-Version: tarek-v1.1
+Package: enigma2-plugin-extensions-xstreamity
+Version: tarek-v3.71
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 004d2939dee8f572cd9b380d57ea2173
-Size: 10572152
-Filename: enigma2-plugin-xxxxxxxx.ipk
-Description: hazemwahba E2 Settings ch.league
+MD5Sum: 9f7f22f68b60e4bbf3f3ee476f95e63b
+Size: 2206388
+Filename: enigma2-plugin-extensions-xstreamity_3.71.20220818_all.ipk
+Description: xstreamity E2 xstreamity
 Maintainer: tarek
 Priority: optional
 Source: none
