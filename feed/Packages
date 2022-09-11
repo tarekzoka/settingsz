@@ -445,7 +445,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-chocholou-picons
+Package: enigma2-plugin-picons-chocholou-picons
 Version: tarek-picons_5.0
 Depends: enigma2
 Section: base
