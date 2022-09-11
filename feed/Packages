@@ -427,16 +427,16 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-xxxxxxxxxx
-Version: tarek-v3.71
+Package: enigma2-plugin-extensions-bootlogoswapper-Kids
+Version: tarek-v2.4
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 9f7f22f68b60e4bbf3f3ee476f95e63b
-Size: 2206388
-Filename: enigma2-plugin-extensions-xxxxxxxxxx
+MD5Sum: 2d91aefe2ee3732237d46b1016e3ed1f
+Size: 16613430
+Filename: enigma2-plugin-extensions-bootlogoswapper-Kids_v2.4_all
 .ipk
-Description: xstreamity E2 xstreamity
+Description: tarek E2 bootlogoswapper-Kids
 Maintainer: tarek
 Priority: optional
 Source: none
@@ -445,8 +445,176 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-extensions-chocholou-picons
+Version: tarek-picons_5.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 05241f3266d14b8970ef766d0c4227e1
+Size: 100792
+Filename: enigma2-plugin-extensions-chocholou-picons_5.0.220121_all.ipk
+Description: tarek E2 picons_5.0
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
+Package: enigma2-plugin-extensions-clearmem
+Version: tarek-clearmem_1.10_
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 09efd081efff3f2420f0bedccb9240ba
+Size: 11360
+Filename: enigma2-plugin-extensions-clearmem_1.10_all
+.ipk
+Description: tarek E2 clearmem
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
+Package: enigma2-plugin-extensions-crashlogviewer
+Version: tarek-0.4
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 7d89e9fdb861dc1c4d4e61ec1ec3e387
+Size: 21580
+Filename: enigma2-plugin-extensions-crashlogviewer_0.4_all
+.ipk
+Description: tarek E2 crashlogviewer
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
+
+Package: enigma2-plugin-extensions-openwebif
+Version: tarek-v1.5.2
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9cedef397a9a2a55f71a5ede2dbcf3f0
+Size: 13099480
+Filename: enigma2-plugin-extensions-openwebif_1.5.2-git20220905-r4_all.ipk
+Description: tarek E2 openwebif
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensions-sateditor
+Version: tarek-v3.3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9f347161c6b421f6f6d45792d7a6baee
+Size: 29980
+Filename: enigma2-plugin-extensions-sateditor_3.3_all
+.ipk
+Description: tarek E2 sateditor
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-theweather
+Version: tarek-py2_2.3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 874ef8a584752e04b85f53512e0d80c6
+Size: 7249602
+Filename: enigma2-plugin-extensions-theweather-py2_2.3_all
+.ipk
+Description: tarek E2 theweather
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-youtube
+Version: tarek-youtube_1
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5f2abd5c51192089a02e72e29d9448a9
+Size: 92784
+Filename: enigma2-plugin-extensions-youtube_1+git1024+166a88b-r0.0_mips32el.ipk
+Description: tarek E2 youtube
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-op-artkoala
+Version: tarek-op-artkoala
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: d6a00d3711b9fcd8c3150a7f8d13a4f7
+Size: 41181524
+Filename: enigma2-plugin-skin-op-artkoala_SKIN-2-OP-ARTKOALA_all
+.ipk
+Description: tarek E2 op-artkoala
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-elite-fhd
+Version: tarek-elite-fhd-all_1.3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 0b17b6d83cbd7e9aaaab8041f8b1787c
+Size: 11607642
+Filename: enigma2-plugin-skins-elite-fhd-all_1.3_all
+.ipk
+Description: tarek E2 elite-fhd
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-filemanager
+Version: tarek-filemanager2.2
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 0df97e5485421737ff24211be1a849f3
+Size: 680418
+Filename: enigma2-plugin-systemplugins-filemanager-_2.2-r0_mips32el.ipk
+Description: tarek E2 filemanager
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
