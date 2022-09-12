@@ -734,9 +734,9 @@ Version: tarek-nuke.fhd
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 5530b1a16404704376da94d8af2b31687
-Size: 870
-Filename: enigma2-plugin-skins-nuke.fhd_tarek_all.ipk
+MD5Sum: fcfab0c64ced91c3e16a8ef3cad0bf52
+Size: 888
+Filename: enigma2-plugin-skins-nuke.fhd_tarek_all
 Description: tarek E2 nuke.fhd
 Maintainer: tarek
 Priority: optional
