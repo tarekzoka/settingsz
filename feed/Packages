@@ -729,6 +729,21 @@ Homepage: unknown
 OE: enigma2
 License: none
 
+Package: enigma2-plugin-skins-nuke.fhd
+Version: tarek-nuke.fhd
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5530b1a16404704376da94d8af2b31687
+Size: 870
+Filename: enigma2-plugin-skins-nuke.fhd_tarek_all.ipk
+Description: tarek E2 nuke.fhd
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 
