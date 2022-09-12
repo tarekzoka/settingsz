@@ -15,13 +15,13 @@ OE: enigma2
 
 
 
-Package: enigma2-plugin-extensions-ipaudio
+Package: enigma2-plugin-extensions-IPAudio
 Version: tarek
 Depends: extensions
 Section: base
 Architecture: all
 MD5Sum: e8802dc1671069543c915d063b26aa47
-Size: 880
+Size: 1424
 Filename: enigma2-plugin-extensions-ipaudio_tarek_all.ipk
 Description: tarek OE2.0 OE2.5 ipaudio
 Maintainer: ziko & redouane
