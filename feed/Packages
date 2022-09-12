@@ -718,9 +718,9 @@ Version: tarek-xtraevent
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: f59a74ec60f81c56284502c351bbb057
-Size: 874
-Filename: enigma2-plugin-extensions-xtraevent-4.2_tarek_all.ipk
+MD5Sum: b688ccf7ecdea40745fdacb66c0aa6e7
+Size: 892
+Filename: enigma2-plugin-extensions-xtraevent_tarek_all.ipk
 Description: tarek E2 xtraevent
 Maintainer: tarek
 Priority: optional
