@@ -713,6 +713,21 @@ License: none
 
 
 
+Package: enigma2-plugin-extensions-xtraevent 
+Version: tarek-xtraevent
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: f59a74ec60f81c56284502c351bbb057
+Size: 874
+Filename: enigma2-plugin-extensions-xtraevent-4.2_tarek_all.ipk
+Description: tarek E2 xtraevent
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 
