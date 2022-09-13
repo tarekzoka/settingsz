@@ -20,10 +20,10 @@ Version: tarek
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: b2d15d2dc3fa1b52ce0dd41c10eeb360
-Size: 886
-Filename: enigma2-plugin-extensions-ipaudio_tarek_all.ipk
-Description: tarek tarek
+MD5Sum: c26993457609774bcb19940772953b73
+Size: 948
+Filename: enigma2-plugin-extensions-ipaudio_tarek-ipaudio_all.ipk
+Description: tarek ipaudio
 Maintainer: tarek
 Priority: optional
 Source: none
