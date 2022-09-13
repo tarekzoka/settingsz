@@ -764,7 +764,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-channel-romeh
+Package: enigma2-plugin-settings-Channel-romeh
 Version: tarek-channel-romeh
 Depends: enigma2
 Section: base
@@ -780,5 +780,52 @@ Homepage: unknown
 OE: enigma2
 License: none
 
+Package: enigma2-plugin-settings-Channel-mahmoudsaad
+Version: tarek-channel-mahmoudsaad
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9116064f84490f3b525ee24163d83cb5
+Size: 1052
+Filename: enigma2-plugin-extensions-channel-mahmoudsaad_tarek-channel-mahmoudsaad_all.ipk.ipk
+Description: tarek E2 channel-mahmoudsaad
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
+Package: enigma2-plugin-settings-Channel-khaled
+Version: tarek-channel-khaled
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: f5441e2addbbf9e60904b698a8caa4f8
+Size: 986
+Filename: enigma2-plugin-extensions-channel-khaled_tarek-channel-khaled_all.ipk
+Description: tarek E2 channel-romeh
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settings-Channel-goda
+Version: tarek-channel-goda
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 69933ab04ba350ddfe45390882df0b09
+Size: 952
+Filename: enigma2-plugin-extensions-channel-goda_tarek-channel-goda_all.ipk
+Description: tarek E2 channel-goda
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
