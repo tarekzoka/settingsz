@@ -853,7 +853,7 @@ Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: e3a4e21d5ac00eea5270010d1c574610
-9c26fSize: 876
+9c26fSize: 886
 Filename: enigma2-plugin-extensions-quran_tarek-Quran_all.ipk
 Description: tarek Quran
 Maintainer: tarek
