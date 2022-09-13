@@ -21,7 +21,7 @@ Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: c26993457609774bcb19940772953b73
-Size: 948
+Size: 920
 Filename: enigma2-plugin-extensions-ipaudio_tarek-ipaudio_all.ipk
 Description: tarek ipaudio
 Maintainer: tarek
