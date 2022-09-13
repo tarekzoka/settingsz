@@ -852,9 +852,9 @@ Version: tarek
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 8d8b822200f2fce5f357298de8cebfdf
-9c26fSize: 968
-Filename: enigma2-plugin-extensions-quran_tarek-Quran_all.ipk.ipk
+MD5Sum: e3a4e21d5ac00eea5270010d1c574610
+9c26fSize: 912
+Filename: enigma2-plugin-extensions-quran_tarek-Quran_all.ipk
 Description: tarek Quran
 Maintainer: tarek
 Priority: optional
