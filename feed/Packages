@@ -829,3 +829,19 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+Package: enigma2-plugin-settings-Channel-ashrey
+Version: tarek-channel-ashrey
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 6511f68a7760defada5a03ae95d8dc19
+Size: 1024
+Filename: enigma2-plugin-extensions-channel-tarekashrey_tarek-channel-ashrey_all.ipk
+Description: tarek E2 channel-ashrey
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
