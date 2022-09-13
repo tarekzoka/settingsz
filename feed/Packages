@@ -747,5 +747,20 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-nitroadvanced
+Version: tarek-nitroadvanced
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 55e1d6485c8687c88ce68473fb7045cc
+Size: 894
+Filename: enigma2-plugin-skins-nitroadvanced_tarekv5.4_all.ipk
+Description: tarek E2 nitroadvanced
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
