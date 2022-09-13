@@ -764,3 +764,21 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-extensions-channel-romeh
+Version: tarek-channel-romeh
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: fa7fe2c459d1f34c54677d592734748b
+Size: 1016
+Filename: enigma2-plugin-extensions-channel-romeh_tarek-channel-romeh_all.ipk
+Description: tarek E2 channel-romeh
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
