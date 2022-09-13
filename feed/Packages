@@ -847,24 +847,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-Quran
-Version: tarek
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: e3a4e21d5ac00eea5270010d1c574610
-9c26fSize: 886
-Filename: enigma2-plugin-extensions-quran_tarek-Quran_all.ipk
-Description: tarek Quran
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-extensions-quran-karim
+Package: enigma2-plugin-extensions-Quran-karim
 Version: tarek-tarek
 Depends: enigma2
 Section: base
