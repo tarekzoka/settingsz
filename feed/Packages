@@ -864,3 +864,18 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-extensions-quran-karim
+Version: emil-nabil
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 6fd4d5d7ece2162aa655e8878dcfc49e
+Size: 4425580
+Filename: enigma2-plugin-extensions-quran-karim_emil-nabil_all.ipk
+Description: Quran-karim
+Maintainer: emil
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
