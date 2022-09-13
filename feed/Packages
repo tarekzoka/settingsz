@@ -845,3 +845,22 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+
+Package: enigma2-plugin-extensions-Quran
+Version: tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 8110acf8de4527d636532aa9595c3ba7
+9c26fSize: 3520616
+Filename: enigma2-plugin-extensions-Quran_20200407-r1.0_all.ipk
+Description: tarek Quran
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
