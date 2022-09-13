@@ -862,3 +862,20 @@ Source: none
 Homepage: emil
 License: none
 OE: none
+
+
+Package: enigma2-plugin-extensions-AutomaticVolume-reslution
+Version: tarek-tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 4c7f76dcba0119240cd681ff94a1f550
+Size: 33784
+Filename: enigma2-systemplugins-auto_1.2_all.ipk
+Description: AutomaticVolume-reslution
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
