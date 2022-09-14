@@ -879,3 +879,24 @@ Source: none
 Homepage: emil
 License: none
 OE: none
+
+
+
+Package: enigma2-plugin-extensions-Arabicsavior
+Version: tarek-arabicsavior
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: d4277f981e0739f709abe159821f1fcb
+Size: 2634374
+Filename: enigma2-plugin-extensions-arabicsavior_all.ipk
+Description: arabicsavior
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
+
+
+
