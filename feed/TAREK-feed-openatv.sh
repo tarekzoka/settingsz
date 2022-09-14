@@ -1,22 +1,15 @@
+echo
 #!/bin/sh
 
 #
 #############################################################
 ###########################################
 wget -O /etc/opkg/settingsz.conf https://raw.githubusercontent.com/tarekzoka/settingsz/main/feed/settingsz.conf
-
-
-echo "     DOWNLOADING FEED TAREK OK "
 wait
+opkg update
 echo ""
 echo "##############################################################"
-opkg update
-echo "##############################################################"
-echo "**************************************************************"
-echo "   UPLOADED SCRIPT  BY  >>>>   TAREK_TAREK "   
-sleep 4;                                                                                                                  
-echo "**********************************************************************************"
-wait
+killall -9 enigma2
 exit 0
 
 
