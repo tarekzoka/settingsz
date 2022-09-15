@@ -323,7 +323,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-octagon-fhd
+Package: enigma2-plugin-skins-A-octagon-fhd
 Version: tarek-1.2v
 Depends: enigma2
 Section: base
@@ -915,6 +915,22 @@ License: none
 OE: none
 
 
+
+Package: enigma2-plugin-extensions-A-ipaudio.json.shwky
+Version: tarek-json.shwky
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 4286b03cdac58a64ca3d31f9ffa75b54
+Size: 818
+Filename: enigma2-plugin-extensions-ipaudio.json.shwky_tarek-json.shwky_all.ipk
+Description: json.shwky
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
 
 
 
