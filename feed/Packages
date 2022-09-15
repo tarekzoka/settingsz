@@ -903,8 +903,8 @@ Version: tarek-tarek
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 33db981a620c75256961b8b5156741da
-Size: 816
+MD5Sum: accfa0db470cb45b89616486491e2545
+Size: 818
 Filename: enigma2-plugin-extensions-automaticvolumeadjustment_tarek-automaticvolumeadjustment_all.ipk
 Description: automaticvolumeadjustment
 Maintainer: tarek
