@@ -34,7 +34,7 @@ License: none
 
 
 
-Package: enigma2-plugin-extensions-A-A-iptosat-v1.8
+Package: enigma2-plugin-extensions-A-iptosat-v1.8
 Version: tarek-hanfy
 Depends: exteplayer3 , gstplayer
 Section: base
@@ -119,7 +119,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-extensions-A-A-worldcam
+Package: enigma2-plugin-extensions-A-worldcam
 Version: tarek-4.2_r5
 Section: enigma2
 Priority: optional
@@ -202,7 +202,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-A-xcplugin-forever
+Package: enigma2-plugin-extensions-A-xcplugin-forever
 Version: tarek-v2.2
 Depends: enigma2
 Section: base
@@ -340,7 +340,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-A-oscam_11712
+Package: enigma2-plugin-extensions-A-oscam_11712
 Version: tarek-11712-emu
 Depends: enigma2
 Section: base
@@ -551,7 +551,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-A-youtube
+Package: enigma2-plugin-extensions-A-youtube
 Version: tarek-youtube_1
 Depends: enigma2
 Section: base
@@ -696,8 +696,8 @@ License: none
 
 
 
-Package: enigma2-plugin-skins-A-A-nacht
-Version: tarek-nachtv2..
+Package: enigma2-plugin-skins-A-nacht
+Version: tarek-nacht v2.0
 Depends: enigma2
 Section: base
 Architecture: all
