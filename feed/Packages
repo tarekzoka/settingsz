@@ -864,24 +864,6 @@ License: none
 OE: none
 
 
-Package: enigma2-plugin-extensions-AutomaticVolume-reslution
-Version: tarek-tarek
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: 4c7f76dcba0119240cd681ff94a1f550
-Size: 33784
-Filename: enigma2-systemplugins-auto_1.2_all.ipk
-Description: AutomaticVolume-reslution
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: emil
-License: none
-OE: none
-
-
-
 Package: enigma2-plugin-extensions-A-Arabicsavior
 Version: tarek-arabicsavior
 Depends: enigma2
@@ -897,6 +879,42 @@ Source: none
 Homepage: emil
 License: none
 OE: none
+
+
+Package: enigma2-plugin-extensions-A-autoresolution
+Version: tarek-autoresolution
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 0d1c2004d17cf54f4f955fb5d38e333d
+Size: 800
+Filename: enigma2-plugin-extensions-autoresolution_tarek-AutoResolution_all.ipk
+Description: autoresolution
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
+
+
+Package: enigma2-plugin-extensions-A-automaticvolumeadjustment
+Version: tarek-tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 33db981a620c75256961b8b5156741da
+Size: 816
+Filename: enigma2-plugin-extensions-automaticvolumeadjustment_tarek-automaticvolumeadjustment_all.ipk
+Description: automaticvolumeadjustment
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
+
+
 
 
 
