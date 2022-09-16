@@ -103,7 +103,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-skins-A-betapro
+Package: enigma2-plugin-skins-A-beta-pro
 Version: tarek-v1.5
 Section: tarek links
 Priority: optional
@@ -135,7 +135,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-skins-A-betaposterx
+Package: enigma2-plugin-skins-A-beta-posterx
 Version: tarek-v1.5
 Section: enigma2
 Priority: optional
@@ -488,8 +488,7 @@ Section: base
 Architecture: all
 MD5Sum: 7d89e9fdb861dc1c4d4e61ec1ec3e387
 Size: 21580
-Filename: enigma2-plugin-extensions-crashlogviewer_0.4_all
-.ipk
+Filename: enigma2-plugin-extensions-crashlogviewer_0.4_all.ipk
 Description: tarek E2 crashlogviewer
 Maintainer: tarek
 Priority: optional
