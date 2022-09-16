@@ -53,7 +53,7 @@ OE: enigma2
 
 
 Package: enigma2-plugin-extensions-A-ajpanel
-Version: tarek-hanfy
+Version: tarek-ajpanel-v7.00
 Section: tarek links
 Priority: optional
 Architecture: all
@@ -1148,4 +1148,35 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+Package: enigma2-plugin-extensions-A-ajpanel
+Version: tarek-ajpanel-v5.50
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 250184
+MD5Sum: 4b4a1d97bddf4eda1a4bc532793e7720
+Filename: enigma2-plugin-extensions-ajpanel_v5.5.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensions-A-feeds-finder
+Version: tarek-feeds-finder-V1.6
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 1220226
+MD5Sum: 6094cba624fea49f8069e38f898fc94b
+Filename: feeds-finder_20201016-V1.6-momi133-OE2_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 afinder
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
 
