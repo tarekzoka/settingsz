@@ -1017,7 +1017,21 @@ OE: enigma2
 License: none
 
 
-
+Package: enigma2-plugin-extensions-A-bootlogoswapper1
+Version: tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 6275e29e0a6b142790c16b96f8e9cc79
+Size: 846
+Filename: enigma2-plugin-extensions-bootlogoswapper1_tarek_all.ipk
+Description: tarek bootlogoswapper1
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 
