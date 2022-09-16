@@ -1220,7 +1220,7 @@ Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: e2d2b54e2da486dccdded932289c2796
-Size: 864
+Size: 866
 Filename: enigma2-plugin-extensions-picon-nile-sat_tarek_all.ipk
 Description: tarek E2 nile-sat
 Maintainer: tarek
