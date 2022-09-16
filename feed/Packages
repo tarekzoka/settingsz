@@ -1197,7 +1197,7 @@ OE: enigma2
 
 
 Package: enigma2-plugin-picons-A-picon-all-sat
-Version: tarek-picon-nilesat
+Version: tarek-picon-all-sat
 Depends: enigma2
 Section: base
 Architecture: all
@@ -1211,4 +1211,26 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+
+
+Package: enigma2-plugin-picons-A-picon-nile-sat
+Version: tarek-picon-nile-sat
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: e2d2b54e2da486dccdded932289c2796
+Size: 864
+Filename: enigma2-plugin-extensions-picon-nile-sat_tarek_all.ipk
+Description: tarek E2 nile-sat
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+
 
