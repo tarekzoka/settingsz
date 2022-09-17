@@ -1048,7 +1048,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-ansite
+Package: enigma2-plugin-tarek-A-ansite
 Version: tarek-ansite_1.5
 Depends: enigma2
 Section: base
