@@ -1048,15 +1048,15 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-trek-A-ansite
-Version: tarek-ansite_1.5
+Package: enigma2-plugin-tarek-A-fontmagnifier
+Version: tarek-fontmagnifier
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: f5b72041c73593b72b51312e311b5f2b
-Size: 3974922
-Filename: enigma2-plugin-extensions-ansite_1.5_all.ipk
-Description: tarek ansite
+MD5Sum: 22c5824ca9335dc13d9b64119d296ca5
+Size: 23538
+Filename: enigma2-plugin-tarek-fontmagnifier_0.6.1_all.ipk
+Description: tarek fontmagnifier
 Maintainer: tarek
 Priority: optional
 Source: none
