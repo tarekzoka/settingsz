@@ -356,7 +356,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-oscam_11712
+Package: enigma2-plugin-softcams-A-oscam_11712
 Version: tarek-11712-emu
 Depends: enigma2
 Section: base
@@ -374,7 +374,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-ncam_V13
+Package: enigma2-plugin-softcams-A-ncam_V13
 Version: tarek-v3.71
 Depends: enigma2
 Section: base
@@ -392,7 +392,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-oscam_11712
+Package: enigma2-plugin-softcams-A-oscam_11712
 Version: tarek-11712-emu
 Depends: enigma2
 Section: base
