@@ -1212,16 +1212,14 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-
-
-Package: enigma2-plugin-picons-A-picon-nile-sat
-Version: tarek-picon-nile-sat
+Package: enigma2-plugin-picons-A-picon-enigma2-nile-sat
+Version: tarek-picon-enigma2-nile-sat
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: e2d2b54e2da486dccdded932289c2796
-Size: 866
-Filename: enigma2-plugin-extensions-picon-nile-sat_tarek_all.ipk
+MD5Sum: 884B213A49E1D36F57ADF276BADBC8F7
+Size: 1074
+Filename: enigma2-plugin-extensions-picon-enigma2-nile-sat_tarek_all.ipk
 Description: tarek E2 nile-sat
 Maintainer: tarek
 Priority: optional
@@ -1231,6 +1229,39 @@ OE: enigma2
 License: none
 
 
+
+Package: enigma2-plugin-picons-A-picon-hdd-nile.sat
+Version: tarek-picon-hdd-nile.sat
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 477B8AD5A322E85AD74AD2D2DB889603
+Size: 1072
+Filename: enigma2-plugin-extensions-picon-hdd-nile.sat_tarek_all.ipk
+Description: tarek E2 nile-sat
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-A-EPGGrabber-osn
+Version: tarek-EPGGrabber
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: F51944AEC5F4408E1B4ED5DEFF80C179
+Size: 1100
+Filename: enigma2-plugin-extensions-epggrabber-osn_tarek_all.ipk
+Description: tarek EPGGrabber
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 
