@@ -1217,9 +1217,9 @@ Version: tarek-picon-enigma2-nile-sat
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: b3ea75fe7580b6e8c928aba3863af9c8
-Size: 1072
-Filename: enigma2-plugin-extensions-picon-share-enigma2-nile-sat_tarek_all.ipk
+MD5Sum: 9ac115d0e4805b56a15421737a1964bd
+Size: 900
+Filename: enigma2-plugin-extensions-picon-share-enigma2-nile_tarek_all.ipk
 Description: tarek E2 nile-sat
 Maintainer: tarek
 Priority: optional
@@ -1235,9 +1235,9 @@ Version: tarek-picon-hdd-nile.sat
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 2bba5e865736a984fbdceb20d430ee2a
-Size: 1072
-Filename: enigma2-plugin-extensions-picon-hdd-nile.sat_tarek_all.ipk
+MD5Sum: f51944aec5f4408e1b4ed5deff80c179
+Size: 904
+Filename: enigma2-plugin-extensions-picon-hdd-nile_tarek_all.ipk
 Description: tarek E2 nile-sat
 Maintainer: tarek
 Priority: optional
