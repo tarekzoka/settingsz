@@ -1048,13 +1048,13 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-tarek-A-fontmagnifier
+Package: enigma2-plugin-tarek-fontmagnifier
 Version: tarek-fontmagnifier
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 22c5824ca9335dc13d9b64119d296ca5
-Size: 23538
+MD5Sum: b131fae0883cc20b47391cfd54019150
+Size: 24310
 Filename: enigma2-plugin-tarek-fontmagnifier_0.6.1_all.ipk
 Description: tarek fontmagnifier
 Maintainer: tarek
