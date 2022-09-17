@@ -1048,7 +1048,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-tarek-fontmagnifier
+Package: enigma2-plugin-emil-fontmagnifier
 Version: tarek-fontmagnifier
 Depends: enigma2
 Section: base
