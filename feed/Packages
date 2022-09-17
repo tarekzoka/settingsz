@@ -1252,7 +1252,7 @@ Version: tarek-EPGGrabber
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: F51944AEC5F4408E1B4ED5DEFF80C179
+MD5Sum: f51944aec5f4408e1b4ed5deff80c179
 Size: 1100
 Filename: enigma2-plugin-extensions-epggrabber-osn_tarek_all.ipk
 Description: tarek EPGGrabber
