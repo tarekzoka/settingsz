@@ -1396,3 +1396,18 @@ Homepage: unknown
 OE: enigma2
 License: none
 
+Package: enigma2-plugin-emil-opkg-tools
+Version: tarek-opkg-tools
+Depends: enigma2
+Section: emil
+Architecture: all
+MD5Sum: ea6f100275d8ba254c6b9bb82fe5df7e
+Size: 353354
+Filename: enigma2-plugin-emil-opkg-tools_1.4_all.ipk
+Description: tarek opkg-tools
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
