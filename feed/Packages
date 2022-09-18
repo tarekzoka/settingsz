@@ -410,7 +410,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-oscam-tnt_11.678
+Package: enigma2-plugin-softcams-A-oscam-tnt_11.678
 Version: tarek-tnt_11.678
 Depends: enigma2
 Section: base
