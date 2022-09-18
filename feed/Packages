@@ -1264,15 +1264,131 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-webtarek-fontmagnifier
-Version: tarek-fontmagnifier
+Package: enigma2-plugin-softcams-A-oscam-revcam
+Version: tarek-oscam-revcam
 Depends: enigma2
-Section: webtarek
+Section: weblinks
 Architecture: all
-MD5Sum: b131fae0883cc20b47391cfd54019150
-Size: 24310
-Filename: enigma2-plugin-webtarek-fontmagnifier_0.6.1_all.ipk
-Description: tarek fontmagnifier
+MD5Sum: c34944f6e0a1be6a29a0065a8aa453ef
+Size: 3507692
+Filename: 7-enigma2-plugin-softcams-A-oscam-revcam_11.703_all.ipk
+Description: oscam-revcam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-weblinks-A-oscam-revcam
+Version: tarek-oscam-revcam
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: c34944f6e0a1be6a29a0065a8aa453ef
+Size: 3507692
+Filename: 7-enigma2-plugin-weblinks-A-oscam-revcam_11.703_all.ipk
+Description: oscam-revcam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-softcams-A-ncam-revcam
+Version: tarek-ncam-revcam
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d31c738e1a87d70361924961a006a007
+Size: 4299794`
+Filename: 8-enigma2-plugin-softcams-ncam-revcam_12.4_all.ipk
+Description: tarek ncam-revcam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-weblinks-A-ncam-revcam
+Version: tarek-ncam-revcam
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d31c738e1a87d70361924961a006a007
+Size: 4299794`
+Filename: 8-enigma2-plugin-weblinks-ncam-revcam_12.4_all.ipk
+Description: tarek ncam-revcam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensions-A-linuxsat-active-code
+Version: tarek-linuxsat-active
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: df7eb0c722cbfdac43a06ecb12a7b197
+Size: 2206832
+Filename: enigma2-plugin-extensions-linuxsat-active-code-addons-panel_v2.2F_all.ipk
+Description: tarek linuxsat-active
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-A-linuxsat-active-code
+Version: tarek-linuxsat-active
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: df7eb0c722cbfdac43a06ecb12a7b197
+Size: 2206832
+Filename: enigma2-plugin-weblinks-linuxsat-active-code-addons-panel_v2.2F_all.ipk
+Description: tarek linuxsat-active
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-opkg-tools
+Version: tarek-opkg-tools
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: ea6f100275d8ba254c6b9bb82fe5df7e
+Size: 353354
+Filename: enigma2-plugin-extensions-opkg-tools_1.4_all.ipk
+Description: tarek opkg-tools
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-opkg-tools
+Version: tarek-opkg-tools
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: ea6f100275d8ba254c6b9bb82fe5df7e
+Size: 353354
+Filename: enigma2-plugin-weblinks-opkg-tools_1.4_all.ipk
+Description: tarek opkg-tools
 Maintainer: tarek
 Priority: optional
 Source: none
