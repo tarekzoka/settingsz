@@ -829,7 +829,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-settings-Channel-goda
+Package: enigma2-plugin-settings-A-Channel-goda
 Version: tarek-channel-goda
 Depends: enigma2
 Section: base
