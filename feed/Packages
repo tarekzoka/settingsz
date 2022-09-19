@@ -1428,7 +1428,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-bissfeed-autokey
+Package: enigma2-plugin-extensions-A-bissfeed-autokey-py2
 Version: tarek-bissfeed-autokey
 Depends: enigma2
 Section: trek
@@ -1444,7 +1444,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-bissfeed-autokey
+Package: enigma2-plugin-extensions-A-bissfeed-autokey-py3
 Version: tarek-bissfeed-autokey
 Depends: enigma2
 Section: trek
