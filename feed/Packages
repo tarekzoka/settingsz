@@ -1419,7 +1419,7 @@ Section: trek
 Architecture: all
 MD5Sum: 119a8a90f3b61812f06e2adff138e973
 Size: 3020602
-Filename: enigma2-plugin-extensions-ansite-quraan-1.3-py2_tarek_all.ipk
+Filename: enigma2-plugin-extensions-ansite-quraan-1.3_all.ipk
 Description: tarek ansite-quraan
 Maintainer: tarek
 Priority: optional
@@ -1451,7 +1451,7 @@ Section: trek
 Architecture: all
 MD5Sum: 96a67502e40a7ddfaaa854ca3f3b9927
 Size: 2814104
-Filename: enigma2-plugin-extensions-bissfeed-autokey-py3_tarek_all.ipk
+Filename: enigma2-plugin-extensions-bissfeed-autokey-_all.ipk
 Description: tarek bissfeed-autokey
 Maintainer: tarek
 Priority: optional
@@ -1476,21 +1476,3 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
-
-Package: enigma2-plugin-settings-A-hazemwahba.motor
-Version: tarek-hazemwahba.motor
-Depends: enigma2
-Section: trek
-Architecture: all
-MD5Sum: a4085845ea56d6884dc52f020ff001bd
-Size: 2372
-Filename: enigma2-plugin-settings-Channel-hazemwahba.motor_tarek_all.ipk
-Description: tarek hazemwahba.motor
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
