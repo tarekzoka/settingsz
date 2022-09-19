@@ -1491,7 +1491,6 @@ Source:
 Homepage: 
 
 
-
 Package: enigma2-plugin-extensions-A-ansite-quraan-1.4-py3
 Version: tarek-tarek
 Section: external
@@ -1506,4 +1505,15 @@ Source:
 Homepage:
 
 
-
+Package: enigma2-plugin-settings-A-hazemwahba.motor
+Version: tarek-tarek
+Section: external
+Priority: optional
+Architecture: all
+MD5Sum: 24ab6bef15fdd80a604078ea3aaf1e29
+Size: 2508
+Filename: enigma2-plugin-settings-channel-hazemwahba.motor_tarek-tarek_all.ipk
+Maintainer: AbouYacine
+Description: ansite-by-aime-jeux
+Source: 
+Homepage:
