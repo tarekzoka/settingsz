@@ -1433,9 +1433,9 @@ Version: tarek-bissfeed-autokey
 Depends: enigma2
 Section: trek
 Architecture: all
-MD5Sum: 34c9fbe6a96ff01776ffdcc75299ddba
-Size: 11617630
-Filename: enigma2-plugin-extensions-bissfeed-autokey-py2_tarek_all.ipk
+MD5Sum: d01a35174ec07ac41ee4b1dab8e1a2f3
+Size: 11617804
+Filename: enigma2-plugin-extensions-bissfeed-autokey-py2_tarek-tarek_all.ipk
 Description: tarek bissfeed-autokey
 Maintainer: tarek
 Priority: optional
@@ -1449,9 +1449,9 @@ Version: tarek-bissfeed-autokey
 Depends: enigma2
 Section: trek
 Architecture: all
-MD5Sum: 96a67502e40a7ddfaaa854ca3f3b9927
-Size: 2814104
-Filename: enigma2-plugin-extensions-bissfeed-autokey-_all.ipk
+MD5Sum: 7ba13e277dc0b556af2718ed1f81f837
+Size: 2800632
+Filename: enigma2-plugin-extensions-bissfeed-autokey-py3_tarek-tarek_all.ipk
 Description: tarek bissfeed-autokey
 Maintainer: tarek
 Priority: optional
