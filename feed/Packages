@@ -1396,14 +1396,14 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-trek-opkg-tools
+Package: enigma2-plugin-trek-A-opkg-tools
 Version: tarek-opkg-tools
 Depends: enigma2
 Section: trek
 Architecture: all
-MD5Sum: ea6f100275d8ba254c6b9bb82fe5df7e
-Size: 353354
-Filename: enigma2-plugin-trek-opkg-tools_1.4_all.ipk
+MD5Sum: d5ded576fac3f8a15a9ad663fb47add4
+Size: 351970
+Filename: enigma2-plugin-trek-opkg-tools_tarek_all.ipk
 Description: tarek opkg-tools
 Maintainer: tarek
 Priority: optional
@@ -1411,3 +1411,86 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+Package: enigma2-plugin-extensions-A-ansite-quraan
+Version: tarek-ansite-quraan
+Depends: enigma2
+Section: trek
+Architecture: all
+MD5Sum: 119a8a90f3b61812f06e2adff138e973
+Size: 3020602
+Filename: enigma2-plugin-extensions-ansite-quraan-1.3-py2_tarek_all.ipk
+Description: tarek ansite-quraan
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensions-A-bissfeed-autokey
+Version: tarek-bissfeed-autokey
+Depends: enigma2
+Section: trek
+Architecture: all
+MD5Sum: 34c9fbe6a96ff01776ffdcc75299ddba
+Size: 11617630
+Filename: enigma2-plugin-extensions-bissfeed-autokey-py2_tarek_all.ipk
+Description: tarek bissfeed-autokey
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensions-A-bissfeed-autokey
+Version: tarek-bissfeed-autokey
+Depends: enigma2
+Section: trek
+Architecture: all
+MD5Sum: 96a67502e40a7ddfaaa854ca3f3b9927
+Size: 2814104
+Filename: enigma2-plugin-extensions-bissfeed-autokey-py3_tarek_all.ipk
+Description: tarek bissfeed-autokey
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-A-opkg-tools
+Version: tarek-opkg-tools
+Depends: enigma2
+Section: trek
+Architecture: all
+MD5Sum: d5ded576fac3f8a15a9ad663fb47add4
+Size: 351970
+Filename: enigma2-plugin-extensions-opkg-tools_tarek_all.ipk
+Description: tarek opkg-tools
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-settings-A-hazemwahba.motor
+Version: tarek-hazemwahba.motor
+Depends: enigma2
+Section: trek
+Architecture: all
+MD5Sum: a4085845ea56d6884dc52f020ff001bd
+Size: 2372
+Filename: enigma2-plugin-settings-Channel-hazemwahba.motor_tarek_all.ipk
+Description: tarek hazemwahba.motor
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
