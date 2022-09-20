@@ -1517,3 +1517,21 @@ Maintainer: AbouYacine
 Description: ansite-by-aime-jeux
 Source: 
 Homepage:
+
+
+
+Package: enigma2-plugin-extensionsA-raedquicksignal
+Version: tarek-tarek
+Section: external
+Priority: optional
+Architecture: all
+MD5Sum: cc636c867809c3af7844544c3caeda02
+Size: 7009438
+Filename: enigma2-plugin-extensions-raedquicksignal_fairbird_all.ipk
+Maintainer: AbouYacine
+Description: raedquicksignal
+Source: 
+Homepage:
+
+
+
