@@ -1412,7 +1412,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensionsT-A-ansite-quraan
+Package: enigma2-plugin-extensionsTarek-A-ansite-quraan
 Version: tarek-ansite-quraan
 Depends: enigma2
 Section: trek
@@ -1428,7 +1428,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensionsT-A-bissfeed-autokey-py2
+Package: enigma2-plugin-extensionsTarek-A-bissfeed-autokey-py2
 Version: tarek-bissfeed-autokey
 Depends: enigma2
 Section: trek
@@ -1444,7 +1444,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensionsT-A-bissfeed-autokey-py3
+Package: enigma2-plugin-extensionsTarek-A-bissfeed-autokey-py3
 Version: tarek-bissfeed-autokey
 Depends: enigma2
 Section: trek
@@ -1461,7 +1461,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensionsT-A-opkg-tools
+Package: enigma2-plugin-extensionsTarek-A-opkg-tools
 Version: tarek-opkg-tools
 Depends: enigma2
 Section: trek
@@ -1477,7 +1477,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensionsT-A-ansite-quraan-1.3-py2
+Package: enigma2-plugin-extensionsTarek-A-ansite-quraan-1.3-py2
 Version: tarek-tarek
 Section: external
 Priority: optional
@@ -1491,7 +1491,7 @@ Source:
 Homepage: 
 
 
-Package: enigma2-plugin-extensionsT-A-ansite-quraan-1.4-py3
+Package: enigma2-plugin-extensionsTarek-A-ansite-quraan-1.4-py3
 Version: tarek-tarek
 Section: external
 Priority: optional
@@ -1520,7 +1520,7 @@ Homepage:
 
 
 
-Package: enigma2-plugin-extensionsT-raedquicksignal
+Package: enigma2-plugin-extensionsTarek-raedquicksignal
 Version: tarek-tarek
 Section: external
 Priority: optional
