@@ -1164,7 +1164,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-ajpanel
+Package: enigma2-plugin-extensionsT-A-ajpanel
 Version: tarek-ajpanel-v5.50
 Section: tarek links
 Priority: optional
@@ -1180,7 +1180,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-extensions-A-feeds-finder
+Package: enigma2-plugin-extensionsT-A-feeds-finder
 Version: tarek-feeds-finder-V1.6
 Section: tarek links
 Priority: optional
@@ -1247,7 +1247,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-EPGGrabber-osn
+Package: enigma2-plugin-extensionsT-A-EPGGrabber-osn
 Version: tarek-EPGGrabber
 Depends: enigma2
 Section: base
@@ -1264,7 +1264,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcams-A-oscam-revcam
+Package: enigma2-plugin-softcamsT-A-oscam-revcam
 Version: tarek-oscam-revcam
 Depends: enigma2
 Section: weblinks
@@ -1297,7 +1297,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcams-A-ncam-revcam
+Package: enigma2-plugin-softcamsT-A-ncam-revcam
 Version: tarek-ncam-revcam
 Depends: enigma2
 Section: weblinks
@@ -1329,7 +1329,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-linuxsat-active-code
+Package: enigma2-plugin-extensionsT-A-linuxsat-active-code
 Version: tarek-linuxsat-active
 Depends: enigma2
 Section: weblinks
@@ -1363,7 +1363,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-opkg-tools
+Package: enigma2-plugin-extensionsT-opkg-tools
 Version: tarek-opkg-tools
 Depends: enigma2
 Section: weblinks
@@ -1412,7 +1412,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-ansite-quraan
+Package: enigma2-plugin-extensionsT-A-ansite-quraan
 Version: tarek-ansite-quraan
 Depends: enigma2
 Section: trek
@@ -1428,7 +1428,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-bissfeed-autokey-py2
+Package: enigma2-plugin-extensionsT-A-bissfeed-autokey-py2
 Version: tarek-bissfeed-autokey
 Depends: enigma2
 Section: trek
@@ -1444,7 +1444,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-bissfeed-autokey-py3
+Package: enigma2-plugin-extensionsT-A-bissfeed-autokey-py3
 Version: tarek-bissfeed-autokey
 Depends: enigma2
 Section: trek
@@ -1461,7 +1461,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-opkg-tools
+Package: enigma2-plugin-extensionsT-A-opkg-tools
 Version: tarek-opkg-tools
 Depends: enigma2
 Section: trek
@@ -1477,7 +1477,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-ansite-quraan-1.3-py2
+Package: enigma2-plugin-extensionsT-A-ansite-quraan-1.3-py2
 Version: tarek-tarek
 Section: external
 Priority: optional
@@ -1491,7 +1491,7 @@ Source:
 Homepage: 
 
 
-Package: enigma2-plugin-extensions-A-ansite-quraan-1.4-py3
+Package: enigma2-plugin-extensionsT-A-ansite-quraan-1.4-py3
 Version: tarek-tarek
 Section: external
 Priority: optional
@@ -1505,7 +1505,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-settings-A-Channel-hazemwahba.motor
+Package: enigma2-plugin-settingsT-A-Channel-hazemwahba.motor
 Version: tarek-tarek
 Section: external
 Priority: optional
@@ -1520,7 +1520,7 @@ Homepage:
 
 
 
-Package: enigma2-plugin-extensionsATAREK-raedquicksignal
+Package: enigma2-plugin-extensionsT-raedquicksignal
 Version: tarek-tarek
 Section: external
 Priority: optional
