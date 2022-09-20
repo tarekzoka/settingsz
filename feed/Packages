@@ -480,14 +480,13 @@ License: none
 
 
 Package: enigma2-plugin-extensionsTarek-A-clearmem
-Version: tarek-clearmem_1.10_
+Version: tarek-clearmem-v1.10
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 09efd081efff3f2420f0bedccb9240ba
-Size: 11360
-Filename: enigma2-plugin-extensions-clearmem_1.10_all
-.ipk
+MD5Sum: ecd91ac57b05830762d62f96b46de1ed
+Size: 11432
+Filename: enigma2-plugin-extensions-clearmem_1.10_all.ipk
 Description: tarek E2 clearmem
 Maintainer: tarek
 Priority: optional
@@ -1520,7 +1519,7 @@ Homepage:
 
 
 
-Package: enigma2-plugin-extensionsTarek-raedquicksignal
+Package: enigma2-plugin-extensionsTarek-Raedquicksignal
 Version: tarek-tarek
 Section: external
 Priority: optional
@@ -1534,4 +1533,15 @@ Source:
 Homepage:
 
 
-
+Package: enigma2-plugin-extensionsTarek-ipkuninstaller
+Version: tarek-tarek
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 7319843305bf92ea372f8c1d4c3d2b26
+Size: 5434
+Filename: enigma2-plugin-extensions-ipkuninstaller_tarek-v1.4_all.ipk
+Maintainer: ........
+Description: ipkuninstaller
+Source: 
+Homepage:
