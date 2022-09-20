@@ -51,25 +51,6 @@ License: none
 OE: enigma2
 
 
-
-Package: enigma2-plugin-extensionsTarek-A-ajpanel
-Version: tarek-ajpanel-v7.00
-Section: extensionsTarek
-Priority: optional
-Architecture: all
-Size: 272864
-MD5Sum: b82632e6044deeb660bc7f1e281b7ea9
-Filename: enigma2-plugin-tarek.links-ajpanel_tarek-hanf-v7.0_all.ipk
-Maintainer: ziko & redouane
-Description: enigma2 plugin OE2.0 OE2.5 ajpanel
-Depends: enigma2
-Source: none
-Homepage: unknown
-OE: enigma2
-
-
-
-
 Package: enigma2-plugin-extensionsTarek-A-dreamsatpanel-allpython
 Version: tarek-hanfy
 Section: extensionsTarek
@@ -1602,8 +1583,8 @@ Homepage:
 
 
 
-Package: enigma2-plugin-extensionsTarek-A-ajpanel-v7.1
-Version: tarek-ajpanel-7.01
+Package: enigma2-plugin-extensionsTarek-A-Ajpanel-v7.1
+Version: tarek-ajpanel-V7.01
 Section: tarek
 Priority: optional
 Architecture: all
