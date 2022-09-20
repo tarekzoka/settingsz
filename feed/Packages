@@ -1411,22 +1411,6 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensionsTarek-A-ansite-quraan
-Version: tarek-ansite-quraan
-Depends: enigma2
-Section: trek
-Architecture: all
-MD5Sum: 119a8a90f3b61812f06e2adff138e973
-Size: 3020602
-Filename: enigma2-plugin-extensions-ansite-quraan-1.3_all.ipk
-Description: tarek ansite-quraan
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
 Package: enigma2-plugin-extensionsTarek-A-bissfeed-autokey-py2
 Version: tarek-bissfeed-autokey
 Depends: enigma2
