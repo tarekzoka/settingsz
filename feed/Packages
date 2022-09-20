@@ -1586,3 +1586,18 @@ Description: virtualkeyboard
 Source: 
 Homepage:
 
+
+Package: enigma2-plugin-systemplugins-A-setpasswd
+Version: tarek-setpasswd
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: c44d40f64cb8063b6940c00b9a5891e6
+Size: 9596
+Filename: enigma2-plugin-systemplugins-setpasswd_arek-y-git4897+7278916-r0.0_mips32el.ipk
+Maintainer: tarek-setpasswd
+Description: setpasswd
+Source: 
+Homepage:
+
+
