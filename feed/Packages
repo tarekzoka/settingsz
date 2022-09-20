@@ -1517,7 +1517,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-extensionsTarek-ipkuninstaller
+Package: enigma2-plugin-extensionsTarek-A-ipkuninstaller
 Version: tarek-tarek
 Section: tarek
 Priority: optional
@@ -1525,7 +1525,50 @@ Architecture: all
 MD5Sum: 7319843305bf92ea372f8c1d4c3d2b26
 Size: 5434
 Filename: enigma2-plugin-extensions-ipkuninstaller_tarek-v1.4_all.ipk
-Maintainer: ........
+Maintainer: tarek-tarek
 Description: ipkuninstaller
+Source: 
+Homepage:
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-iwaatch-fnc
+Version: tarek-tarek-V-1.9
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 7829a0f167d676d5ebf61a08d4a5fc93
+Size: 398126
+Filename: enigma2-plugin-extensions-iwaatch-fnc_tarek-V-1.9-r0_all.ipk
+Maintainer: tarek-tarek
+Description: iwaatch-fnc
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-extensionsTarek-A-multiquickbutton
+Version: tarek-v2.7.17-r6
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 2a8cbe8eb3b30ed686e41c4332b24cbb
+Size: 29488
+Filename: enigma2-plugin-extensions-multiquickbutton-vu_tarek-V-2.7.17-r6_py3_all.ipk
+Maintainer: tarek-tarek
+Description: ipkuninstaller
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-systemplugins-A-signalfinder
+Version: tarek-signalfinder
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 7319843305bf92ea372f8c1d4c3d2b26
+Size: 46478
+Filename: enigma2-plugin-systemplugins-signalfinder_tarek-V-2.4_all.ipk
+Maintainer: tarek-tarek
+Description: signalfinder
 Source: 
 Homepage:
