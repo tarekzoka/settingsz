@@ -1,4 +1,4 @@
-Package: enigma2-plugin-extensions-A-footonsat
+Package: enigma2-plugin-extensionsTarek-A-footonsat
 Version: tarek-hanfy
 Section: tarek links
 Priority: optional
@@ -15,7 +15,7 @@ OE: enigma2
 
 
 
-Package: enigma2-plugin-extensions-A-ipaudio
+Package: enigma2-plugin-extensionsTarek-A-ipaudio
 Version: tarek
 Depends: enigma2
 Section: base
@@ -34,10 +34,10 @@ License: none
 
 
 
-Package: enigma2-plugin-extensions-A-iptosat-v1.8
+Package: enigma2-plugin-extensionsTarek-A-iptosat-v1.8
 Version: tarek-hanfy
 Depends: exteplayer3 , gstplayer
-Section: base
+Section: extensionsTarek
 Architecture: all
 MD5Sum: 1944dfb07e5219b988d97673ec700e6d
 Size: 14426
@@ -52,9 +52,9 @@ OE: enigma2
 
 
 
-Package: enigma2-plugin-extensions-A-ajpanel
+Package: enigma2-plugin-extensionsTarek-A-ajpanel
 Version: tarek-ajpanel-v7.00
-Section: tarek links
+Section: extensionsTarek
 Priority: optional
 Architecture: all
 Size: 272864
@@ -70,14 +70,14 @@ OE: enigma2
 
 
 
-Package: enigma2-plugin-extensions-A-dreamsatpanel
+Package: enigma2-plugin-extensionsTarek-A-dreamsatpanel-allpython
 Version: tarek-hanfy
-Section: tarek links
+Section: extensionsTarek
 Priority: optional
 Architecture: all
-Size: 742072
-MD5Sum: 77a67aa8a395913de965ccab5cbb1e0a
-Filename: enigma2-plugin-tarek.links-dreamsatpanel_tarek-hanfy-3.10.4.1.4_all
+Size: 1098
+MD5Sum: f28a8e8d4406a9c26a1252acb9f38dfe
+Filename: enigma2-plugin-extensions-dreamsatpanel-all-python_tarek-tarek_all.ipk
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 dreamsatpanel
 Depends: enigma2
@@ -87,14 +87,14 @@ OE: enigma2
 
 
 
-Package: enigma2-plugin-extensions-A-dreamsatpanel
+Package: enigma2-plugin-extensionsTarek-A-dreamsatpanel-py-3.10.4
 Version: tarek-hanfy
-Section: tarek links
+Section: extensionsTarek
 Priority: optional
 Architecture: all
-Size: 2104
-MD5Sum: f4d86d853536fb8152779657ab326c89
-Filename: enigma2-plugin-tarek.links-dreamsatpanel_tarek-hanfy-1.3_all
+Size: 742456
+MD5Sum: 4f6952f1b8e63b9cc1e01ffa3685abb2
+Filename: enigma2-plugin-extensions-dreamsatpanel-py-3.10.4_1.4_all.ipk
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 dreamsatpanel
 Depends: enigma2
@@ -119,7 +119,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-extensions-A-worldcam
+Package: enigma2-plugin-extensionsTarek-A-worldcam
 Version: tarek-4.2_r5
 Section: enigma2
 Priority: optional
@@ -151,7 +151,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-extensions-A-xstreamity
+Package: enigma2-plugin-extensionsTarek-A-xstreamity
 Version: tarek-v3.71
 Depends: enigma2
 Section: base
@@ -167,7 +167,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-xstreamity
+Package: enigma2-plugin-extensionsTarek-A-xstreamity
 Version: tarek-v3.73
 Depends: enigma2
 Section: base
@@ -184,7 +184,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-freeserver
+Package: enigma2-plugin-extensionsTarek-A-freeserver
 Version: tarek-v8.0.6
 Depends: enigma2
 Section: base
@@ -201,7 +201,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-jedimakerxtream
+Package: enigma2-plugin-extensionsTarek-A-jedimakerxtream
 Version: tarek-v6.20
 Depends: enigma2
 Section: base
@@ -218,7 +218,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-xcplugin-forever
+Package: enigma2-plugin-extensionsTarek-A-xcplugin-forever
 Version: tarek-v2.2
 Depends: enigma2
 Section: base
@@ -235,7 +235,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-xtraevent
+Package: enigma2-plugin-extensionsTarek-A-xtraevent
 Version: tarek-v5.2
 Depends: enigma2
 Section: base
@@ -252,7 +252,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-e2iplayer-py3
+Package: enigma2-plugin-extensionsTarek-A-e2iplayer-py3
 Version: tarek-py3.10_06
 Depends: enigma2
 Section: base
@@ -269,7 +269,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-levi45multicamm
+Package: enigma2-plugin-extensionsTarek-A-levi45multicamm
 Version: tarek-9.6-r1
 Depends: enigma2
 Section: base
@@ -286,7 +286,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-plutotv_
+Package: enigma2-plugin-extensionsTarek-A-plutotv_
 Version: tarek-plutotv
 Depends: enigma2
 Section: base
@@ -304,7 +304,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-subssupport
+Package: enigma2-plugin-extensionsTarek-A-subssupport
 Version: tarek-1.5.8-r3
 Depends: enigma2
 Section: base
@@ -322,7 +322,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-turkvod
+Package: enigma2-plugin-extensionsTarek-A-turkvod
 Version: tarek-12.00_PY3
 Depends: enigma2
 Section: base
@@ -444,7 +444,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-bootlogoswapper-Kids
+Package: enigma2-plugin-extensionsTarek-A-bootlogoswapper-Kids
 Version: tarek-v2.4
 Depends: enigma2
 Section: base
@@ -479,7 +479,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-clearmem
+Package: enigma2-plugin-extensionsTarek-A-clearmem
 Version: tarek-clearmem_1.10_
 Depends: enigma2
 Section: base
@@ -497,7 +497,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-crashlogviewer
+Package: enigma2-plugin-extensionsTarek-A-crashlogviewer
 Version: tarek-0.4
 Depends: enigma2
 Section: base
@@ -514,7 +514,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-openwebif
+Package: enigma2-plugin-extensionsTarek-A-openwebif
 Version: tarek-v1.5.2
 Depends: enigma2
 Section: base
@@ -530,7 +530,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-sateditor
+Package: enigma2-plugin-extensionsTarek-A-sateditor
 Version: tarek-v3.3
 Depends: enigma2
 Section: base
@@ -548,7 +548,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-theweather
+Package: enigma2-plugin-extensionsTarek-A-theweather
 Version: tarek-py2_2.3
 Depends: enigma2
 Section: base
@@ -566,7 +566,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-youtube
+Package: enigma2-plugin-extensionsTarek-A-youtube
 Version: tarek-youtube_1
 Depends: enigma2
 Section: base
@@ -619,7 +619,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-filemanager
+Package: enigma2-plugin-extensionsTarek-A-filemanager
 Version: tarek-filemanager2.2
 Depends: enigma2
 Section: base
@@ -729,7 +729,7 @@ License: none
 
 
 
-Package: enigma2-plugin-extensions-A-xtraevent 
+Package: enigma2-plugin-extensionsTarek-A-xtraevent 
 Version: tarek-xtraevent
 Depends: enigma2
 Section: base
@@ -779,7 +779,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-settings-Channel-romeh
+Package: enigma2-plugin-settingsTarek-Channel-romeh
 Version: tarek-channel-romeh
 Depends: enigma2
 Section: base
@@ -795,7 +795,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-settings-Channel-mahmoudsaad
+Package: enigma2-plugin-settingsTarek-Channel-mahmoudsaad
 Version: tarek-channel-mahmoudsaad
 Depends: enigma2
 Section: base
@@ -812,7 +812,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-settings-Channel-khaled
+Package: enigma2-plugin-settingsTarek-Channel-khaled
 Version: tarek-channel-khaled
 Depends: enigma2
 Section: base
@@ -829,7 +829,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-settings-A-Channel-goda
+Package: enigma2-plugin-settingsTarek-A-Channel-goda
 Version: tarek-channel-goda
 Depends: enigma2
 Section: base
@@ -845,7 +845,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-settings-Channel-ashrey
+Package: enigma2-plugin-settingsTarek-Channel-ashrey
 Version: tarek-channel-ashrey
 Depends: enigma2
 Section: base
@@ -862,7 +862,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-Quran-karim
+Package: enigma2-plugin-extensionsTarek-A-Quran-karim
 Version: tarek-tarek
 Depends: enigma2
 Section: base
@@ -879,7 +879,7 @@ License: none
 OE: none
 
 
-Package: enigma2-plugin-extensions-A-Arabicsavior
+Package: enigma2-plugin-extensionsTarek-A-Arabicsavior
 Version: tarek-arabicsavior
 Depends: enigma2
 Section: base
@@ -896,7 +896,7 @@ License: none
 OE: none
 
 
-Package: enigma2-plugin-extensions-A-autoresolution
+Package: enigma2-plugin-extensionsTarek-A-autoresolution
 Version: tarek-autoresolution
 Depends: enigma2
 Section: base
@@ -913,7 +913,7 @@ License: none
 OE: none
 
 
-Package: enigma2-plugin-extensions-A-automaticvolumeadjustment
+Package: enigma2-plugin-extensionsTarek-A-automaticvolumeadjustment
 Version: tarek-tarek
 Depends: enigma2
 Section: base
@@ -931,7 +931,7 @@ OE: none
 
 
 
-Package: enigma2-plugin-extensions-A-ipaudio.json.shwky
+Package: enigma2-plugin-extensionsTarek-A-ipaudio.json.shwky
 Version: tarek-json.shwky
 Depends: enigma2
 Section: base
@@ -1032,7 +1032,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-A-bootlogoswapper1
+Package: enigma2-plugin-extensionsTarek-A-bootlogoswapper1
 Version: tarek
 Depends: enigma2
 Section: base
@@ -1064,7 +1064,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensions-A-athantimes
+Package: enigma2-plugin-extensionsTarek-A-athantimes
 Version: tarek-athantimes_2.4_
 Depends: enigma2
 Section: base
@@ -1164,7 +1164,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensionsT-A-ajpanel
+Package: enigma2-plugin-extensionsTarek-A-ajpanel
 Version: tarek-ajpanel-v5.50
 Section: tarek links
 Priority: optional
@@ -1180,7 +1180,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-extensionsT-A-feeds-finder
+Package: enigma2-plugin-extensionsTarek-A-feeds-finder
 Version: tarek-feeds-finder-V1.6
 Section: tarek links
 Priority: optional
@@ -1247,7 +1247,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensionsT-A-EPGGrabber-osn
+Package: enigma2-plugin-extensionsTarek-A-EPGGrabber-osn
 Version: tarek-EPGGrabber
 Depends: enigma2
 Section: base
@@ -1264,7 +1264,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcamsT-A-oscam-revcam
+Package: enigma2-plugin-softcams-A-oscam-revcam
 Version: tarek-oscam-revcam
 Depends: enigma2
 Section: weblinks
@@ -1297,7 +1297,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcamsT-A-ncam-revcam
+Package: enigma2-plugin-softcams-A-ncam-revcam
 Version: tarek-ncam-revcam
 Depends: enigma2
 Section: weblinks
@@ -1329,7 +1329,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-extensionsT-A-linuxsat-active-code
+Package: enigma2-plugin-extensionsTarek-A-linuxsat-active-code
 Version: tarek-linuxsat-active
 Depends: enigma2
 Section: weblinks
@@ -1363,7 +1363,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensionsT-opkg-tools
+Package: enigma2-plugin-extensionsTarek-opkg-tools
 Version: tarek-opkg-tools
 Depends: enigma2
 Section: weblinks
@@ -1505,7 +1505,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-settingsT-A-Channel-hazemwahba.motor
+Package: enigma2-plugin-settingsTarek-A-Channel-hazemwahba.motor
 Version: tarek-tarek
 Section: external
 Priority: optional
