@@ -1572,3 +1572,17 @@ Maintainer: tarek-tarek
 Description: signalfinder
 Source: 
 Homepage:
+
+Package: enigma2-plugin-systemplugins-A-virtualkeyboard
+Version: tarek-virtualkeyboard
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 89b935a7e9f2c21defa6f394726001e5
+Size: 34432
+Filename: enigma2-plugin-systemplugins-virtualkeyboard_tarek-tarek_all.ipk
+Maintainer: tarek-virtualkeyboard
+Description: virtualkeyboard
+Source: 
+Homepage:
+
