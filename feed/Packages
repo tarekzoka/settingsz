@@ -1560,7 +1560,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-systemplugins-A-signalfinder
+Package: enigma2-plugin-systemplugins-.A-signalfinder
 Version: tarek-signalfinder
 Section: tarek
 Priority: optional
@@ -1573,7 +1573,7 @@ Description: signalfinder
 Source: 
 Homepage:
 
-Package: enigma2-plugin-systemplugins-A-virtualkeyboard
+Package: enigma2-plugin-systemplugins-.A-virtualkeyboard
 Version: tarek-virtualkeyboard
 Section: tarek
 Priority: optional
@@ -1587,7 +1587,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-systemplugins-A-setpasswd
+Package: enigma2-plugin-systemplugins-.A-setpasswd
 Version: tarek-setpasswd
 Section: tarek
 Priority: optional
@@ -1600,4 +1600,18 @@ Description: setpasswd
 Source: 
 Homepage:
 
+
+
+Package: enigma2-plugin-extensionsTarek-A-ajpanel-v7.1
+Version: tarek-ajpanel-7.01
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 0ecc133369aadfba7f803264a741b618
+Size: 279904
+Filename: enigma2-plugin-extensions-ajpanel_arek-v7.1.0_all.ipk
+Maintainer: tarek-ajpanel
+Description: ajpanel
+Source: 
+Homepage:
 
