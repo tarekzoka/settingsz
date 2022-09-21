@@ -131,31 +131,14 @@ Source: none
 Homepage: unknown
 OE: enigma2
 
-
-Package: enigma2-plugin-extensionsTarek-A-xstreamity
-Version: tarek-v3.71
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: 9f7f22f68b60e4bbf3f3ee476f95e63b
-Size: 2206388
-Filename: enigma2-plugin-extensions-xstreamity_3.71.20220818_all.ipk
-Description: xstreamity E2 xstreamity
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-Package: enigma2-plugin-extensionsTarek-A-tarekv3.73
+Package: enigma2-plugin-extensionsTarek-A-xstreamity_3.73
 Version: tarek-v3.73
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: a2bfba4668e2e889c2e5e3056f2ca882
-Size: 2192188
-Filename: enigma2-plugin-extensions-xstreamity_tarekv3.73_all.ipk
+MD5Sum: 4dbed5e058960232a4d28be66e367293
+Size: 2192164
+Filename: enigma2-plugin-extensions-xstreamity_tarek_3.73_all.ipk
 Description: xstreamity E2 xstreamity
 Maintainer: tarek
 Priority: optional
@@ -893,7 +876,7 @@ License: none
 OE: none
 
 
-Package: enigma2-plugin-extensionsTarek-A-automaticvolumeadjustment
+Package: enigma2-plugin-extensionsTarek-A-automaticvolume
 Version: tarek-tarek
 Depends: enigma2
 Section: base
@@ -1525,7 +1508,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-systemplugins-.A-signalfinder
+Package: enigma2-plugin-systemplugins-A-signalfinder
 Version: tarek-signalfinder
 Section: tarek
 Priority: optional
@@ -1538,7 +1521,7 @@ Description: signalfinder
 Source: 
 Homepage:
 
-Package: enigma2-plugin-systemplugins-.A-virtualkeyboard
+Package: enigma2-plugin-systemplugins-A-virtualkeyboard
 Version: tarek-virtualkeyboard
 Section: tarek
 Priority: optional
@@ -1552,7 +1535,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-systemplugins-.A-setpasswd
+Package: enigma2-plugin-systemplugins-A-setpasswd
 Version: tarek-setpasswd
 Section: tarek
 Priority: optional
