@@ -1658,18 +1658,18 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-extensionsTarek-A-xstreamity_3.73a
-Version: tarek-v3.73
+Package: enigma2-plugin-extensionsTarek-B-xstreamity-3.73a
+Version: tarek
 Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: a2bfba4668e2e889c2e5e3056f2ca882
 Size: 766
 Filename: enigma2-plugin-extensions-xstreamity_tarekv3.73_all.ipk
-Description: xstreamity E2 xstreamity
+Description: xstreamity E2tarek
 Maintainer: tarek
 Priority: optional
 Source: none
-Homepage: unknown
+Homepage: tarek
 OE: enigma2
 License: none
