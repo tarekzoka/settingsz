@@ -1563,3 +1563,62 @@ Description: ajpanel
 Source: 
 Homepage:
 
+Package: enigma2-plugin-extensionsTarek-A-MyMetrixLiteBackup-1
+Version: tarek-MyMetrixLiteBackup
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: ed18df50d74b4ebe9b26da134649140d
+Size: 2192464
+Filename: enigma2-plugin-extensions-mymetrix-desin-1_tarek_all.ipk
+Maintainer: tarek-MyMetrixLiteBackup
+Description: mymetrix
+Source: 
+Homepage:
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-MyMetrixLiteBackup-2
+Version: tarek-mymetrix-desin
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 685c1c3cb9588afbb9866c3c1b2d8938
+Size: 2192432
+Filename: enigma2-plugin-extensions-mymetrix-desin-2_tarek_all.ipk
+Maintainer: tarek-MyMetrixLiteBackup
+Description: mymetrix
+Source: 
+Homepage:
+
+Package: enigma2-plugin-softcams-A-oscam-11.713
+Version: tarek-revcam-oscam
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 87f07a9edbdb6e81a19595dacfe44ff3
+Size: 3120754
+Filename: enigma2-plugin-softcams-oscam_arek-11.713_all.ipk
+Maintainer: tarek-oscam
+Description: oscam
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-softcams-A-revcam-oscam-11.713
+Version: tarek-revcam-oscam
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: e6fbbda21b53430b396db4e0b4bc85a3
+Size: 3327394
+Filename: enigma2-plugin-softcams-revcam-oscam_tarek-11713-emu-r798_all.ipk
+Maintainer: tarek-revcam-oscam
+Description: revcam-oscam
+Source: 
+Homepage:
+
+
+
+
+
