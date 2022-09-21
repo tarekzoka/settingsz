@@ -1425,22 +1425,6 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensionsTarek-A-opkg-tools
-Version: tarek-opkg-tools
-Depends: enigma2
-Section: trek
-Architecture: all
-MD5Sum: d5ded576fac3f8a15a9ad663fb47add4
-Size: 351970
-Filename: enigma2-plugin-extensions-opkg-tools_tarek_all.ipk
-Description: tarek opkg-tools
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
 Package: enigma2-plugin-extensionsTarek-A-ansite-quraan-1.3-py2
 Version: tarek-tarek
 Section: external
