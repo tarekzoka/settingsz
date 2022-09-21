@@ -136,8 +136,8 @@ Version: tarek-v3.73
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 4dbed5e058960232a4d28be66e367293
-Size: 2192164
+MD5Sum: a2bfba4668e2e889c2e5e3056f2ca882
+Size: 2192188
 Filename: enigma2-plugin-extensions-xstreamity_tarek_3.73_all.ipk
 Description: xstreamity E2 xstreamity
 Maintainer: tarek
