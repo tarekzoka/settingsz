@@ -1618,7 +1618,41 @@ Description: revcam-oscam
 Source: 
 Homepage:
 
+Package: enigma2-plugin-trek-A-revcam-oscam-11.713
+Version: tarek-revcam-oscam
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: e6fbbda21b53430b396db4e0b4bc85a3
+Size: 3327394
+Filename: enigma2-plugin-softcams-revcam-oscam_tarek-11713-emu-r798_all.ipk
+Maintainer: tarek-revcam-oscam
+Description: revcam-oscam
+Source: 
+Homepage:
 
+Package: enigma2-plugin-trek-A-oscam-11.713
+Version: tarek-revcam-oscam
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 87f07a9edbdb6e81a19595dacfe44ff3
+Size: 3120754
+Filename: enigma2-plugin-softcams-oscam_arek-11.713_all.ipk
+Maintainer: tarek-oscam
+Description: oscam
+Source: 
+Homepage:
 
-
-
+Package: enigma2-plugin-trek-A-Ajpanel-v7.1
+Version: tarek-ajpanel-V7.01
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 0ecc133369aadfba7f803264a741b618
+Size: 279904
+Filename: enigma2-plugin-extensions-ajpanel_arek-v7.1.0_all.ipk
+Maintainer: tarek-ajpanel
+Description: ajpanel
+Source: 
+Homepage:
