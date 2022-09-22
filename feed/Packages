@@ -13,8 +13,6 @@ Source: none
 Homepage: unknown
 OE: enigma2
 
-
-
 Package: enigma2-plugin-extensionsTarek-A-ipaudio
 Version: tarek
 Depends: enigma2
@@ -30,8 +28,6 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
-
-
 
 
 Package: enigma2-plugin-extensionsTarek-A-iptosat-v1.8
@@ -132,7 +128,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-extensionsTarek-A-freeserver
+Package: enigma2-plugin-ext-A-freeserver
 Version: tarek-v8.0.6
 Depends: enigma2
 Section: base
@@ -241,8 +237,7 @@ Section: base
 Architecture: all
 MD5Sum: b86485fd0a361239208377ed2d1536c4
 Size: 2826410
-Filename: enigma2-plugin-extensions-plutotv_2022_all
-.ipk
+Filename: enigma2-plugin-extensions-plutotv_2022_all.ipk
 Description: tarek E2 plutotv
 Maintainer: tarek
 Priority: optional
@@ -259,8 +254,7 @@ Section: base
 Architecture: all
 MD5Sum: f871696f831b661e3e029e0eed850423
 Size: 658792
-Filename: enigma2-plugin-extensions-subssupport_1.5.8-r3_all
-.ipk
+Filename: enigma2-plugin-extensions-subssupport_1.5.8-r3_all.ipk
 Description: tarek E2 subssupport
 Maintainer: tarek
 Priority: optional
@@ -277,8 +271,7 @@ Section: base
 Architecture: all
 MD5Sum: 97bc0c4a4ab595b127bd1ad82311d9f6
 Size: 1894626
-Filename: enigma2-plugin-extensions-turkvod_12.00_PY3.all
-.ipk
+Filename: enigma2-plugin-extensions-turkvod_12.00_PY3.all.ipk
 Description: tarek E2 turkvod
 Maintainer: tarek
 Priority: optional
@@ -311,8 +304,7 @@ Section: base
 Architecture: all
 MD5Sum: 517a7434623a5260ab3072cbdd8b07ae
 Size: 3311254
-Filename: enigma2-plugin-softcams-gosat-oscam_11712-emu-r798_all
-.ipk
+Filename: enigma2-plugin-softcams-gosat-oscam_11712-emu-r798_all.ipk
 Description: tarek E2 gosat-oscam
 Maintainer: tarek
 Priority: optional
@@ -329,8 +321,7 @@ Section: base
 Architecture: all
 MD5Sum: 7e9f126d3ba5c943efc3638664cecf2f
 Size: 4949386
-Filename: enigma2-plugin-softcams-ncam_V13.0-r0_all
-.ipk
+Filename: enigma2-plugin-softcams-ncam_V13.0-r0_all.ipk
 Description: tarek E2 ncam_V13
 Maintainer: tarek
 Priority: optional
@@ -347,8 +338,7 @@ Section: base
 Architecture: all
 MD5Sum: 2a5871200c87d055acdae400b34c37a6
 Size: 3313446
-Filename: enigma2-plugin-softcams-oscam_11712-emu-r798_all
-.ipk
+Filename: enigma2-plugin-softcams-oscam_11712-emu-r798_all.ipk
 Description: tarek E2 oscam_11712
 Maintainer: tarek
 Priority: optional
@@ -358,15 +348,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcams-A-oscam-tnt_11.678
+Package: enigma2-plugin-soft.....-A-oscam-tnt_11.678
 Version: tarek-tnt_11.678
 Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: eb8b00d5a1f9f248d456986f16599691
 Size: 2272300
-Filename: enigma2-plugin-softcams-oscam-tnt_11.678-tnt_all
-.ipk
+Filename: enigma2-plugin-softcams-oscam-tnt_11.678-tnt_all.ipk
 Description: tarek E2 oscam-tnt_11.678
 Maintainer: tarek
 Priority: optional
@@ -1672,8 +1661,8 @@ Version: tarek-cdskin
 Section: tarek
 Priority: optional
 Architecture: all
-MD5Sum: af30961fbb024a9b9e5f3137319886ab
-Size: 327426
+MD5Sum: 7fc406eaef194d8343e39d3ddd9ab37b
+Size: 327434
 Filename: usr-share-enigma2-display-lcdskin_tarek_all.ipk
 Maintainer: tarek-cdskin
 Description: oscam
