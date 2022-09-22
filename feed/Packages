@@ -1669,3 +1669,15 @@ Description: lcdskin hithem
 Source: 
 Homepage:
 
+
+Package: enigma2-plugin-xtensionsTarek-A-quarterpounder
+Version: tarek-quarterpounder
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 14b28680d193ed5bf4d6eb230544464d
+Size: 11364
+Filename: enigma2-plugin-extensions-quarterpounder_tarek-tarek_all.ipk
+Maintainer: tarek-quarterpounder
+Description: oscam
+Source: 
