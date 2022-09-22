@@ -230,14 +230,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensionsTarek-A-plutotv_
+Package: enigma2-plugin-extensionsTarek-A-plutotv
 Version: tarek-plutotv
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: b86485fd0a361239208377ed2d1536c4
-Size: 2826410
-Filename: enigma2-plugin-extensions-plutotv_2022_all.ipk
+MD5Sum: d45c36d5558b14a60e727f09c8ba15a9
+Size: 622500
+Filename: enigma2-plugin-extensions-plutotv_tarek _all.ipk
 Description: tarek E2 plutotv
 Maintainer: tarek
 Priority: optional
