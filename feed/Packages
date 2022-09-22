@@ -1666,3 +1666,17 @@ Maintainer: tarek-oscam
 Description: oscam
 Source: 
 Homepage:
+
+Package: enigma2-plugin-display-A-lcdskin
+Version: tarek-cdskin
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: af30961fbb024a9b9e5f3137319886ab
+Size: 327426
+Filename: usr-share-enigma2-display-lcdskin_tarek_all.ipk
+Maintainer: tarek-cdskin
+Description: oscam
+Source: 
+Homepage:
+
