@@ -131,22 +131,6 @@ Source: none
 Homepage: unknown
 OE: enigma2
 
-Package: enigma2-plugin-extensionsTarek-A-xstreamity_3.73
-Version: tarek-v3.73
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: a2bfba4668e2e889c2e5e3056f2ca882
-Size: 2192188
-Filename: enigma2-plugin-extensions-xstreamity_tarek_3.73_all.ipk
-Description: xstreamity E2 xstreamity
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
 
 Package: enigma2-plugin-extensionsTarek-A-freeserver
 Version: tarek-v8.0.6
@@ -1577,7 +1561,6 @@ Source:
 Homepage:
 
 
-
 Package: enigma2-plugin-extensionsTarek-A-MyMetrixLiteBackup-2
 Version: tarek-mymetrix-desin
 Section: tarek
@@ -1657,19 +1640,15 @@ Description: ajpanel
 Source: 
 Homepage:
 
-
-Package: enigma2-plugin-extensionsTarek-B-xstreamity-3.73a
-Version: tarek
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: a2bfba4668e2e889c2e5e3056f2ca882
-Size: 766
-Filename: enigma2-plugin-extensions-xstreamity_tarekv3.73_all.ipk
-Description: xstreamity E2tarek
-Maintainer: tarek
+Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.73
+Version: tarek-xstreamity
+Section: tarek
 Priority: optional
-Source: none
-Homepage: tarek
-OE: enigma2
-License: none
+Architecture: all
+MD5Sum: 65e4d7201e45aac87157d7cc4cd18301
+Size: 2191962
+Filename: enigma2-plugin-extensions-xstreamity_3.73.20220918_all.ipk
+Maintainer: tarek-xstreamity
+Description: ajpanel
+Source: 
+Homepage:
