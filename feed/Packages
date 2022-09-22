@@ -1652,3 +1652,17 @@ Maintainer: tarek-xstreamity
 Description: ajpanel
 Source: 
 Homepage:
+
+
+Package: enigma2-plugin-xtensionsTarek-A-oscam-11.713
+Version: tarek-revcam-oscam
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 87f07a9edbdb6e81a19595dacfe44ff3
+Size: 3120754
+Filename: enigma2-plugin-softcams-oscam_arek-11.713_all.ipk
+Maintainer: tarek-oscam
+Description: oscam
+Source: 
+Homepage:
