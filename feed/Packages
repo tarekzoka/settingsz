@@ -1684,8 +1684,8 @@ Source:
 
 
 
-Package: enigma2-plugin-xtensionsTarek-A-quarte-gstp-extep-serviceapp
-Version: tarek-4media-support
+Package: enigma2-plugin-xtensionsTarek-A-4media-support
+Version: tarek-support
 Section: xtensions
 Priority: optional
 Architecture: all
