@@ -1697,7 +1697,7 @@ Description: media-ipv
 Source: 
 
 Package: enigma2-plugin-weblinks-A-4media-support.py2
-Version: tarek-support
+Version: py2_tarek
 Section: weblinks
 Priority: optional
 Architecture: all
