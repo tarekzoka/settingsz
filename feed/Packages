@@ -1643,7 +1643,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-xtensionsTarek-A-oscam-11.713
+Package: enigma2-plugin-extensionsTarek-A-oscam-11.713
 Version: tarek-revcam-oscam
 Section: tarek
 Priority: optional
@@ -1670,7 +1670,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-xtensionsTarek-A-quarterpounder
+Package: enigma2-plugin-extensionsTarek-A-quarterpounder
 Version: tarek-quarterpounder
 Section: xtensions
 Priority: optional
@@ -1684,7 +1684,7 @@ Source:
 
 
 
-Package: enigma2-plugin-xtensionsTarek-A-4media-support
+Package: enigma2-plugin-extensionsTarek-A-4media-support
 Version: tarek-support
 Section: xtensions
 Priority: optional
