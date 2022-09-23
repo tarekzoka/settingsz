@@ -1684,14 +1684,14 @@ Source:
 
 
 
-Package: enigma2-plugin-extensionsTarek-A-4media-support
+Package: enigma2-plugin-extensionsTarek-A-4media-support.py2
 Version: tarek-support
-Section: xtensions
+Section: enigma2
 Priority: optional
 Architecture: all
-MD5Sum: 141ac6b6c5d40e73ab80867d791f9fac
-Size: 888
-Filename: enigma2-plugin-extensions--layer3-gstplayer-serviceapp-quarterpounder.py2_tarek_all.ipk
+MD5Sum: 05d2c87c16e979ebb82b4691407b19d8
+Size: 764
+Filename: enigma2-plugin-extensions-exteplayer3-gstplayer-serviceapp-quarterpounder.py2_tarek_all.ipk
 Maintainer: tarek-quarterpounder
 Description: media-ipv
 Source: 
