@@ -1672,7 +1672,7 @@ Homepage:
 
 Package: enigma2-plugin-xtensionsTarek-A-quarterpounder
 Version: tarek-quarterpounder
-Section: tarek
+Section: xtensions
 Priority: optional
 Architecture: all
 MD5Sum: 14b28680d193ed5bf4d6eb230544464d
@@ -1686,7 +1686,7 @@ Source:
 
 Package: enigma2-plugin-xtensionsTarek-A-quarte-gstp-extep-serviceapp
 Version: tarek-4media-support
-Section: tarek
+Section: xtensions
 Priority: optional
 Architecture: all
 MD5Sum: 141ac6b6c5d40e73ab80867d791f9fac
