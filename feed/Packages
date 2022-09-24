@@ -536,7 +536,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins.ipk-A-elite-fhd
+Package: enigma2-plugin-skinsTarek-A-elite-fhd
 Version: tarek-elite-fhd
 Depends: enigma2
 Section: base
