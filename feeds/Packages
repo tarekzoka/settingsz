@@ -1696,14 +1696,87 @@ Maintainer: tarek-quarterpounder
 Description: media-ipv
 Source: 
 
-Package: enigma2-plugin-weblinks-A-4media-support.py2
-Version: py2_tarek
-Section: weblinks
-Priority: optional
+
+
+Package: enigma2-plugin-weblinks-exteplayer3-gstplayer
+Version: tarek-exteplayer3-gstplayer
+Depends: enigma2
+Section: tareklinks
 Architecture: all
-MD5Sum: 05d2c87c16e979ebb82b4691407b19d8
-Size: 764
-Filename: enigma2-plugin-extensions-exteplayer3-gstplayer-serviceapp-quarterpounder.py2_tarek_all.ipk
-Maintainer: tarek-quarterpounder
-Description: media-ipv
-Source: 
+MD5Sum: 9d166fd2faae1f50925d46ec917cecf9
+Size: 770
+Filename: enigma2-plugin-weblinks-exteplayer3-gstplayer-serviceapp-quarterpounder.py2_tarek_all.ipk.ipk
+Description: tarek exteplayer3-gstplayer
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-tarek-arabicsavior
+Version: tarek-hanfy
+Description: ArabicSavior
+Maintainer: ArabicSavior
+Architecture: all
+MD5Sum: 217e88ee4d17d2e3ed593b0b3e6704ee
+Size: 842
+Filename: enigma2-plugin-tarek-arabicsavior_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-alsatarek-arabicsavior
+Version: tarek-hanfy
+Description: ArabicSavior
+Maintainer: ArabicSavior
+Architecture: all
+MD5Sum: 217e88ee4d17d2e3ed593b0b3e6704ee
+Size: 842
+Filename: enigma2-plugin-tarek-arabicsavior_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-tark-ajpanel-v5.5.0
+Version: tark-tark
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: 011dd47cd8635cec6bcb422c2da94c17 
+Size: 250786
+Filename: enigma2-plugin-tark-ajpanel-v5.5.0_tark-tark_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-1-ajpanel-v5.5.0
+Version: tark-tark
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: 011dd47cd8635cec6bcb422c2da94c17
+Size: 250786
+Filename: enigma2-plugin-tark-ajpanel-v5.5.0_tark-tark_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
