@@ -348,7 +348,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-soft.....-A-oscam-tnt_11.678
+Package: enigma2-plugin-softcams-A-oscam-tnt_11.678
 Version: tarek-tnt_11.678
 Depends: enigma2
 Section: base
@@ -1748,7 +1748,7 @@ Depends: enigma2
 Source: none
 
 
-Package: enigma2-plugin-tark-ajpanel-v5.5.0
+Package: enigma2-plugin-trek-ajpanel-v5.5.0
 Version: tark-tark
 Description: Enigma2 Tools
 Maintainer: AMA-Jamry
