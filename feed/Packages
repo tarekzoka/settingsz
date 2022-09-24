@@ -80,7 +80,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-skins-A-beta-pro
+Package: enigma2-plugin-skinsTarek-A-beta-pro
 Version: tarek-v1.5
 Section: tarek links
 Priority: optional
@@ -112,7 +112,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-skins-A-beta-posterx
+Package: enigma2-plugin-skinsTarek-A-beta-posterx
 Version: tarek-v1.5
 Section: enigma2
 Priority: optional
@@ -128,7 +128,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-ext-A-freeserver
+Package: enigma2-plugin-trek-A-freeserver
 Version: tarek-v8.0.6
 Depends: enigma2
 Section: base
@@ -280,7 +280,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-skins-A-octagon-fhd
+Package: enigma2-plugin-skinsTarek-A-octagon-fhd
 Version: tarek-1.2v
 Depends: enigma2
 Section: base
@@ -297,7 +297,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcams-A-oscam_11712
+Package: enigma2-plugin-softcamsTarek-A-oscam_11712
 Version: tarek-11712-emu
 Depends: enigma2
 Section: base
@@ -314,7 +314,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcams-A-ncam_V13
+Package: enigma2-plugin-softcamsTarek-A-ncam_V13
 Version: tarek-V13.0
 Depends: enigma2
 Section: base
@@ -331,7 +331,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcams-A-oscam_11712
+Package: enigma2-plugin-softcamsTarek-A-oscam_11712
 Version: tarek-11712-emu
 Depends: enigma2
 Section: base
@@ -348,7 +348,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcams-A-oscam-tnt_11.678
+Package: enigma2-plugin-softcamsTarek-A-oscam-tnt_11.678
 Version: tarek-tnt_11.678
 Depends: enigma2
 Section: base
@@ -364,7 +364,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-softcams-A-cccam-all-ima
+Package: enigma2-plugin-softcamsTarek-A-cccam-all-ima
 Version: tarek-cccam-239
 Depends: enigma2
 Section: base
@@ -399,7 +399,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-picons-A-chocholou-picons
+Package: enigma2-plugin-piconsTarek-A-chocholou-picons
 Version: tarek-picons_5.0
 Depends: enigma2
 Section: base
@@ -519,15 +519,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-op-artkoala
+Package: enigma2-plugin-skinsTarek-A-op-artkoala
 Version: tarek-op-artkoala
 Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: d6a00d3711b9fcd8c3150a7f8d13a4f7
 Size: 41181524
-Filename: enigma2-plugin-skin-op-artkoala_SKIN-2-OP-ARTKOALA_all
-.ipk
+Filename: enigma2-plugin-skin-op-artkoala_SKIN-2-OP-ARTKOALA_all.ipk
 Description: tarek E2 op-artkoala
 Maintainer: tarek
 Priority: optional
@@ -537,7 +536,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-elite-fhd
+Package: enigma2-plugin-skins.ipk-A-elite-fhd
 Version: tarek-elite-fhd
 Depends: enigma2
 Section: base
@@ -572,15 +571,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-ekselancexe-fhd
+Package: enigma2-plugin-skinsTarek-A-ekselancexe-fhd
 Version: tarek-ekselancexe-fhd
 Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: 28c317f234aa260fe396d53ca661a30c
 Size: 8092300
-Filename: enigma2-plugin-skins-ekselancexe-fhd-dragon-py3_4.0_all
-.ipk
+Filename: enigma2-plugin-skins-ekselancexe-fhd-dragon-py3_4.0_all.ipk
 Description: tarek E2 ekselancexe-fhd
 Maintainer: tarek
 Priority: optional
@@ -590,15 +588,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-froid
+Package: enigma2-plugin-skinsTarek-A-froid
 Version: tarek-froid_4.00
 Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: 0371ecbd02144bd1060cfb7a2cb3183a
 Size: 2682686
-Filename: enigma2-plugin-skins-froid_4.00_all
-.ipk
+Filename: enigma2-plugin-skins-froid_4.00_all.ipk
 Description: tarek E2 froid
 Maintainer: tarek
 Priority: optional
@@ -609,15 +606,14 @@ License: none
 
 
 
-Package: enigma2-plugin-skins-A-KIII-PRO
+Package: enigma2-plugin-skinsTarek-A-KIII-PRO
 Version: tarek-KIII-PROv3.3
 Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: 3acd95a5115e26bb8672b14569e227e5
 Size: 22228532
-Filename: enigma2-plugin-skins-KIII-PRO-by-zelda77_v3.3_all
-.ipk
+Filename: enigma2-plugin-skins-KIII-PRO-by-zelda77_v3.3_all.ipk
 Description: tarek E2 KIII-PRO
 Maintainer: tarek
 Priority: optional
@@ -628,15 +624,14 @@ License: none
 
 
 
-Package: enigma2-plugin-skins-A-metrixconfluencexp
+Package: enigma2-plugin-skinsTarek-A-metrixconfluencexp
 Version: tarek-metrixconfluencexp
 Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: ecd77ad0bde6a274b64bacda216be1e3
 Size: 14900518
-Filename: enigma2-plugin-skins-metrixconfluencexp-atv-dragon-lululla_1.1_all
-.ipk
+Filename: enigma2-plugin-skins-metrixconfluencexp-atv-dragon-lululla_1.1_all.ipk
 Description: tarek E2 metrixconfluencexp
 Maintainer: tarek
 Priority: optional
@@ -647,7 +642,7 @@ License: none
 
 
 
-Package: enigma2-plugin-skins-A-nacht
+Package: enigma2-plugin-skinsTarek-A-nacht
 Version: tarek-nacht v2.0
 Depends: enigma2
 Section: base
@@ -681,7 +676,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-skins-A-nuke.fhd
+Package: enigma2-plugin-skinsTarek-A-nuke.fhd
 Version: tarek-nuke.fhd
 Depends: enigma2
 Section: base
@@ -698,7 +693,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-nitroadvanced
+Package: enigma2-plugin-skinsTarek-A-nitroadvanced
 Version: tarek-nitroadvanced
 Depends: enigma2
 Section: base
@@ -883,7 +878,7 @@ Homepage: emil
 License: none
 OE: none
 
-Package: enigma2-plugin-skins-A-icone-vpxt
+Package: enigma2-plugin-skinsTarek-A-icone-vpxt
 Version: tarek-icone-vpxt
 Depends: enigma2
 Section: base
@@ -900,7 +895,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-novaler-s-x-fhd-b1
+Package: enigma2-plugin-skinsTarek-A-novaler-s-x-fhd-b1
 Version: tarek-novaler-s-x
 Depends: enigma2
 Section: base
@@ -917,7 +912,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-novaler-s-x-fhd-b2
+Package: enigma2-plugin-skinsTarek-A-novaler-s-x-fhd-b2
 Version: tarek-novaler-s-x
 Depends: enigma2
 Section: base
@@ -934,7 +929,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-novaler-s-x-fhd-b3
+Package: enigma2-plugin-skinsTarek-A-novaler-s-x-fhd-b3
 Version: tarek-novaler-s-x
 Depends: enigma2
 Section: base
@@ -951,7 +946,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-novaler-s-x-fhd-b4
+Package: enigma2-plugin-skinsTarek-A-novaler-s-x-fhd-b4
 Version: tarek-novaler-s-x
 Depends: enigma2
 Section: base
@@ -1017,7 +1012,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-novaler-s-x-fhd-b4
+Package: enigma2-plugin-skinsTarek-A-novaler-s-x-fhd-b4
 Version: tarek-novaler-s-x
 Depends: enigma2
 Section: base
@@ -1034,7 +1029,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-BATMAN
+Package: enigma2-plugin-skinsTarek-A-BATMAN
 Version: tarek-BATMAN
 Depends: enigma2
 Section: base
@@ -1051,7 +1046,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-iFlatFHD
+Package: enigma2-plugin-skinsTarek-A-iFlatFHD
 Version: tarek-novaler-s-x
 Depends: enigma2
 Section: base
@@ -1067,7 +1062,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-skins-A-Graphite_FHD
+Package: enigma2-plugin-skinsTarek-A-Graphite_FHD
 Version: tarek-Graphite_FHD
 Depends: enigma2
 Section: base
@@ -1084,7 +1079,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-A-ORANGE-SKY-FHD
+Package: enigma2-plugin-skinsTarek-A-ORANGE-SKY-FHD
 Version: tarek-ORANGE-SKY-FHD
 Depends: enigma2
 Section: base
@@ -1132,7 +1127,7 @@ Homepage: unknown
 OE: enigma2
 
 
-Package: enigma2-plugin-picons-A-picon-all-sat
+Package: enigma2-plugin-piconsTarek-A-picon-all-sat
 Version: tarek-picon-all-sat
 Depends: enigma2
 Section: base
@@ -1148,7 +1143,7 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-Package: enigma2-plugin-picons-A-picon-enigma2-nile-sat
+Package: enigma2-plugin-piconsTarek-A-picon-enigma2-nile-sat
 Version: tarek-picon-enigma2-nile-sat
 Depends: enigma2
 Section: base
@@ -1166,7 +1161,7 @@ License: none
 
 
 
-Package: enigma2-plugin-picons-A-picon-hdd-nile.sat
+Package: enigma2-plugin-piconsTarek-A-picon-hdd-nile.sat
 Version: tarek-picon-hdd-nile.sat
 Depends: enigma2
 Section: base
@@ -1200,7 +1195,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcams-A-oscam-revcam
+Package: enigma2-plugin-softcamsTarek-A-oscam-revcam
 Version: tarek-oscam-revcam
 Depends: enigma2
 Section: weblinks
@@ -1233,7 +1228,7 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-softcams-A-ncam-revcam
+Package: enigma2-plugin-softcamsTarek-A-ncam-revcam
 Version: tarek-ncam-revcam
 Depends: enigma2
 Section: weblinks
@@ -1452,21 +1447,6 @@ Source:
 Homepage:
 
 
-
-Package: enigma2-plugin-extensionsTarek-A-iwaatch-fnc
-Version: tarek-tarek-V-1.9
-Section: tarek
-Priority: optional
-Architecture: all
-MD5Sum: 7829a0f167d676d5ebf61a08d4a5fc93
-Size: 398126
-Filename: enigma2-plugin-extensions-iwaatch-fnc_tarek-V-1.9-r0_all.ipk
-Maintainer: tarek-tarek
-Description: iwaatch-fnc
-Source: 
-Homepage:
-
-
 Package: enigma2-plugin-extensionsTarek-A-multiquickbutton
 Version: tarek-v2.7.17-r6
 Section: tarek
@@ -1481,7 +1461,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-systemplugins-A-signalfinder
+Package: enigma2-plugin-systempluginsTarek-A-signalfinder
 Version: tarek-signalfinder
 Section: tarek
 Priority: optional
@@ -1494,7 +1474,7 @@ Description: signalfinder
 Source: 
 Homepage:
 
-Package: enigma2-plugin-systemplugins-A-virtualkeyboard
+Package: enigma2-plugin-systempluginsTarek-A-virtualkeyboard
 Version: tarek-virtualkeyboard
 Section: tarek
 Priority: optional
@@ -1508,7 +1488,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-systemplugins-A-setpasswd
+Package: enigma2-plugin-systempluginsTarek-A-setpasswd
 Version: tarek-setpasswd
 Section: tarek
 Priority: optional
@@ -1563,7 +1543,7 @@ Description: mymetrix
 Source: 
 Homepage:
 
-Package: enigma2-plugin-softcams-A-oscam-11.713
+Package: enigma2-plugin-softcamsTarek-A-oscam-11.713
 Version: tarek-revcam-oscam
 Section: tarek
 Priority: optional
@@ -1577,7 +1557,7 @@ Source:
 Homepage:
 
 
-Package: enigma2-plugin-softcams-A-revcam-oscam-11.713
+Package: enigma2-plugin-softcamsTarek-A-revcam-oscam-11.713
 Version: tarek-revcam-oscam
 Section: tarek
 Priority: optional
@@ -1696,23 +1676,6 @@ Maintainer: tarek-quarterpounder
 Description: media-ipv
 Source: 
 
-
-
-Package: enigma2-plugin-weblinks-exteplayer3-gstplayer
-Version: tarek-exteplayer3-gstplayer
-Depends: enigma2
-Section: tareklinks
-Architecture: all
-MD5Sum: 9d166fd2faae1f50925d46ec917cecf9
-Size: 770
-Filename: enigma2-plugin-weblinks-exteplayer3-gstplayer-serviceapp-quarterpounder.py2_tarek_all.ipk.ipk
-Description: tarek exteplayer3-gstplayer
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
 
 Package: enigma2-plugin-tarek-arabicsavior
 Version: tarek-hanfy
