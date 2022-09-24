@@ -1714,4 +1714,18 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-
+Package: enigma2-plugin-tarek-arabicsavior
+Version: tarek-hanfy
+Description: ArabicSavior
+Maintainer: ArabicSavior
+Architecture: all
+MD5Sum: 217e88ee4d17d2e3ed593b0b3e6704ee
+Size: 842
+Filename: enigma2-plugin-tarek-arabicsavior_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
