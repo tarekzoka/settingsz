@@ -1096,21 +1096,6 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skinsTarek-A-ORANGE-SKY-FHD
-Version: tarek-ORANGE-SKY-FHD
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: b453e30d7a37ef28b49c3ad69405b69a
-Size: 4914284
-Filename: Skin-ORANGE-SKY-FHD-By-Muaath.ipk
-Description: tarek E2 ORANGE-SKY-FHD
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
 
 Package: enigma2-plugin-extensionsTarek-A-ajpanel
 Version: tarek-ajpanel-v5.50
