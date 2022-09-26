@@ -524,9 +524,9 @@ Version: tarek-op-artkoala
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: d6a00d3711b9fcd8c3150a7f8d13a4f7
-Size: 41181524
-Filename: enigma2-plugin-skin-op-artkoala_SKIN-2-OP-ARTKOALA_all.ipk
+MD5Sum: 7570782ec60f37265a770a10f2a6cb04
+Size: 1306
+Filename: enigma2-plugin-skin-op-artkoala_tarek-OP-ARTKOALA_all.ipk
 Description: tarek E2 op-artkoala
 Maintainer: tarek
 Priority: optional
