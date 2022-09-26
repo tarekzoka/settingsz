@@ -1034,9 +1034,9 @@ Version: tarek-BATMAN
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: e1ed5d2d9fcd0fd3481441ea118d8147
-Size: 14907198
-Filename: SKIN-BATMAN-V-FHD-By-Muaath.ipk
+MD5Sum: 847c604edb0109ee97a11a5e98bae170
+Size: 14907144
+Filename: enigma2-plugin-skin-batman_tarek_all.ipk
 Description: tarek E2 BATMAN
 Maintainer: tarek
 Priority: optional
@@ -1044,6 +1044,23 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+Package: enigma2-plugin-skinsTarek-A-orange-sky
+Version: tarek-BATMAN
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: e21bbd67e034645c359650d171a2423d
+Size: 4914264
+Filename: enigma2-plugin-skin-orange-sky_tarek_all.ipk
+Description: tarek E2 orange-sky
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
 
 
 Package: enigma2-plugin-skinsTarek-A-iFlatFHD
