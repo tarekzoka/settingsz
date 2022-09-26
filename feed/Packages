@@ -1046,7 +1046,7 @@ OE: enigma2
 License: none
 
 Package: enigma2-plugin-skinsTarek-A-orange-sky
-Version: tarek-BATMAN
+Version: tarek-orange
 Depends: enigma2
 Section: base
 Architecture: all
