@@ -1,2 +1,2 @@
-# feed-settingsz
+# settingsz
 
