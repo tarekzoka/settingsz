@@ -1906,7 +1906,6 @@ Depends: enigma2
 Source: none
 
 
-
 Package: enigma2-plugin-piconsTarek-A-yaha-sat-52
 Version: tarek-hanfy
 Description: Enigma2 Tools
@@ -1942,8 +1941,21 @@ Source: none
 
 
 
-
-
+Package: enigma2-plugin-piconsTarek-A-amos-4.0
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 92e961dd7f3ed2af28932a052c0326f7
+Size: 2701148
+Filename:enigma2-plugin-tarek-picon-amos-4.0_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
 
 
 
