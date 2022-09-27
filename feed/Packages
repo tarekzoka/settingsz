@@ -1783,3 +1783,66 @@ OE: enigma2
 Homepage: unknown
 Depends: enigma2
 Source: none
+
+
+Package: enigma2-plugin-piconsTarek-A-hispasat30w
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 43b932a665adb5f0517e7f9ae9d30d97
+Size: 1442576
+Filename: enigma2-plugin-tarek-picon-hispasat30w_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-piconsTarek-A-bulgariasat-1.9
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 4042e8153b69e1f52d19eb5e3cb70def
+Size: 2655898
+Filename: enigma2-plugin-tarek-picon-bulgariasat-1.9e-by-name_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-piconsTarek-A-cam-sat-prov-crypt
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 34188d46624c67f3fd376f71106d13ad
+Size: 12004906
+Filename: enigma2-plugin-picons-cam-sat-prov-crypt-hdd_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+
+
+
+
+
+
+
+
+
