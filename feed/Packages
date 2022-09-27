@@ -1611,14 +1611,14 @@ Description: ajpanel
 Source: 
 Homepage:
 
-Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.73
+Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.74
 Version: tarek-xstreamity
 Section: tarek
 Priority: optional
 Architecture: all
-MD5Sum: 65e4d7201e45aac87157d7cc4cd18301
-Size: 2191962
-Filename: enigma2-plugin-extensions-xstreamity_3.73.20220918_all.ipk
+MD5Sum: 372e4233480aa762c7ae980ada3ddd46
+Size: 2191882
+Filename: enigma2-plugin-extensions-xstreamity_tarek-3.74_all.ipk
 Maintainer: tarek-xstreamity
 Description: ajpanel
 Source: 
