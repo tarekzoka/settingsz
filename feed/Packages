@@ -29,7 +29,6 @@ Homepage: unknown
 OE: enigma2
 License: none
 
-
 Package: enigma2-plugin-extensionsTarek-A-iptosat-v1.8
 Version: tarek-hanfy
 Depends: exteplayer3 , gstplayer
@@ -1612,7 +1611,7 @@ Source:
 Homepage:
 
 Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.74
-Version: tarek-xstreamity
+Version: tarek-3.74
 Section: tarek
 Priority: optional
 Architecture: all
@@ -1620,7 +1619,7 @@ MD5Sum: 372e4233480aa762c7ae980ada3ddd46
 Size: 2191882
 Filename: enigma2-plugin-extensions-xstreamity_tarek-3.74_all.ipk
 Maintainer: tarek-xstreamity
-Description: ajpanel
+Description: xstreamity
 Source: 
 Homepage:
 
