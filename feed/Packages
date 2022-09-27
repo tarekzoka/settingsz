@@ -1769,13 +1769,13 @@ Source: none
 
 
 Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.74
-Version: tarek-xstreamity
+Version: tarek-hanfy
 Description: Enigma2 Tools
 Maintainer: xstreamity
 Architecture: all
-MD5Sum: 207b2dbfb2639c9992c811ecaa291070
-Size: 944
-Filename: enigma2-plugin-extensions-xstreamity_tarek_3.74_all.ipk
+MD5Sum: 04706841772ae06fb7847e38141d8816
+Size: 2191962
+Filename: enigma2-plugin-extensions-xstreamity-3.74_tarek-hafy_all.ipk
 Priority: optional
 Section: base
 License: none
