@@ -1905,3 +1905,48 @@ Homepage: unknown
 Depends: enigma2
 Source: none
 
+
+
+Package: enigma2-plugin-piconsTarek-A-yaha-sat-52
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: de055377e1397677f24c2ceb402071aa
+Size: 1968222
+Filename: enigma2-plugin-tarek-picon-yaha-sat-52.5_tarek-hanfy_all_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-piconsTarek-A-eutelsat9
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 54508cc87af7018f7e15d4291bee006d
+Size: 2235760
+Filename: enigma2-plugin-tarek-picon-eutelsat9_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+
+
+
+
+
+
+
+
