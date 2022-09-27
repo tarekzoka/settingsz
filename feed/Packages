@@ -1610,19 +1610,6 @@ Description: ajpanel
 Source: 
 Homepage:
 
-Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.74
-Version: tarek-3.74
-Section: tarek
-Priority: optional
-Architecture: all
-MD5Sum: 372e4233480aa762c7ae980ada3ddd46
-Size: 2191882
-Filename: enigma2-plugin-extensions-xstreamity_tarek-3.74_all.ipk
-Maintainer: tarek-xstreamity
-Description: xstreamity
-Source: 
-Homepage:
-
 
 Package: enigma2-plugin-extensionsTarek-A-oscam-11.713
 Version: tarek-revcam-oscam
@@ -1636,6 +1623,7 @@ Maintainer: tarek-oscam
 Description: oscam
 Source: 
 Homepage:
+
 
 Package: enigma2-plugin-display-A-lcdskin
 Version: tarek-cdskin
@@ -1762,6 +1750,7 @@ Homepage: unknown
 Depends: enigma2
 Source: none
 
+
 Package: enigma2-plugin-Tarek-A-ipchecker
 Version: tark-tark
 Description: Enigma2 Tools
@@ -1770,6 +1759,23 @@ Architecture: all
 MD5Sum: 2f4c4f2cd48abeaf21d80932bd2707c3
 Size: 5084
 Filename: enigma2-plugin-tarek-ipchecker_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.74
+Version: tarek-xstreamity
+Description: Enigma2 Tools
+Maintainer: xstreamity
+Architecture: all
+MD5Sum: 207b2dbfb2639c9992c811ecaa291070
+Size: 2192196
+Filename: enigma2-plugin-extensions-xstreamity_tarek_3.74_all.ipk
 Priority: optional
 Section: base
 License: none
