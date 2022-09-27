@@ -1838,6 +1838,21 @@ Source: none
 
 
 
+Package: enigma2-plugin-piconsTarek-A-astrasat.19
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: dd0b25fd4ed71429a3c95dc88755b35f
+Size: 11328533
+Filename: enigma2-plugin-tarek-picon-astrasat.19_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
 
 
 
