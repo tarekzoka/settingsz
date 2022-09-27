@@ -1745,3 +1745,36 @@ OE: enigma2
 Homepage: unknown
 Depends: enigma2
 Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-ipchecker
+Version: tark-tark
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: 2f4c4f2cd48abeaf21d80932bd2707c3
+Size: 5084
+Filename: enigma2-plugin-tarek-ipchecker_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+Package: enigma2-plugin-Tarek-A-ipchecker
+Version: tark-tark
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: 2f4c4f2cd48abeaf21d80932bd2707c3
+Size: 5084
+Filename: enigma2-plugin-tarek-ipchecker_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
