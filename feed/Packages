@@ -2081,7 +2081,7 @@ Depends: enigma2
 Source: none
 
 
-Package: enigma2-plugin-camdTarekTarek-A-ncam-v13.1
+Package: enigma2-plugin-camdTarek-A-ncam-v13.1
 Version: tarek-hanfy
 Description: Enigma2 Tools
 Maintainer: ncam
