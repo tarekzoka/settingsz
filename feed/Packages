@@ -2098,3 +2098,36 @@ Depends: enigma2
 Source: none
 
 
+
+Package: enigma2-plugin-displayTarek-A-skin-default_hithem-2
+Version: tarek-hithem
+Description: Enigma2 Tools
+Maintainer: display
+Architecture: all
+MD5Sum: f479fc01cf6129c5479d1fc5b23b6fe2
+Size: 30570
+Filename:enigma2-skin-default_hithem-2_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
