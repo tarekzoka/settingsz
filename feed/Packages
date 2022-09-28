@@ -1959,6 +1959,20 @@ Source: none
 
 
 
-
+Package: enigma2-plugin-extensionTarek-A-neoboot-v9.58-r3
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 771fd7108851ea4ea714117547f7b66c
+Size: 7924364
+Filename:enigma2-plugin-extensions-neoboot_tarek-v9.58-r3-reboot_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
 
 
