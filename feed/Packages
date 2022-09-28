@@ -1962,7 +1962,7 @@ Source: none
 Package: enigma2-plugin-extensionTarek-A-neoboot-v9.58-r3
 Version: tarek-hanfy
 Description: Enigma2 Tools
-Maintainer: picon
+Maintainer: neoboot
 Architecture: all
 MD5Sum: 771fd7108851ea4ea714117547f7b66c
 Size: 7924364
@@ -1974,5 +1974,41 @@ OE: enigma2
 Homepage: unknown
 Depends: enigma2
 Source: none
+
+
+
+Package: enigma2-plugin-softcamsTarek-A-oscam-11714-emu-r798
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: softcams
+Architecture: all
+MD5Sum: 08359778ae857ae8b74388cb54489810
+Size: 3326670
+Filename:enigma2-plugin-softcams-supcam-oscam_tarek-11714-emu-r798_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-ncam-v13.1
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: ncam
+Architecture: all
+MD5Sum: fbd3f2a2e5455d00a5549663ae4f68a2
+Size: 4916952
+Filename:enigma2-plugin-softcams-ncam_tarek-v13.1-r0_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
 
 
