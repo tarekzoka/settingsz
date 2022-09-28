@@ -2012,3 +2012,57 @@ Source: none
 
 
 
+Package: enigma2-plugin-skinsTarek-A-beta-dragon
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: skin
+Architecture: all
+MD5Sum: 681724a5b01f25d7d3e03c81ce006fa4
+Size: 15034730
+Filename:enigma2-plugin-skin-beta-dragon_tarek-full.1.3.dragon_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-skinsTarek-A-ekselancexe
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: skin
+Architecture: all
+MD5Sum: 56c7ffd516f4a80724b646871f6962d7
+Size: 6221122
+Filename:enigma2-plugin-skins-ekselancexe_arek-2.0.by.Ekselance.packed.sat-4-all_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-ozeta-1.5.1
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: skin
+Architecture: all
+MD5Sum: 0ad4e76e585f39a9c1e30169a1d1a749
+Size: 2247254
+Filename:enigma2-plugin-skins-ozeta_tarek-1.5.1_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+
