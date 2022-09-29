@@ -2100,11 +2100,11 @@ Source: none
 
 
 Package: enigma2-plugin-displayTarek-A-skin-default_hithem-2
-Version: tarek-hithem
+Version: egmani10-hithem
 Description: Enigma2 Tools
 Maintainer: display
 Architecture: all
-MD5Sum: f479fc01cf6129c5479d1fc5b23b6fe2
+MD5Sum: c39ba941035eb77debc33d9396357a18
 Size: 30570
 Filename:enigma2-skin-default_hithem-2_all.ipk
 Priority: optional
@@ -2112,11 +2112,22 @@ Section: base
 License: none
 OE: enigma2
 Homepage: unknown
-Depends: enigma2
+Depends: lcdskin hithem2
 Source: none
 
 
-
+Package: enigma2-plugin-displayTarek-A-lcdskin
+Version: tarek-cdskin
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 7fc406eaef194d8343e39d3ddd9ab37b
+Size: 327434
+Filename: usr-share-enigma2-display-lcdskin_tarek_all.ipk
+Maintainer: tarek-cdskin
+Description: lcdskin hithem
+Source: 
+Homepage:
 
 
 
