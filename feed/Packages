@@ -2130,11 +2130,33 @@ Source:
 Homepage:
 
 
+Package: enigma2-plugin-settingsTarek-A-mody.motor
+Version: tarek-motor
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 4706c1e4a14a4cad64a20169bf9be829
+Size: 575740
+Filename: enigma2-plugin-settings-tarek-mody.motor_tarek-v3.0_all.ipk
+Maintainer: tarek-motor
+Description: lcdskin motor
+Source: 
+Homepage:
 
 
 
-
-
+Package: enigma2-plugin-systempluginsTarek-A-setpasswd
+Version: tarek-motor
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 0a6040318e97e9cfedfdd5cad30a3c05
+Size: 9544
+Filename: enigma2-plugin-systemplugins-setpasswd_tarek-hafy_all.ipk
+Maintainer: tarek-motor
+Description: lcdskin motor
+Source: 
+Homepage:
 
 
 
