@@ -1434,6 +1434,7 @@ Source:
 Homepage:
 
 
+
 Package: enigma2-plugin-extensionsTarek-A-ipkuninstaller
 Version: tarek-tarek
 Section: tarek
@@ -1446,6 +1447,7 @@ Maintainer: tarek-tarek
 Description: ipkuninstaller
 Source: 
 Homepage:
+
 
 
 Package: enigma2-plugin-extensionsTarek-A-multiquickbutton
@@ -1462,6 +1464,7 @@ Source:
 Homepage:
 
 
+
 Package: enigma2-plugin-systempluginsTarek-A-signalfinder
 Version: tarek-signalfinder
 Section: tarek
@@ -1475,6 +1478,8 @@ Description: signalfinder
 Source: 
 Homepage:
 
+
+
 Package: enigma2-plugin-systempluginsTarek-A-virtualkeyboard
 Version: tarek-virtualkeyboard
 Section: tarek
@@ -1487,6 +1492,7 @@ Maintainer: tarek-virtualkeyboard
 Description: virtualkeyboard
 Source: 
 Homepage:
+
 
 
 Package: enigma2-plugin-systempluginsTarek-A-setpasswd
@@ -1517,6 +1523,8 @@ Description: ajpanel
 Source: 
 Homepage:
 
+
+
 Package: enigma2-plugin-extensionsTarek-A-MyMetrixLiteBackup-1
 Version: tarek-MyMetrixLiteBackup
 Section: tarek
@@ -1529,6 +1537,7 @@ Maintainer: tarek-MyMetrixLiteBackup
 Description: mymetrix
 Source: 
 Homepage:
+
 
 
 Package: enigma2-plugin-extensionsTarek-A-MyMetrixLiteBackup-2
@@ -1544,6 +1553,8 @@ Description: mymetrix
 Source: 
 Homepage:
 
+
+
 Package: enigma2-plugin-softcamsTarek-A-oscam-11.713
 Version: tarek-revcam-oscam
 Section: tarek
@@ -1556,6 +1567,8 @@ Maintainer: tarek-oscam
 Description: oscam
 Source: 
 Homepage:
+
+
 
 
 Package: enigma2-plugin-softcamsTarek-A-revcam-oscam-11.713
@@ -1571,6 +1584,9 @@ Description: revcam-oscam
 Source: 
 Homepage:
 
+
+
+
 Package: enigma2-plugin-trek-A-revcam-oscam-11.713
 Version: tarek-revcam-oscam
 Section: tarek
@@ -1583,6 +1599,9 @@ Maintainer: tarek-revcam-oscam
 Description: revcam-oscam
 Source: 
 Homepage:
+
+
+
 
 Package: enigma2-plugin-trek-A-oscam-11.713
 Version: tarek-revcam-oscam
@@ -1597,6 +1616,8 @@ Description: oscam
 Source: 
 Homepage:
 
+
+
 Package: enigma2-plugin-trek-A-Ajpanel-v7.1
 Version: tarek-ajpanel-V7.01
 Section: tarek
@@ -1609,6 +1630,7 @@ Maintainer: tarek-ajpanel
 Description: ajpanel
 Source: 
 Homepage:
+
 
 
 Package: enigma2-plugin-extensionsTarek-A-oscam-11.713
@@ -1639,6 +1661,7 @@ Source:
 Homepage:
 
 
+
 Package: enigma2-plugin-extensionsTarek-A-quarterpounder
 Version: tarek-quarterpounder
 Section: xtensions
@@ -1666,6 +1689,7 @@ Description: media-ipv
 Source: 
 
 
+
 Package: enigma2-plugin-tarek-arabicsavior
 Version: tarek-hanfy
 Description: ArabicSavior
@@ -1681,6 +1705,7 @@ OE: enigma2
 Homepage: unknown
 Depends: enigma2
 Source: none
+
 
 
 Package: enigma2-plugin-alsatarek-arabicsavior
@@ -1700,6 +1725,7 @@ Depends: enigma2
 Source: none
 
 
+
 Package: enigma2-plugin-trek-ajpanel-v5.5.0
 Version: tark-tark
 Description: Enigma2 Tools
@@ -1715,6 +1741,7 @@ OE: enigma2
 Homepage: unknown
 Depends: enigma2
 Source: none
+
 
 
 Package: enigma2-plugin-extensionsTarek-1-ajpanel-v5.5.0
@@ -1734,6 +1761,7 @@ Depends: enigma2
 Source: none
 
 
+
 Package: enigma2-plugin-extensionsTarek-A-ipchecker
 Version: tark-tark
 Description: Enigma2 Tools
@@ -1749,6 +1777,7 @@ OE: enigma2
 Homepage: unknown
 Depends: enigma2
 Source: none
+
 
 
 Package: enigma2-plugin-Tarek-A-ipchecker
@@ -1768,6 +1797,7 @@ Depends: enigma2
 Source: none
 
 
+
 Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.74
 Version: tarek-hanfy
 Description: Enigma2 Tools
@@ -1783,6 +1813,7 @@ OE: enigma2
 Homepage: unknown
 Depends: enigma2
 Source: none
+
 
 
 Package: enigma2-plugin-piconsTarek-A-hispasat30w
@@ -1802,6 +1833,7 @@ Depends: enigma2
 Source: none
 
 
+
 Package: enigma2-plugin-piconsTarek-A-bulgariasat-1.9
 Version: tarek-hanfy
 Description: Enigma2 Tools
@@ -1817,6 +1849,7 @@ OE: enigma2
 Homepage: unknown
 Depends: enigma2
 Source: none
+
 
 
 Package: enigma2-plugin-piconsTarek-A-cam-sat-prov-crypt
@@ -1906,6 +1939,7 @@ Depends: enigma2
 Source: none
 
 
+
 Package: enigma2-plugin-piconsTarek-A-yaha-sat-52
 Version: tarek-hanfy
 Description: Enigma2 Tools
@@ -1921,6 +1955,7 @@ OE: enigma2
 Homepage: unknown
 Depends: enigma2
 Source: none
+
 
 
 Package: enigma2-plugin-piconsTarek-A-eutelsat9
