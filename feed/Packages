@@ -2180,16 +2180,16 @@ Homepage:
 
 
 
-Package: enigma2-plugin-systempluginsTarek-A-setpasswd
-Version: tarek-motor
+Package: enigma2-plugin-systempluginsTarek-A-setpasswd-2
+Version: tarek-setpasswd
 Section: tarek
 Priority: optional
 Architecture: all
 MD5Sum: 0a6040318e97e9cfedfdd5cad30a3c05
 Size: 9544
 Filename: enigma2-plugin-systemplugins-setpasswd_tarek-hafy_all.ipk
-Maintainer: tarek-motor
-Description: motor motor
+Maintainer: tarek-setpasswd
+Description: setpasswd
 Source: 
 Homepage:
 
