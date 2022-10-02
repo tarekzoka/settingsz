@@ -1539,6 +1539,19 @@ Source:
 Homepage:
 
 
+Package: enigma2-plugin-extensionsTarek-A-MyMetrixLiteBackup-3
+Version: tarek-MyMetrixLite-bahaa-elshaer
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 7dd8068fd569f78b604b243807b40b4a
+Size: 5462626
+Filename: enigma2-skinparts-metrixfhd-open_tarek_all.ipk
+Maintainer: tarek-MyMetrixLiteBackup
+Description: mymetrix
+Source: 
+Homepage:
+
 
 Package: enigma2-plugin-extensionsTarek-A-MyMetrixLiteBackup-2
 Version: tarek-mymetrix-desin
@@ -2221,3 +2234,5 @@ Maintainer: tarek-imagedownloader
 Description: imagedownloader
 Source: 
 Homepage
+
+
