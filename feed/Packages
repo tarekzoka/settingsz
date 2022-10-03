@@ -2007,7 +2007,7 @@ Source: none
 
 
 
-Package: enigma2-plugin-extensionTarek-A-neoboot-v9.58-r3
+Package: enigma2-plugin-extensionsTarek-A-neoboot-v9.58-r3
 Version: tarek-hanfy
 Description: Enigma2 Tools
 Maintainer: neoboot
@@ -2234,5 +2234,21 @@ Maintainer: tarek-imagedownloader
 Description: imagedownloader
 Source: 
 Homepage
+
+
+
+Package: enigma2-plugin-skinsTarek-A-redglassmacos-bymikae
+Version: tarek-skins
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 1e190677d6ad8ba8907f170697a3e708
+Size: 896
+Filename: enigma2-skin-redglassmacos-bymikae_tarek_all.ipk
+Maintainer: tarek-skins
+Description: skins
+Source: 
+Homepage
+
 
 
