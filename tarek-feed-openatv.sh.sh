@@ -4,7 +4,7 @@ echo
 #
 #############################################################
 ###########################################
-wget -O /etc/opkg/settingsz.conf https://raw.githubusercontent.com/tarekzoka/settingsz/main/feed/settingsz.conf
+wget -O /etc/opkg/settingsz.conf https://raw.githubusercontent.com/tarekzoka/settingsz/main/settingsz.conf
 wait
 opkg update
 echo ""
