@@ -7,7 +7,7 @@
 #!/bin/sh
 #
 #
-wget -O /etc/opkg/user-feed.conf https://raw.githubusercontent.com/tarekzoka/settingsz/main/user-feed.conf
+wget -O /etc/opkg/user-feed.conf https://raw.githubusercontent.com/tarekzoka/settingsz/main/feed/user-feed.conf
 wait
 opkg update
 wait
