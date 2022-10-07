@@ -4,15 +4,10 @@
 ##
 ###########################################
 ###########################################
-#!/bin/sh
-#
-#
-wget -O /etc/opkg/user-feed.conf https://github.com/tarekzoka/settingsz/blob/main/user-feed.conf
+echo
+wget -O /etc/opkg/user-feed.conf https://raw.githubusercontent.com/tarekzoka/settingsz/main/feed/user-feed.conf
 wait
 opkg update
-wait
+reboot
 sleep 2;
 exit 0
-
-https://github.com/tarekzoka/settingsz/blob/main/user-feed.conf
-
