@@ -1,2 +1,3923 @@
+Package: enigma2-plugin-extensionsTarek-A-footonsat
+Version: twwsq
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 325038
+MD5Sum: 23ed463a000c6cd8cde4979de54b7420
+Filename: enigma2-plugin-extensions-ajpanel_v8.4.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 football
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+Package: enigma2-plugin-extensionsTarek-A-ipaudio
+Version: tarekwwd
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: e786596bb197db361e2ef65365a9c26f
+Size: 968
+Filename: enigma2-plugin-extensions-ipaudio_tarek-ipaudio_all.ipk
+Description: tarek ipaudio
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-iptosat-v1.8
+Version: tarek-hanfy
+Depends: exteplayer3 , gstplayer
+Section: extensionsTarek
+Architecture: all
+MD5Sum: 1944dfb07e5219b988d97673ec700e6d
+Size: 14426
+Filename: enigma2-plugin-extensions-iptosat-v1.8_tarek-hanfy_all.ipk
+Description: enigma2 plugin OE2.0
+Maintainer: emil
+Priority: optional
+Source: none https://github.com/ziko-ZR1/IPtoSAT
+Homepage: none
+License: none
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-A-dreamsatpanel-allpython
+Version: tarek-hanfy
+Section: extensionsTarek
+Priority: optional
+Architecture: all
+Size: 1098
+MD5Sum: f28a8e8d4406a9c26a1252acb9f38dfe
+Filename: enigma2-plugin-extensions-dreamsatpanel-all-python_tarek-tarek_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 dreamsatpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-dreamsatpanel-py-3.10.4
+Version: tarek-hanfy
+Section: extensionsTarek
+Priority: optional
+Architecture: all
+Size: 742456
+MD5Sum: 4f6952f1b8e63b9cc1e01ffa3685abb2
+Filename: enigma2-plugin-extensions-dreamsatpanel-py-3.10.4_1.4_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 dreamsatpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-A-beta-pro
+Version: tarek-v1.5
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 5569176
+MD5Sum: a24a36695e492da7320d2b686e9dacac
+Filename: enigma2-plugin-skins-betapro_v1.5_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 betapro
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-OBH-skins-mx-sline-black-red
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 802
+MD5Sum: 723b44def746fd792d562ee20b107eef
+Filename: enigma2-plugin-skins-mx-sline-black-red-gradient_tarek_1.0_all.ipk
+Maintainer: ziko & skins-mx-sline
+Description: enigma2 plugin OE2.0 OE2.5 skins-mx-sline
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-DESERT-FHD
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 726
+MD5Sum: 43bcdae55a4e52cdf3041834925183d8
+Filename: enigma2-plugin-extensions-desertfhd_tark_hanfy_all.ipk
+Maintainer: DESERT-FHD & DESERT-FHD
+Description: DESERT-FHD
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-OBH-skins-mx-sline-green
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 922
+MD5Sum: f2426fca219e0d81d6aba78ccdac3db5
+Filename: enigma2-plugin--mx-sline-green_tarek_all.ipk
+Maintainer: ziko & skins-mx-sline
+Description: enigma2 plugin OE2.0 OE2.5 skins-mx-sline
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-OBH-skins-mx-sline-black-blue
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 930
+MD5Sum: cf9f35069778df42da2edd254adecdc0
+Filename: enigma2-plugin-extensions-black-blue-gradient_tarek_all.ipk
+Maintainer: ziko & skins-mx-sline
+Description: enigma2 plugin OE2.0 OE2.5 skins-mx-sline
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+Package: enigma2-plugin-skinsTarek-NITROADVANCED-5.0
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 742
+MD5Sum: faff8a0ea5f51468d93b568f63bb5d8f
+Filename: enigma2-plugin-extensions-nitroadvanced_tark_hanfy_all.ipk
+Maintainer: NITROADVANCED & NITROADVANCED
+Description: enigma2 plugin OE2.0 NITROADVANCED
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-OBH-skins-mx-sline-black-blue1
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 936
+MD5Sum: 753ea9722783ba566918c8aa76aaebf0
+Filename: enigma2-plugin-extensions-black-blue-gradient_tarek_1_all.ipk
+Maintainer: ziko & skins-mx-sline
+Description: enigma2 plugin OE2.0 OE2.5 skins-mx-sline
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-OBH-skins-mx-sline-black-blue2
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 936
+MD5Sum: 1b905d73de4711a392203649b2506b7e
+Filename: enigma2-plugin-extensions-black-blue-gradient_tarek_2_all.ipk
+Maintainer: ziko & skins-mx-sline
+Description: enigma2 plugin OE2.0 OE2.5 skins-mx-sline
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+Package: enigma2-plugin-skinsTarek-OBH-skins-mx-sline-black-blue3
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 936
+MD5Sum: 36d68a4a31e2257538843c4e4f7e6763
+Filename: enigma2-plugin-extensions-black-blue-gradient_tarek_3_all.ipk
+Maintainer: ziko & skins-mx-sline
+Description: enigma2 plugin OE2.0 OE2.5 skins-mx-sline
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+Package: enigma2-plugin-skinsTarek-OBH-skins-mx-sline-black-blue4
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 936
+MD5Sum: 14a0d7858020496ad19024cee056f3b6
+Filename: enigma2-plugin-extensions-black-blue-gradient_tarek-4_all.ipk
+Maintainer: ziko & skins-mx-sline
+Description: enigma2 plugin OE2.0 OE2.5 skins-mx-sline
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-skinsTarek-OBH-skins-mx-sline-black-Grey
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 940
+MD5Sum: c0f06529e23f5bcfc667f3677eb250a2
+Filename: enigma2-plugin-extensions-black-green-gradient_tarek_1_all.ipk
+Maintainer: ziko & skins-mx-sline
+Description: enigma2 plugin OE2.0 OE2.5 skins-mx-sline
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-skinsTarek-A-novax-fhd
+Version: tarek
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 3732424
+MD5Sum: 9751b512b0f5dec5b0ed4586e2337921
+Filename: enigma2-plugin-skins-novax-fhd-mauve-v1.4_tarek_hanfy_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 novax-fhd
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-A-worldcam-4.3
+Version: tarek-hanfy
+Section: enigma2
+Priority: optional
+Architecture: all
+Size: 403464
+MD5Sum: 1bea2c76e3e5f0318cb46fad5c66d420
+Filename: enigma2-plugin-extensions-worldcam_4.3_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 worldcam
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-A-worldcam
+Version: tarek-4.2_r5
+Section: enigma2
+Priority: optional
+Architecture: all
+Size: 538142
+MD5Sum: 69cf4a4d6db8c81be30e4057c8c7dd8a
+Filename: enigma2-plugin-extensions-worldcam_tarek-4.2_r5_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 worldcam
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-A-beta-posterx
+Version: tarek-v1.5
+Section: enigma2
+Priority: optional
+Architecture: all
+Size: 6259736
+MD5Sum: f9f69847ab14ba78c1c77cdbc214711a
+Filename: enigma2-plugin-skins-betaposterx_v1.5_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ch.league
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-0Tarek-A-freeserver
+Version: tarek-v8.0.6
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: f71087577f1206eb945e76bf767546a5
+Size: 2613396
+Filename: enigma2-plugin-extensions-freeserver_8.0.6_all.ipk
+Description: tarek E2 freeserver
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-jedimakerxtream
+Version: tarek-v6.20
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: a088bc5efa1e1ea807673d6e0eba71ed
+Size: 1810852
+Filename: enigma2-plugin-extensions-jedimakerxtream_6.20.20210928_all.ipk
+Description: tarekE2 jedimakerxtream
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-xcplugin-forever
+Version: tarek-v2.2
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: ec4ff19b6762a8f57806ca8e63d3af8a
+Size: 945520
+Filename: enigma2-plugin-extensions-xcplugin-forever_2.2_all.ipk
+Description: tarek E2 xcplugin-forever
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-xtraevent
+Version: tarek-v5.2
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 88fe9465fa666b35aac64b869c104f7f
+Size: 2779324
+Filename: enigma2-plugin-extensions-xtraevent_v5.2_all.ipk
+Description: tarek E2 xtraevent
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-e2iplayer-py3
+Version: tarek-py3.10_06
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 3d3854f5e9467776096850626d14d1c4
+Size: 14073624
+Filename: enigma2-plugin-extensions-e2iplayer-py3.10_06.07.2022_all.ipk
+Description: tarek E2 e2iplayer-py3
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-levi45multicamm
+Version: tarek-9.6-r1
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 3d3854f5e9467776096850626d14d1c4
+Size: 2206388
+Filename: enigma2-plugin-extensions-levi45multicamm_9.6-r1_all.ipk
+Description: tarek E2 levi45multicamm
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-plutotv
+Version: tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: d45c36d5558b14a60e727f09c8ba15a9
+Size: 622500
+Filename: enigma2-plugin-extensions-plutotv_tarek _all.ipk
+Description: tarek E2 plutotv
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-subssupport
+Version: tarek-1.5.8-r3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: f871696f831b661e3e029e0eed850423
+Size: 658792
+Filename: enigma2-plugin-extensions-subssupport_1.5.8-r3_all.ipk
+Description: tarek E2 subssupport
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-turkvod
+Version: tarek-12.00_PY3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 97bc0c4a4ab595b127bd1ad82311d9f6
+Size: 1894626
+Filename: enigma2-plugin-extensions-turkvod_12.00_PY3.all.ipk
+Description: tarek E2 turkvod
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-skinsTarek-A-octagon-fhd
+Version: tarek-1.2v
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 08ffc4a7ca1e2a83c47d403a2655a41f
+Size: 27043062
+Filename: enigma2-plugin-skins-octagon-fhd-all_1.2v_all.ipk
+Description: tarek E2 octagon-fhd
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-oscam_11712
+Version: tarek-11712-emu
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 517a7434623a5260ab3072cbdd8b07ae
+Size: 3311254
+Filename: enigma2-plugin-softcams-gosat-oscam_11712-emu-r798_all.ipk
+Description: tarek E2 gosat-oscam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-oscam_11718
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: e0e2a318674c1e184f22591f7ba82439
+Size: 4046504
+Filename: enigma2-plugin-softcams-oscam_11718-emu-r798_all.ipk
+Description: tarek E2 oscam_11718
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-softcamsTarek-A-supcam-oscam_11718
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5b3387563b0e4fd22e32a1b9a2068d59
+Size: 4044134
+Filename: enigma2-plugin-softcams-supcam-oscam_11718-emu-r798_all.ipk
+Description: tarek E2 supcam-oscam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-ncam_V13.4
+Version: tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: d0105bbade2eee78a69e5598174392ae
+Size: 5190558
+Filename: enigma2-plugin-softcams-ncam_V13.4-r0_all.ipk
+Description: tarek E2 ncam_V13.4
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-softcamsTarek-A-powercam-oscam_11715
+Version: tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: aafd2523db0cfba0e9937fb21bbf6313
+Size: 4079794
+Filename: enigma2-plugin-softcams-powercam-oscam_11715-emu-r798_all.ipk
+Description: tarek E2 powercam-oscam_11715
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-softcamsTarek-A-revcamv2-oscam_11.715
+Version: tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: e15f640c0c4c636cd55ffc3301e68ad2
+Size: 3369798
+Filename: enigma2-plugin-softcams-revcamv2-oscam_11.715-emu-r798_all.ipk
+Description: tarek E2 revcamv2-oscam_11.715
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-camdTarek-A-ncam_V13.4
+Version: tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: d0105bbade2eee78a69e5598174392ae
+Size: 5190558
+Filename: enigma2-plugin-softcams-ncam_V13.4-r0_all.ipk
+Description: tarek E2 ncam_V13.4
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-camdTarek-A-powercam-oscam_11715
+Version: tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: aafd2523db0cfba0e9937fb21bbf6313
+Size: 4079794
+Filename: enigma2-plugin-softcams-powercam-oscam_11715-emu-r798_all.ipk
+Description: tarek E2 powercam-oscam_11715
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-camdTarek-A-revcamv2-oscam_11.715
+Version: tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: e15f640c0c4c636cd55ffc3301e68ad2
+Size: 3369798
+Filename: enigma2-plugin-softcams-revcamv2-oscam_11.715-emu-r798_all.ipk
+Description: tarek E2 revcamv2-oscam_11.715
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-camdTarek-A-ncam_V13
+Version: tarek-V13.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 7e9f126d3ba5c943efc3638664cecf2f
+Size: 4949386
+Filename: enigma2-plugin-softcams-ncam_V13.0-r0_all.ipk
+Description: tarek E2 ncam_V13
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-oscam_11712
+Version: tarek-11712-emu
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 2a5871200c87d055acdae400b34c37a6
+Size: 3313446
+Filename: enigma2-plugin-softcams-oscam_11712-emu-r798_all.ipk
+Description: tarek E2 oscam_11712
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-oscam-tnt_11.678
+Version: tarek-tnt_11.678
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: eb8b00d5a1f9f248d456986f16599691
+Size: 2272300
+Filename: enigma2-plugin-softcams-oscam-tnt_11.678-tnt_all.ipk
+Description: tarek E2 oscam-tnt_11.678
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-softcamsTarek-A-cccam-all-ima
+Version: tarek-cccam-239
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 21cf3cd1ee395adc6b5c739a36f8d7f7
+Size: 1411096
+Filename: enigma2-softcams-cccam-all-ima_239-r6-RAED_OE2.0_all
+.ipk
+Description: tarek E2 cccam-all-ima
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensionsTarek-A-bootlogoswapper-Kids
+Version: tarek-v2.4
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 2d91aefe2ee3732237d46b1016e3ed1f
+Size: 16613430
+Filename: enigma2-plugin-extensions-bootlogoswapper-Kids_v2.4_all.ipk
+Description: tarek E2 bootlogoswapper-Kids
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-bootlogoswapper-new
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5eebaaf31e6d278a471039806a6c89ac
+Size: 23598018
+Filename: enigma2-plugin-extensions-bootlogoswapper_tarek_hanfy_all.ipk
+Description: tarek E2 bootlogoswapper-new
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-bootlogoTarek-A-bootlogoswapper-new
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5eebaaf31e6d278a471039806a6c89ac
+Size: 23598018
+Filename: enigma2-plugin-extensions-bootlogoswapper_tarek_hanfy_all.ipk
+Description: tarek E2 bootlogoswapper-new
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-piconsTarek-A-chocholou-picons
+Version: tarek-picons_5.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 05241f3266d14b8970ef766d0c4227e1
+Size: 100792
+Filename: enigma2-plugin-extensions-chocholou-picons_5.0.220121_all.ipk
+Description: tarek E2 piconsMaintainer
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-clearmem
+Version: tarek-clearmem-v1.10
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: ecd91ac57b05830762d62f96b46de1ed
+Size: 11432
+Filename: enigma2-plugin-extensions-clearmem_1.10_all.ipk
+Description: tarek E2 clearmem
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-crashlogviewer
+Version: tarek-0.4
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 7d89e9fdb861dc1c4d4e61ec1ec3e387
+Size: 21580
+Filename: enigma2-plugin-extensions-crashlogviewer_0.4_all.ipk
+Description: tarek E2 crashlogviewer
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-openwebif
+Version: tarek-v1.5.2
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9cedef397a9a2a55f71a5ede2dbcf3f0
+Size: 13099480
+Filename: enigma2-plugin-extensions-openwebif_1.5.2-git20220905-r4_all.ipk
+Description: tarek E2 openwebif
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensionsTarek-A-sateditor
+Version: tarek-v3.3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9f347161c6b421f6f6d45792d7a6baee
+Size: 29980
+Filename: enigma2-plugin-extensions-sateditor_3.3_all
+.ipk
+Description: tarek E2 sateditor
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-theweather
+Version: tarek-py2_2.3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 874ef8a584752e04b85f53512e0d80c6
+Size: 7249602
+Filename: enigma2-plugin-extensions-theweather-py2_2.3_all
+.ipk
+Description: tarek E2 theweather
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-youtube
+Version: tarek-youtube_1
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5f2abd5c51192089a02e72e29d9448a9
+Size: 92784
+Filename: enigma2-plugin-extensions-youtube_1+git1024+166a88b-r0.0_mips32el.ipk
+Description: tarek E2 youtube
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-op-artkoala
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 63acbd85be95e12f08b6451a08f041c0
+Size: 838
+Filename: enigma2-skin-op-artkoala_tarek_all.ipk
+Description: tarek E2 op-artkoala
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-elite-fhd
+Version: tarek-elite-fhd
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 0b17b6d83cbd7e9aaaab8041f8b1787c
+Size: 11607642
+Filename: enigma2-plugin-skins-elite-fhd-all_1.3_all
+.ipk
+Description: tarek E2 elite-fhd
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-filemanager
+Version: tarek-filemanager2.2
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 0df97e5485421737ff24211be1a849f3
+Size: 680418
+Filename: enigma2-plugin-systemplugins-filemanager-_2.2-r0_mips32el.ipk
+Description: tarek E2 filemanager
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-ekselancexe-fhd
+Version: tarek-ekselancexe-fhd
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 28c317f234aa260fe396d53ca661a30c
+Size: 8092300
+Filename: enigma2-plugin-skins-ekselancexe-fhd-dragon-py3_4.0_all.ipk
+Description: tarek E2 ekselancexe-fhd
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-froid
+Version: tarek-froid_4.00
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 0371ecbd02144bd1060cfb7a2cb3183a
+Size: 2682686
+Filename: enigma2-plugin-skins-froid_4.00_all.ipk
+Description: tarek E2 froid
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-skinsTarek-A-KIII-PRO
+Version: tarek-KIII-PROv3.3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 3acd95a5115e26bb8672b14569e227e5
+Size: 22228532
+Filename: enigma2-plugin-skins-KIII-PRO-by-zelda77_v3.3_all.ipk
+Description: tarek E2 KIII-PRO
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-skinsTarek-A-metrixconfluencexp
+Version: tarek-metrixconfluencexp
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: ecd77ad0bde6a274b64bacda216be1e3
+Size: 14900518
+Filename: enigma2-plugin-skins-metrixconfluencexp-atv-dragon-lululla_1.1_all.ipk
+Description: tarek E2 metrixconfluencexp
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-xtraevent 
+Version: tarek-xtraevent
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: b688ccf7ecdea40745fdacb66c0aa6e7
+Size: 892
+Filename: enigma2-plugin-extensions-xtraevent_tarek_all.ipk
+Description: tarek E2 xtraevent
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-skinsTarek-A-nuke.fhd
+Version: tarek-nuke.fhd
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: b47caf482a756e0949688d55d6280891
+Size: 888
+Filename: enigma2-plugin-skins-nuke.fhd_tarek_all.ipk
+Description: tarek E2 nuke.fhd
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-nitroadvanced
+Version: tarek-nitroadvanced
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 55e1d6485c8687c88ce68473fb7045cc
+Size: 894
+Filename: enigma2-plugin-skins-nitroadvanced_tarekv5.4_all.ipk
+Description: tarek E2 nitroadvanced
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settingsTarek-Channel-ciefps
+Version: tark-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9c10e3755d6184d9e8ec4c1349734eb6
+Size: 1040
+Filename: enigma2-plugin-extensions-channel-ciefps_tark-hanfy_all.ipk
+Description: tarek E2 channel-ciefp
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-settingsTarek-Channel-romeh
+Version: tarek-channel-romeh
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: fa7fe2c459d1f34c54677d592734748b
+Size: 1016
+Filename: enigma2-plugin-extensions-channel-romeh_tarek-channel-romeh_all.ipk
+Description: tarek E2 channel-romeh
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settingsTarek-Channel-mohamed-os
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: e50106be246d69eeeb498dcee441ae90
+Size: 1006
+Filename: enigma2-plugin-extensions-channel-mohamed-os_tarek_all.ipk
+Description: tarek E2 mohamed-os
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+
+Package: enigma2-plugin-settingsTarek-Channel-mahmoudsaad
+Version: tarek-channel-mahmoudsaad
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9116064f84490f3b525ee24163d83cb5
+Size: 1052
+Filename: enigma2-plugin-extensions-channel-mahmoudsaad_tarek-channel-mahmoudsaad_all.ipk.ipk
+Description: tarek E2 channel-mahmoudsaad
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settingsTarek-Channel-khaled
+Version: tarek-channel-khaled
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: f5441e2addbbf9e60904b698a8caa4f8
+Size: 986
+Filename: enigma2-plugin-extensions-channel-khaled_tarek-channel-khaled_all.ipk
+Description: tarek E2 channel-romeh
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settingsTarek-A-Channel-goda
+Version: tarek-channel-goda
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 69933ab04ba350ddfe45390882df0b09
+Size: 952
+Filename: enigma2-plugin-extensions-channel-goda_tarek-channel-goda_all.ipk
+Description: tarek E2 channel-goda
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-settingsTarek-Channel-ashrey
+Version: tarek-channel-ashrey
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 6511f68a7760defada5a03ae95d8dc19
+Size: 1024
+Filename: enigma2-plugin-extensions-channel-tarekashrey_tarek-channel-ashrey_all.ipk
+Description: tarek E2 channel-ashrey
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-Quran-karim
+Version: tarek-tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 2736431aee67fc77c84b60186034cc88
+Size: 4425890
+Filename: enigma2-plugin-extensions-quran-karim_tarek-tarek_all.ipk
+Description: Quran-karim
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-Arabicsavior
+Version: tarek-arabicsavior
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: d4277f981e0739f709abe159821f1fcb
+Size: 2634374
+Filename: enigma2-plugin-extensions-arabicsavior_all.ipk
+Description: arabicsavior
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-autoresolution
+Version: tarek-autoresolution
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 0d1c2004d17cf54f4f955fb5d38e333d
+Size: 800
+Filename: enigma2-plugin-extensions-autoresolution_tarek-AutoResolution_all.ipk
+Description: autoresolution
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-automaticvolume
+Version: tarek-tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: accfa0db470cb45b89616486491e2545
+Size: 818
+Filename: enigma2-plugin-extensions-automaticvolumeadjustment_tarek-automaticvolumeadjustment_all.ipk
+Description: automaticvolumeadjustment
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-ipaudio.json.shwky
+Version: tarek-json.shwky
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 4286b03cdac58a64ca3d31f9ffa75b54
+Size: 818
+Filename: enigma2-plugin-extensions-ipaudio.json.shwky_tarek-json.shwky_all.ipk
+Description: json.shwky
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: emil
+License: none
+OE: none
+
+Package: enigma2-plugin-skinsTarek-A-icone-vpxt
+Version: tarek-icone-vpxt
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: c571dcb72feccbb651e460c7cff7d445
+Size: 828
+Filename: enigma2-plugin-extensions-icone-vpxt-fhd_tarek_all.ipk
+Description: tarek E2 icone-vpxt
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-novaler-s-x-fhd-b1
+Version: tarek-novaler-s-x
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 81e237c8d791a6153f791bf02f837ff5
+Size: 878
+Filename: enigma2-plugin-extensions-novaler-s-x-fhd-b1_tarek_all.ipk
+Description: tarek E2 novaler-s-x
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-novaler-s-x-fhd-b2
+Version: tarek-novaler-s-x
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: af9d4146ec904eabe652a9ffc8ecef5c
+Size: 878
+Filename: enigma2-plugin-extensions-novaler-s-x-fhd-b2_tarek_all.ipk
+Description: tarek E2 novaler-s-x
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-novaler-s-x-fhd-b3
+Version: tarek-novaler-s-x
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: b7b9dd13fda450b048242395df0b70a5
+Size: 880
+Filename: enigma2-plugin-extensions-novaler-s-x-fhd-b3_tarek_all.ipk
+Description: tarek E2 novaler-s-x
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-novaler-s-x-fhd-b4
+Version: tarek-novaler-s-x
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5ffa291a50151669a236460112e62472
+Size: 866
+Filename: enigma2-plugin-extensions-novaler-s-x-fhd-b4_tarek_all.ipk
+Description: tarek E2 novaler-s-x
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-bootlogoswapper1
+Version: tarek
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 6275e29e0a6b142790c16b96f8e9cc79
+Size: 846
+Filename: enigma2-plugin-extensions-bootlogoswapper1_tarek_all.ipk
+Description: tarek bootlogoswapper1
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-weblinks-fontmagnifier
+Version: tarek-fontmagnifier
+Depends: enigma2
+Section: tareklinks
+Architecture: all
+MD5Sum: b131fae0883cc20b47391cfd54019150
+Size: 24310
+Filename: enigma2-plugin-weblinks-fontmagnifier_0.6.1_all.ipk
+Description: tarek fontmagnifier
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensionsTarek-A-athantimes
+Version: tarek-athantimes_2.4_
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: ef8fcf3457813ed2ec0757050df45bb8
+Size: 3097726
+Filename: enigma2-plugin-extensions-athantimes_2.4_all.ipk
+Description: tarek athantimes
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-novaler-s-x-fhd-b4
+Version: tarek-novaler-s-x
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5ffa291a50151669a236460112e62472
+Size: 866
+Filename: enigma2-plugin-extensions-novaler-s-x-fhd-b4_tarek_all.ipk
+Description: tarek E2 novaler-s-x
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skinsTarek-A-BATMAN
+Version: tarek-BATMAN
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 847c604edb0109ee97a11a5e98bae170
+Size: 14907144
+Filename: enigma2-plugin-skin-batman_tarek_all.ipk
+Description: tarek E2 BATMAN
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-skinsTarek-A-orange-sky
+Version: tarek-orange
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: e21bbd67e034645c359650d171a2423d
+Size: 4914264
+Filename: enigma2-plugin-skin-orange-sky_tarek_all.ipk
+Description: tarek E2 orange-sky
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-skinsTarek-A-iFlatFHD
+Version: tarek-novaler-s-x
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 4fb67a19f5dba50e94a5d720894037e0
+Size: 3381112
+Filename: Skin-iFlatFHD-By-Nathanael.ipk
+Description: tarek E2 iFlatFHD
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-skinsTarek-A-Graphite_FHD
+Version: tarek-Graphite_FHD
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 3de8aab75a441e848d9d79c1a31c6b73
+Size: 3822078
+Filename: skin-MX_Graphite_FHD-OpenATV.ipk
+Description: tarek E2 Graphite_FHD
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-extensionsTarek-Ajpanel.8.2.0
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 315988
+MD5Sum: 5629e459b98a7b0a2a8ac7e8685582f1
+Filename: enigma2-plugin-extensions-ajpanel_v8.2.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-A-Ajpanel.8.5.0
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 337788
+MD5Sum: 664787956c912b57b45433707cef3656
+Filename: enigma2-plugin-extensions-ajpanel_v8.5.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-weblinks-A-Ajpanel.8.5.0
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 337788
+MD5Sum: 664787956c912b57b45433707cef3656
+Filename: enigma2-plugin-extensions-ajpanel_v8.5.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-weblinks-A-Ajpanel.8.2.0
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 315988
+MD5Sum: 5629e459b98a7b0a2a8ac7e8685582f1
+Filename: enigma2-plugin-extensions-ajpanel_v8.2.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-Ajpanel.8.1.0
+Version: tarek-hanfy.8.0.0
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 311990
+MD5Sum: dfd68ab1417f96b6ba19591b843783a4
+Filename: enigma2-plugin-extensions-ajpanel_v8.1.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+
+
+Package: enigma2-plugin-extensionsTarek-Ajpanel.8.0.0
+Version: tarek-hanfy.8.0.0
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 311670
+MD5Sum: eb4268467bdd5cf56c5f4cac28e37103
+Filename: enigma2-plugin-extensions-ajpanel_v8.0.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-Ajpanel
+Version: tarek-ajpanel-v5.50
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 250184
+MD5Sum: 4b4a1d97bddf4eda1a4bc532793e7720
+Filename: enigma2-plugin-extensions-ajpanel_v5.5.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-Ajpanel
+Version: tarek-ajpanel-v7.20
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 292166
+MD5Sum: 8e4ae3b23de52067ee92a9b5a2337034
+Filename: enigma2-plugin-extensions-ajpanel_tarek-v7.2.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-Ajpanel
+Version: tarek-ajpanel-v7.30
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 292424
+MD5Sum: e9665d48df9de6247ee3ec0aab0ab484
+Filename: enigma2-plugin-extensions-ajpanel_v7.3.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-extensionsTarek-Ajpanel
+Version: tarek-ajpanel-v7.40
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 294546
+MD5Sum: feabdc59627563f59956e7ee152fdaf5
+Filename: enigma2-plugin-extensions-ajpanel_v7.4.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-feeds-finder
+Version: tarek-feeds-finder-V1.6
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 1220226
+MD5Sum: 6094cba624fea49f8069e38f898fc94b
+Filename: feeds-finder_20201016-V1.6-momi133-OE2_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 afinder
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-piconsTarek-A-picon-all-sat
+Version: tarek-picon-all-sat
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 3bf88c7ba1c4f7bb3844936e2cca52ff
+Size: 858
+Filename: enigma2-plugin-extensions-picon-all-sat_tarek_all.ipk
+Description: tarek E2 picon-all-sat
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-piconsTarek-A-picon-enigma2-nile-sat
+Version: tarek-picon-enigma2-nile-sat
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9ac115d0e4805b56a15421737a1964bd
+Size: 900
+Filename: enigma2-plugin-extensions-picon-share-enigma2-nile_tarek_all.ipk
+Description: tarek E2 nile-sat
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-piconsTarek-A-picon-hdd-nile.sat
+Version: tarek-picon-hdd-nile.sat
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: f51944aec5f4408e1b4ed5deff80c179
+Size: 904
+Filename: enigma2-plugin-extensions-picon-hdd-nile_tarek_all.ipk
+Description: tarek E2 nile-sat
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-EPGGrabber-osn
+Version: tarek-EPGGrabber
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: fdc1338532c39a10bd9c03dbe77083aa
+Size: 1024
+Filename: enigma2-plugin-extensions-epggrabber-osn_tarek_all.ipk
+Description: tarek EPGGrabber
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-oscam-revcam
+Version: tarek-oscam-revcam
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: c34944f6e0a1be6a29a0065a8aa453ef
+Size: 3507692
+Filename: 7-enigma2-plugin-softcams-A-oscam-revcam_11.703_all.ipk
+Description: oscam-revcam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-A-oscam-revcam
+Version: tarek-oscam-revcam
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: c34944f6e0a1be6a29a0065a8aa453ef
+Size: 3507692
+Filename: 7-enigma2-plugin-weblinks-A-oscam-revcam_11.703_all.ipk
+Description: oscam-revcam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-ncam-revcam
+Version: tarek-ncam-revcam
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d31c738e1a87d70361924961a006a007
+Size: 4299794`
+Filename: 8-enigma2-plugin-softcams-ncam-revcam_12.4_all.ipk
+Description: tarek ncam-revcam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-weblinks-A-ncam-revcam
+Version: tarek-ncam-revcam
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d31c738e1a87d70361924961a006a007
+Size: 4299794`
+Filename: 8-enigma2-plugin-weblinks-ncam-revcam_12.4_all.ipk
+Description: tarek ncam-revcam
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensionsTarek-A-linuxsat-active-code
+Version: tarek-linuxsat-active
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: df7eb0c722cbfdac43a06ecb12a7b197
+Size: 2206832
+Filename: enigma2-plugin-extensions-linuxsat-active-code-addons-panel_v2.2F_all.ipk
+Description: tarek linuxsat-active
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-A-linuxsat-active-code
+Version: tarek-linuxsat-active
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: df7eb0c722cbfdac43a06ecb12a7b197
+Size: 2206832
+Filename: enigma2-plugin-weblinks-linuxsat-active-code-addons-panel_v2.2F_all.ipk
+Description: tarek linuxsat-active
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-opkg-tools
+Version: tarek-opkg-tools
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: ea6f100275d8ba254c6b9bb82fe5df7e
+Size: 353354
+Filename: enigma2-plugin-extensions-opkg-tools_1.4_all.ipk
+Description: tarek opkg-tools
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-opkg-tools
+Version: tarek-opkg-tools
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: ea6f100275d8ba254c6b9bb82fe5df7e
+Size: 353354
+Filename: enigma2-plugin-weblinks-opkg-tools_1.4_all.ipk
+Description: tarek opkg-tools
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-0Tarek-A-opkg-tools
+Version: tarek-opkg-tools
+Depends: enigma2
+Section: trek
+Architecture: all
+MD5Sum: d5ded576fac3f8a15a9ad663fb47add4
+Size: 351970
+Filename: enigma2-plugin-trek-opkg-tools_tarek_all.ipk
+Description: tarek opkg-tools
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-bissfeed-autokey-py2
+Version: tarek-bissfeed-autokey
+Depends: enigma2
+Section: trek
+Architecture: all
+MD5Sum: d01a35174ec07ac41ee4b1dab8e1a2f3
+Size: 11617804
+Filename: enigma2-plugin-extensions-bissfeed-autokey-py2_tarek-tarek_all.ipk
+Description: tarek bissfeed-autokey
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-bissfeed-autokey-py3
+Version: tarek-bissfeed-autokey
+Depends: enigma2
+Section: trek
+Architecture: all
+MD5Sum: 7ba13e277dc0b556af2718ed1f81f837
+Size: 2800632
+Filename: enigma2-plugin-extensions-bissfeed-autokey-py3_tarek-tarek_all.ipk
+Description: tarek bissfeed-autokey
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-ansite-quraan-1.3-py2
+Version: tarek-tarek
+Section: external
+Priority: optional
+Architecture: all
+MD5Sum: dd29655fc1259094da8f64954fd807a7
+Size: 3026514
+Filename: enigma2-plugin-extensions-ansite-quraan-1.3-py2_tarek-tarek_all.ipk
+Maintainer: AbouYacine
+Description: ansite-by-aime-jeux
+Source: 
+Homepage: 
+
+
+Package: enigma2-plugin-extensionsTarek-A-ansite-quraan-1.4-py3
+Version: tarek-tarek
+Section: external
+Priority: optional
+Architecture: all
+MD5Sum: 4f571329cde5e5a68cb37350ecaa8825
+Size: 3616782
+Filename: enigma2-plugin-extensions-ansite-quraan-1.4-py3_tarek-tarek_all.ipk
+Maintainer: AbouYacine
+Description: ansite-by-aime-jeux
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-settingsTarek-A-Channel-hazemwahba.motor
+Version: tarek-tarek
+Section: external
+Priority: optional
+Architecture: all
+MD5Sum: 24ab6bef15fdd80a604078ea3aaf1e29
+Size: 2508
+Filename: enigma2-plugin-settings-channel-hazemwahba.motor_tarek-tarek_all.ipk
+Maintainer: AbouYacine
+Description: ansite-by-aime-jeux
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-extensionsTarek-Raedquicksignal
+Version: tarek-tarek
+Section: external
+Priority: optional
+Architecture: all
+MD5Sum: cc636c867809c3af7844544c3caeda02
+Size: 7009438
+Filename: enigma2-plugin-extensions-raedquicksignal_fairbird_all.ipk
+Maintainer: AbouYacine
+Description: raedquicksignal
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-extensionsTarek-A-ipkuninstaller
+Version: tarek-tarek
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 7319843305bf92ea372f8c1d4c3d2b26
+Size: 5434
+Filename: enigma2-plugin-extensions-ipkuninstaller_tarek-v1.4_all.ipk
+Maintainer: tarek-tarek
+Description: ipkuninstaller
+Source: 
+Homepage:
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-multiquickbutton
+Version: tarek-v2.7.17-r6
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 2a8cbe8eb3b30ed686e41c4332b24cbb
+Size: 29488
+Filename: enigma2-plugin-extensions-multiquickbutton-vu_tarek-V-2.7.17-r6_py3_all.ipk
+Maintainer: tarek-tarek
+Description: ipkuninstaller
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-systempluginsTarek-A-signalfinder
+Version: tarek-signalfinder
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 7319843305bf92ea372f8c1d4c3d2b26
+Size: 46478
+Filename: enigma2-plugin-systemplugins-signalfinder_tarek-V-2.4_all.ipk
+Maintainer: tarek-tarek
+Description: signalfinder
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-systempluginsTarek-A-virtualkeyboard
+Version: tarek-virtualkeyboard
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 89b935a7e9f2c21defa6f394726001e5
+Size: 34432
+Filename: enigma2-plugin-systemplugins-virtualkeyboard_tarek-tarek_all.ipk
+Maintainer: tarek-virtualkeyboard
+Description: virtualkeyboard
+Source: 
+Homepage:
+
+
+
+Package: enigma2-plugin-systempluginsTarek-A-setpasswd
+Version: tarek-setpasswd
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: c44d40f64cb8063b6940c00b9a5891e6
+Size: 9596
+Filename: enigma2-plugin-systemplugins-setpasswd_arek-y-git4897+7278916-r0.0_mips32el.ipk
+Maintainer: tarek-setpasswd
+Description: setpasswd
+Source: 
+Homepage:
+
+
+
+Package: enigma2-plugin-extensionsTarek-Ajpanel-v7.1
+Version: tarek-ajpanel-V7.01
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 0ecc133369aadfba7f803264a741b618
+Size: 279904
+Filename: enigma2-plugin-extensions-ajpanel_arek-v7.1.0_all.ipk
+Maintainer: tarek-ajpanel
+Description: ajpanel
+Source: 
+Homepage:
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-MyMetrixLiteBackup-1
+Version: tarek-MyMetrixLiteBackup
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: ed18df50d74b4ebe9b26da134649140d
+Size: 2192464
+Filename: enigma2-plugin-extensions-mymetrix-desin-1_tarek_all.ipk
+Maintainer: tarek-MyMetrixLiteBackup
+Description: mymetrix
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-extensionsTarek-A-MyMetrixLiteBackup-3
+Version: tarek-MyMetrixLite-bahaa-elshaer
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 7dd8068fd569f78b604b243807b40b4a
+Size: 5462626
+Filename: enigma2-skinparts-metrixfhd-open_tarek_all.ipk
+Maintainer: tarek-MyMetrixLiteBackup
+Description: mymetrix
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-extensionsTarek-A-MyMetrixLiteBackup-2
+Version: tarek-mymetrix-desin
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 685c1c3cb9588afbb9866c3c1b2d8938
+Size: 2192432
+Filename: enigma2-plugin-extensions-mymetrix-desin-2_tarek_all.ipk
+Maintainer: tarek-MyMetrixLiteBackup
+Description: mymetrix
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-softcamsTarek-A-oscam-11.713
+Version: tarek-revcam-oscam
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 87f07a9edbdb6e81a19595dacfe44ff3
+Size: 3120754
+Filename: enigma2-plugin-softcams-oscam_arek-11.713_all.ipk
+Maintainer: tarek-oscam
+Description: oscam
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-softcamsTarek-A-revcam-oscam-11.713
+Version: tarek-revcam-oscam
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: e6fbbda21b53430b396db4e0b4bc85a3
+Size: 3327394
+Filename: enigma2-plugin-softcams-revcam-oscam_tarek-11713-emu-r798_all.ipk
+Maintainer: tarek-revcam-oscam
+Description: revcam-oscam
+Source: 
+Homepage:
+
+
+
+
+Package: enigma2-plugin-0Tarek-A-revcam-oscam-11.713
+Version: tarek-revcam-oscam
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: e6fbbda21b53430b396db4e0b4bc85a3
+Size: 3327394
+Filename: enigma2-plugin-softcams-revcam-oscam_tarek-11713-emu-r798_all.ipk
+Maintainer: tarek-revcam-oscam
+Description: revcam-oscam
+Source: 
+Homepage:
+
+
+
+
+Package: enigma2-plugin-0Tarek-A-oscam-11.713
+Version: tarek-revcam-oscam
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 87f07a9edbdb6e81a19595dacfe44ff3
+Size: 3120754
+Filename: enigma2-plugin-softcams-oscam_arek-11.713_all.ipk
+Maintainer: tarek-oscam
+Description: oscam
+Source: 
+Homepage:
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-oscam-11.713
+Version: tarek-revcam-oscam
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 87f07a9edbdb6e81a19595dacfe44ff3
+Size: 3120754
+Filename: enigma2-plugin-softcams-oscam_arek-11.713_all.ipk
+Maintainer: tarek-oscam
+Description: oscam
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-display-A-lcdskin
+Version: tarek-cdskin
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 7fc406eaef194d8343e39d3ddd9ab37b
+Size: 327434
+Filename: enigma2-display-lcdskin_tarek_all.ipk
+Maintainer: tarek-cdskin
+Description: lcdskin hithem
+Source: 
+Homepage:
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-quarterpounder
+Version: tarek-quarterpounder
+Section: xtensions
+Priority: optional
+Architecture: all
+MD5Sum: 14b28680d193ed5bf4d6eb230544464d
+Size: 11364
+Filename: enigma2-plugin-extensions-quarterpounder_tarek-tarek_all.ipk
+Maintainer: tarek-quarterpounder
+Description: media-ipv
+Source: 
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-4media-support.py2
+Version: tarek-support
+Section: enigma2
+Priority: optional
+Architecture: all
+MD5Sum: 05d2c87c16e979ebb82b4691407b19d8
+Size: 764
+Filename: enigma2-plugin-extensions-exteplayer3-gstplayer-serviceapp-quarterpounder.py2_tarek_all.ipk
+Maintainer: tarek-quarterpounder
+Description: media-ipv
+Source: 
+
+
+
+Package: enigma2-plugin-0Tarek-arabicsavior
+Version: tarek-hanfy
+Description: ArabicSavior
+Maintainer: ArabicSavior
+Architecture: all
+MD5Sum: 217e88ee4d17d2e3ed593b0b3e6704ee
+Size: 842
+Filename: enigma2-plugin-tarek-arabicsavior_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-alsatarek-arabicsavior
+Version: tarek-hanfy
+Description: ArabicSavior
+Maintainer: ArabicSavior
+Architecture: all
+MD5Sum: 217e88ee4d17d2e3ed593b0b3e6704ee
+Size: 842
+Filename: enigma2-plugin-tarek-arabicsavior_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-0Tarek-ajpanel-v5.5.0
+Version: tark-tark
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: 011dd47cd8635cec6bcb422c2da94c17 
+Size: 250786
+Filename: enigma2-plugin-tark-ajpanel-v5.5.0_tark-tark_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-ipchecker
+Version: tark-tark
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: 2f4c4f2cd48abeaf21d80932bd2707c3
+Size: 5084
+Filename: enigma2-plugin-tarek-ipchecker_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-0Tarek-A-ipchecker
+Version: tark-tark
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: 2f4c4f2cd48abeaf21d80932bd2707c3
+Size: 5084
+Filename: enigma2-plugin-tarek-ipchecker_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.79
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: xstreamity
+Architecture: all
+MD5Sum: a0d86210e4a3e8b561b8ddf66553d25c
+Size: 822
+Filename: enigma2-plugin-extensions-xstreamity_tarek_3.79.20_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.81
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: xstreamity
+Architecture: all
+MD5Sum: 6ed9ec0506427654f8b2381410ccfb87
+Size: 798
+Filename: enigma2-plugin-extensions-xstreamity_3.81.20221123_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.83
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: xstreamity
+Architecture: all
+MD5Sum: 004ab13e8e808ff16b6a3c9b0a3ebf71
+Size: 794
+Filename: enigma2-plugin-extensions-xstreamity_3.83.20221126_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.85
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: xstreamity
+Architecture: all
+MD5Sum: a18b087bf4a00cf1b717c2c47cba2543
+Size: 5096612
+Filename: enigma2-plugin-extensions-xstreamity_tark_hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.94
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: xstreamity
+Architecture: all
+MD5Sum: d6cd4f3bfeacf0047e5f7b01a3632c89
+Size: 658
+Filename: enigma2-plugin-extensions-xstreamity_tark-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.76
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: xstreamity
+Architecture: all
+MD5Sum: 69c6852a921dc465e0cf44cbdba4079a
+Size: 2475392
+Filename: enigma2-plugin-extensions-xstreamity_3.76.20221024_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-xstreamity-3.75
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: xstreamity
+Architecture: all
+MD5Sum: b26a209b86192b73777a5bb0bc0261f5
+Size: 2475505
+Filename: enigma2-plugin-extensions-xstreamity_tarek_hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+
+Package: enigma2-plugin-piconsTarek-A-hispasat30w
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 43b932a665adb5f0517e7f9ae9d30d97
+Size: 1442576
+Filename: enigma2-plugin-tarek-picon-hispasat30w_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-piconsTarek-A-bulgariasat-1.9
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 4042e8153b69e1f52d19eb5e3cb70def
+Size: 2655898
+Filename: enigma2-plugin-tarek-picon-bulgariasat-1.9e-by-name_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-piconsTarek-A-cam-sat-prov-crypt
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 34188d46624c67f3fd376f71106d13ad
+Size: 12004906
+Filename: enigma2-plugin-picons-cam-sat-prov-crypt-hdd_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+
+Package: enigma2-plugin-piconsTarek-A-astrasat.19
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: dd0b25fd4ed71429a3c95dc88755b35f
+Size: 11328533
+Filename: enigma2-plugin-tarek-picon-astrasat.19_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-0Tarek-A-astrasat.19
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: dd0b25fd4ed71429a3c95dc88755b35f
+Size: 11328533
+Filename: enigma2-plugin-tarek-picon-astrasat.19_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-0Tarek-A-eutelsat7-turksat42
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 448a3197bb613298942f641dc43f20af
+Size: 6454322
+Filename: enigma2-plugin-tarek-picon-eutelsat7-turksat42_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-piconsTarek-A-eutelsat7-turksat42
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 448a3197bb613298942f641dc43f20af
+Size: 6454322
+Filename: enigma2-plugin-tarek-picon-eutelsat7-turksat42_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-piconsTarek-A-yaha-sat-52
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: de055377e1397677f24c2ceb402071aa
+Size: 1968222
+Filename: enigma2-plugin-tarek-picon-yaha-sat-52.5_tarek-hanfy_all_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-piconsTarek-A-eutelsat9
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 54508cc87af7018f7e15d4291bee006d
+Size: 2235760
+Filename: enigma2-plugin-tarek-picon-eutelsat9_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-piconsTarek-A-amos-4.0
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: picon
+Architecture: all
+MD5Sum: 92e961dd7f3ed2af28932a052c0326f7
+Size: 2701148
+Filename:enigma2-plugin-tarek-picon-amos-4.0_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-neoboot-v9.58-r3
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: neoboot
+Architecture: all
+MD5Sum: 771fd7108851ea4ea714117547f7b66c
+Size: 7924364
+Filename:enigma2-plugin-extensions-neoboot_tarek-v9.58-r3-reboot_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-softcamsTarek-A-oscam-11714-emu-r798
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: softcams
+Architecture: all
+MD5Sum: 08359778ae857ae8b74388cb54489810
+Size: 3326670
+Filename:enigma2-plugin-softcams-supcam-oscam_tarek-11714-emu-r798_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-ncam-v13.1
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: ncam
+Architecture: all
+MD5Sum: fbd3f2a2e5455d00a5549663ae4f68a2
+Size: 4916952
+Filename:enigma2-plugin-softcams-ncam_tarek-v13.1-r0_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-skinsTarek-A-beta-dragon
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: skin
+Architecture: all
+MD5Sum: 681724a5b01f25d7d3e03c81ce006fa4
+Size: 15034730
+Filename:enigma2-plugin-skin-beta-dragon_tarek-full.1.3.dragon_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-skinsTarek-A-ekselancexe
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: skin
+Architecture: all
+MD5Sum: 56c7ffd516f4a80724b646871f6962d7
+Size: 6221122
+Filename:enigma2-plugin-skins-ekselancexe_arek-2.0.by.Ekselance.packed.sat-4-all_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-ozeta-1.5.1
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: skin
+Architecture: all
+MD5Sum: 0ad4e76e585f39a9c1e30169a1d1a749
+Size: 2247254
+Filename:enigma2-plugin-skins-ozeta_tarek-1.5.1_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-camdTarek-A-oscam-11714-emu-r798
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: softcams
+Architecture: all
+MD5Sum: 08359778ae857ae8b74388cb54489810
+Size: 3326670
+Filename:enigma2-plugin-softcams-supcam-oscam_tarek-11714-emu-r798_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-camdTarek-A-ncam-v13.1
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: ncam
+Architecture: all
+MD5Sum: fbd3f2a2e5455d00a5549663ae4f68a2
+Size: 4916952
+Filename:enigma2-plugin-softcams-ncam_tarek-v13.1-r0_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-displayTarek-A-skin-default_hithem-2
+Version: egmani10-hithem
+Description: Enigma2 Tools
+Maintainer: display
+Architecture: all
+MD5Sum: c39ba941035eb77debc33d9396357a18
+Size: 30570
+Filename:enigma2-skin-default_hithem-2_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: lcdskin hithem2
+Source: none
+
+
+Package: enigma2-plugin-displayTarek-A-lcdskin
+Version: tarek-cdskin
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 7fc406eaef194d8343e39d3ddd9ab37b
+Size: 327434
+Filename: usr-share-enigma2-display-lcdskin_tarek_all.ipk
+Maintainer: tarek-cdskin
+Description: lcdskin hithem
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-settingsTarek-A-mody.motor
+Version: tarek-motor
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 4706c1e4a14a4cad64a20169bf9be829
+Size: 575740
+Filename: enigma2-plugin-settings-tarek-mody.motor_tarek-v3.0_all.ipk
+Maintainer: tarek-motor
+Description: lcdskin motor
+Source: 
+Homepage:
+
+
+
+Package: enigma2-plugin-systempluginsTarek-A-setpasswd-2
+Version: tarek-setpasswd
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 0a6040318e97e9cfedfdd5cad30a3c05
+Size: 9544
+Filename: enigma2-plugin-systemplugins-setpasswd_tarek-hafy_all.ipk
+Maintainer: tarek-setpasswd
+Description: setpasswd
+Source: 
+Homepage:
+
+
+
+Package: enigma2-plugin-systempluginsTarek-A-openmultibootv1.3
+Version: tarek-openmultiboot
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 2175d46301ef30bee95a9b48bac638d6
+Size: 1405412
+Filename: enigma2-plugin-systemplugins-openmultiboot-enhanced-v1.3-e2turk-r45_tarek-hanfy_all.ipk
+Maintainer: tarek-openmultiboot
+Description: openmultiboot
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-systempluginsTarek-A-imagedownloader
+Version: tarek-imagedownloader
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 8e0b2b7ba2e148056359056ce03dd9b1
+Size: 494390
+Filename: enigma2-plugin-systemplugins-imagedownloader_tarek-hanfy_all.ipk
+Maintainer: tarek-imagedownloader
+Description: imagedownloader
+Source: 
+Homepage
+
+
+Package: enigma2-plugin-skinsTarek-A-bohlala-new
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: skin
+Architecture: all
+MD5Sum: 9449613ece1aa17566afbf886fcc5d26
+Size: 884
+Filename:enigma2-skin-bohlala-new_tarek_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-multicolor-dragon-new
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: skin
+Architecture: all
+MD5Sum: 7fd21020fed1fe543b3adfb3f1c4c36a
+Size: 944
+Filename:enigma2-skin-multicolor-dragon-fhd_tarek2.0_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-NitroAdvanceFHD-new
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: skin
+Architecture: all
+MD5Sum: ec47d3282e6ce12897c10fd04f29f3a8
+Size: 944
+Filename:enigma2-skin-nitroadvancefhd_tarek2.0_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-displayTarek-A-lcdskin-13
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: display
+Architecture: all
+MD5Sum: 4046747526be2880328061220547bdb5
+Size: 468454
+Filename:enigma2-oe-a-lcdskin-13_v1.0_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-bootswaber-islamy
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: c43a7012473ceb2edf8182603d42a55d
+Size: 3934510
+Filename:enigma2-plugin-extensions-bootswaber-islamy_tarekv_1.1_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-OctEtFHD_blue-p_Xnew
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 049e1f7b0c25d292cd39d3a724042565
+Size: 6782166
+Filename:e2-plugin-skin-octetfhdbp-x_tarekv2.0_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+
+Package: enigma2-plugin-skinsTarek-A-cinogripli-new
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: d6ddf6fb8664273fabe463e7cfe107de
+Size: 852
+Filename:enigma2-skin-cinogripli_tarek_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-e2iplayer-tsplayer
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: c6b9450ab897bfc2435ff6cdea1b677f
+Size: 1140
+Filename:enigma2-plugin-extensions-e2iplayer-tsplayer_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-klll-pro-by-zelda77
+Version: tarek-v3.3
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 9901bb1a7903bf34b3db227953700f6c
+Size: 19697396
+Filename:enigma2-plugin-skins-skins-klll-pro-by-zelda77-v3.3_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-ncam_V13.2
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 2e54bc83fe9ffca7fdb5d6a2cea6f5ac
+Size: 4925012
+Filename:enigma2-plugin-softcams-ncam_V13.2-r0_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-revcam-ncam_V13.2
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 0b8dc35ad7d20e004ea5b312137bd048
+Size: 3926902
+Filename:enigma2-plugin-softcams-revcam-ncam_V13.2-r0_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-revcam-oscam_11714
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: b0bf321acf3e0c2e60be8031a9fa6472
+Size: 3336986
+Filename:enigma2-plugin-softcams-revcam-oscam_11714-emu-r798_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-fonts-e2
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 4166bad238696114d4e09a6eefa37509
+Size: 22561308
+Filename:enigma2-plugin-extensions-fonts-e2_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-redglassmacos-bymikae-new
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 90b26fbf629b60358dc1dbc57462b6cc
+Size: 1010
+Filename:enigma2-plugin-skins-redglassmacos-bymikae_tark-hnfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-nacht
+Version: tarek-v2.2
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 1280ffdc40b79beb409164661dc0d42f
+Size: 942
+Filename:enigma2-plugin-skins-nacht_arek_hafy_v2.2_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-0Tarek-A-nacht
+Version: tarek-v2.2
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 1280ffdc40b79beb409164661dc0d42f
+Size: 942
+Filename:enigma2-plugin-skins-nacht_arek_hafy_v2.2_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-Reddragon-new
+Version: tarek
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 49b74dec1fcdd80860946990b758bd88
+Size: 972
+Filename:enigma2-plugin-skins-reddragonfhd_tarek_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-skinsTarek-A-war-s-fhd
+Version: tarek
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 30e071c0636d9b2839b425d3748533b8
+Size: 854
+Filename:enigma2-skin-war-s-fhd_tarek_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-tokyou2020
+Version: tarek
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 80f46e7aa532bebee0f691ea07502a64
+Size: 870
+Filename:enigma2-tokyou2020_tarek_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-skinsTarek-A-orangegray-xp
+Version: tarek
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 09fe1958de03c951d0d9bf5d8018402d
+Size: 864
+Filename:enigma2-orangegray-xp_tarek_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-skinsTarek-A-blackneon-fhd
+Version: tarek
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 7386c019800d8c99d2b16072794fb653
+Size: 856
+Filename:enigma2-blackneon-fhd_tarek_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-skinsTarek-A-bein-v-fhd
+Version: tarek
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: cf5c63af9a92e5960b20a17f8407e618
+Size: 854
+Filename:enigma2-bein-v-fhd_tarek_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-0Tarek-A-dreamsatpanel-allpython
+Version: tarek-hanfy
+Section: extensionsTarek
+Priority: optional
+Architecture: all
+Size: 2352
+MD5Sum: 64a74ab1667128e7e78dc5c13829b6b6
+Filename: enigma2-tarek-dreamsat_tarek_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 dreamsatpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-weblinks-A-dreamsatpanel-allpython
+Version: tarek-hanfy
+Section: extensionsTarek
+Priority: optional
+Architecture: all
+Size: 2352
+MD5Sum: 64a74ab1667128e7e78dc5c13829b6b6
+Filename: enigma2-tarek-dreamsat_tarek_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 dreamsatpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-skinsTarek-A-Obselite-fhd
+Version: tarek-hanfy
+Section: extensionsTarek
+Priority: optional
+Architecture: all
+Size: 878
+MD5Sum: e77c8a1a2de29c8254ceea6ffc1414d8
+Filename: enigma2-skin-obselite-fhd_tarek_all.ipk
+Maintainer: skins & redouane
+Description: enigma2 plugin OE2.0 OE2.5 obselite-fhd
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-skinsTarek-A-cobaltfhd
+Version: tarek-hanfy
+Section: extensionsTarek
+Priority: optional
+Architecture: all
+Size: 836
+MD5Sum: 6de7868a1eb75391f5f4358106678243
+Filename: enigma2-skin-cobaltfhd_tarek_all.ipk
+Maintainer: skins & redouane
+Description: enigma2 plugin OE2.0 OE2.5 cobaltfhd
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-skinsTarek-A-octagon-fhd
+Version: tarek-hanfy
+Section: extensionsTarek
+Priority: optional
+Architecture: all
+Size: 832
+MD5Sum: e86a1252f35f55ff9c1a9273696dc012
+Filename: enigma2-skin-octagon-fhd_tarek_all.ipk
+Maintainer: skins & redouane
+Description: enigma2 plugin OE2.0 OE2.5 octagon-fhd
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-skinsTarek-A-pli-pltpostercinogri-poster
+Version: tarek-hanfy
+Section: extensions
+Priority: optional
+Architecture: all
+Size: 862
+MD5Sum: c69722870572bea69b5748bc4f526d45
+Filename: enigma2-skin-pltpostercinogri-poster_tarek_all.ipk
+Maintainer: skins & redouane
+Description: enigma2 plugin OE2.0 OE2.5 pltpostercinogri-poster
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-A-diana-fhd
+Version: tarek-hanfy
+Section: extensions
+Priority: optional
+Architecture: all
+Size: 844
+MD5Sum: 739d1d5c11466df5359b1890422048f2
+Filename: enigma2-skin-diana-fhd_tarek_all.ipk
+Maintainer: skins & redouane
+Description: enigma2 plugin OE2.0 OE2.5 diana-fhd
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-bonjour
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 840
+MD5Sum: 52d978ff04ef1514b1e3fd9ceb04dc06
+Filename: enigma2-extensions-bonjour_tarek_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 onjour
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-A-bootsogoswapper-quran
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 938
+MD5Sum: 5b77f729c97669abfc6202dd99df3230
+Filename: enigma2-extensions-bootlogoswapper-quran-explain_tarek_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 bootsogoswapper
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-bootlogoTarek-A-bootlogoswapper-Kids
+Version: tarek-v2.4
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 2d91aefe2ee3732237d46b1016e3ed1f
+Size: 16613430
+Filename: enigma2-plugin-extensions-bootlogoswapper-Kids_v2.4_all
+.ipk
+Description: tarek E2 bootlogoswapper-Kids
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-bootlogoTarek-A-bootsogoswapper-quran
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 938
+MD5Sum: 5b77f729c97669abfc6202dd99df3230
+Filename: enigma2-extensions-bootlogoswapper-quran-explain_tarek_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 bootsogoswapper
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-bootlogoTarek-A-bootswaber-islamy
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: c43a7012473ceb2edf8182603d42a55d
+Size: 3934510
+Filename:enigma2-plugin-extensions-bootswaber-islamy_tarekv_1.1_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-settingsTarek-Channel-D.nasr
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: extensions
+Architecture: all
+MD5Sum: 609354c9a557d141dd0b0f436a4dfef2
+Size: 1012
+Filename:enigma2-setting-channel-d-nasr_tarek_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-skinsTarek-A-pure2-revolution-pro-1.4
+Version: tarek-hanfy
+Description: Enigma2 
+Maintainer: skin
+Architecture: all
+MD5Sum: 498bda8b4f2babd097d839e0225e5800
+Size: 18994798
+Filename:enigma2-plugin-skins-revolution-pro-full-v1.4-dragon_tark_hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-ncam_V13.3
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 0ac0e94da3568133cf1c34ae289422cb
+Size: 5170972
+Filename: enigma2-plugin-softcams-ncam_V13.3-r0_all.ipk
+Description: tarek E2 ncam_V13.3
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-softcamsTarek-A-oscam_11.715
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 4627c31c90c5c077f2bb7fa9af9329b5
+Size: 3010032
+Filename: enigma2-plugin-softcams-oscam_11.715-emu-r798_all.ipk
+Description: tarek E2 oscam_11.715
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-camdTarek-A-oscam_11.715
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: softcams
+Architecture: all
+MD5Sum: 4627c31c90c5c077f2bb7fa9af9329b5
+Size: 3010032
+Filename:enigma2-plugin-softcams-oscam_11.715-emu-r798_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-camdTarek-A-ncam_V13.3
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: softcams
+Architecture: all
+MD5Sum: 0ac0e94da3568133cf1c34ae289422cb
+Size: 5170972
+Filename:enigma2-plugin-softcams-ncam_V13.3-r0_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-internet-speedtest_1.7
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 716752
+MD5Sum: c3069be14b82b6c97e91b45a1c7f96ed
+Filename: enigma2-plugin-extensions-internet-speedtest_1.7_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 internet
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+
+Package: enigma2-plugin-systempluginsTarek-A-servicescanupdates
+Version: tark-_1.2
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 7696
+MD5Sum: a3a32e8387984857f1a209db5afd7692
+Filename: enigma2-plugin-systemplugins-servicescanupdates_1.2_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 servicescanupdates
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-setpicon-v2.0
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 48504
+MD5Sum: 07dc2056687176a7f00b396e34956f4a
+Filename: enigma2-plugin-extensions-setpicon-v2.0_tarek_hanfy_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 setpicon-v2.0
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-A-historyzap-1.0.9
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 34510
+MD5Sum: d9f44e76675ccfcc3a30c491165c02cb
+Filename: enigma2-plugin-extensions-historyzap-1.0.9_tark.hanfy_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 setpicon-v2.0
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-A-opkg-tools
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 354282
+MD5Sum: 039dc8370fb86a25a33ed8a050230eb2
+Filename: enigma2-plugin-extensions-opkg-tools_tark-hanfy_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 setpicon-v2.0
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-quran-fav
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 834
+MD5Sum: 89699e93ce95164eaf2c487574814f34
+Filename: enigma2-plugins-quran-explana-fav_tark-hanfy_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 setpicon-v2.0
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-systempluginsTarek-A-xmlupdate
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 17666
+MD5Sum: 73e0a24f16af158b2da50710e55c78c4
+Filename: enigma2-plugin-systemplugins-xmlupdate_tark-hanfy_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 setpicon-v2.0
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+
+Package: enigma2-plugin-skinsTarek-BH-mx-tianium-xtra
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 862
+MD5Sum: eb50a2b260b693bf5d4f2c7dba9dd2b9
+Filename: enigma2-plugin--mx-tianium-xtra_tark-tarek_all.ipk
+Maintainer: 
+Description: 
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-subssupport-v1.58-py3
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 5048880
+MD5Sum: 2b0e20c0e25a94f4ff0777aad097e3ef
+Filename: enigma2-plugin-extensions-subssupport-v1.58-py3_tark-hanfy_all.ipk
+Maintainer: 
+Description: 
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-historyzap-v1.0.10
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 38368
+MD5Sum: 36468ba2caa6abd5f08e0a0ee181a628
+Filename: enigma2-plugin-extensions-historyzap-v1.0.10_tark-hanfy_all.ipk
+Maintainer: 
+Description: 
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+Package: enigma2-plugin-skinsTarek-BH-mx-titanium-new
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 782
+MD5Sum: 81fdc7a6fad1991d1d58b26b3110d034
+Filename: enigma2-plugin-extensions-skin-mx-titanium_tark-hanfy_all.ipk
+Maintainer: 
+Description: 
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+Package: enigma2-plugin-skinsTarek-A-octagon-fhd.1.2-new
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: skin
+Architecture: all
+MD5Sum: 004202e8522fc719a1d6a9650b16d265
+Size: 870
+Filename:enigma2-plugins-octagon-fhd_tark-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-dreamsatpanel-5.1
+Version: tarek-hanfy
+Section: extensionsTarek
+Priority: optional
+Architecture: all
+Size: 1102
+MD5Sum: 6b44e54dc06646cf2045deb13c27762e
+Filename: enigma2-plugin-extensions-dreamsatpanel-all-python_tark-hanfy_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 dreamsatpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-softcamsTarek-A-ncam_V13.5
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 598fdcad82b7c12769fe2bc394575541
+Size: 5216754
+Filename: enigma2-plugin-softcams-ncam_V13.5-r0_all.ipk
+Description: tarek E2 ncam_V13.5
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-systempluginsTarek-A-serviceapp
+Version: tarek-hanfy
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: 144b105930aabba983e6168d116f4cba
+Size: 94000
+Filename: enigma2-plugin-systemplugins-serviceapp_tark-hanfy_all.ipk
+Maintainer: tarek-tarek
+Description: signalfinder
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-systempluginsTarek-A-serviceeditor
+Version: tarek-v.20090417
+Section: tarek
+Priority: optional
+Architecture: all
+MD5Sum: a3fdb24f499f04b2ae532dddee2920fd
+Size: 40036
+Filename: enigma2-plugin-systemplugins-serviceeditor_20090417-hanfy_all.ipk
+Maintainer: tarek-tarek
+Description: signalfinder
+Source: 
+Homepage:
+
+
+Package: enigma2-plugin-camdTarek-A-ncam_V13.5
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 598fdcad82b7c12769fe2bc394575541
+Size: 5216754
+Filename: enigma2-plugin-softcams-ncam_V13.5-r0_all.ipk
+Description: tarek E2 ncam_V13.5
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-multistalker-1.4
+Version: tarek-hanfy
+Section: extensionsTarek
+Priority: optional
+Architecture: all
+Size: 1296
+MD5Sum: 05c4db20188e347d297f0176bdfd5b68
+Filename: enigma2-plugin-extensions-multistalker-1.4_tark-hanfy_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 multistalker-1.4
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensionsTarek-A-athantimes-2.6
+Version: tarek-hanfy
+Section: extensionsTarek
+Priority: optional
+Architecture: all
+Size: 3097928
+MD5Sum: b4a825d4e1f1763465c6f2840da231aa
+Filename: enigma2-plugin-extensions-athantimes-2.6_tark-hanfy_all.ipk
+Maintainer: athantimes
+Description: athantimes
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-BH-mx-titanium-poster
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 740
+MD5Sum: c81530891bfcd1578eadcb6578831188
+Filename: enigma2-plugin-extensions-skin-mx-titaniuom_tark-hanfy_alll.ipk
+Maintainer: 
+Description: 
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-skinsTarek-ATV-revolution-pro_full.3.1
+Version: tark-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 17643356
+MD5Sum: 9cd033513875a1cbb4b6113626820cf5
+Filename: enigma2-plugin-skins-revolution-pro_full.3.1.dragon_all.ipk
+Maintainer: 
+Description: 
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+
+Package: enigma2-plugin-extensionsTarek-A-jedimakerxtream_6.21
+Version: tarek-hanfy
+Section: extensions
+Priority: optional
+Architecture: all
+Size: 1864448
+MD5Sum: dfccfaffb58e69456b43d073bee7cfaa
+Filename: enigma2-plugin-extensions-jedimakerxtream_6.21.20230107_all.ipk
+Maintainer: jedimakerxtream
+Description: jedimakerxtream
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-softcamsTarek-A-levi45multicammanager_9.6
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 95a24083d9363a7bac881b0c60fb6103
+Size: 760226
+Filename: enigma2-plugin-extensions-levi45multicammanager_9.6-r12_all.ipk
+Description: tarek E2 cammanager
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensionsTarek-A-ipaudio-7
+Version: tarek-hanfy
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5a027089e1da6135f8d3c9324b4402b9
+Size: 654
+Filename: enigma2-plugin-extensions-ipaudio_tark-hanfy_all.ipk
+Description: tarek ipaudio
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 
 
