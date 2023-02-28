@@ -9,4 +9,4 @@ wait
 opkg update
 reboot
 sleep 2;
-exit 0
+exit 0  ccc
