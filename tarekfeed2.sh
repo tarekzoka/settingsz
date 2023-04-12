@@ -128,7 +128,7 @@ sleep 10s
 init 4
 sleep 1
 init 3
-exit 0
+exit 0  cc
 
 
 
