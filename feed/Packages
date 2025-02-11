@@ -1,5 +1,5 @@
 Package: enigma2-plugin-extensionsTarek-A-footonsat
-Version:xcc
+Version:xccs
 Section: tarek 
 Priority: optional
 Architecture: all
@@ -3010,7 +3010,7 @@ Source: none
 Homepage: unknown
 OE: enigma2
 
-Package: enigma2-plugin-extensions-.Ajpanel_v10.6.0
+Package: enigma2-plugin-extension-.Ajpanel_v10.6.0
 Version: tarek-hanfy
 Section: tarek links
 Priority: optional
