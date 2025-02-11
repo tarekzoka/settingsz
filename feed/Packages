@@ -1,5 +1,5 @@
 Package: enigma2-plugin-extensionsTarek-A-footonsat
-Version:x
+Version:xcc
 Section: tarek 
 Priority: optional
 Architecture: all
@@ -2995,20 +2995,36 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensionsTarek-Ajpanelv9.3.1
+Package: enigma2-plugin-extensionsTarek-Ajpanel_v10.6.0
 Version: tarek-hanfy
 Section: tarek links
 Priority: optional
 Architecture: all
-Size: 486116
-MD5Sum: 0e7d51f57c5af41adc6d3885e01487bf
-Filename: enigma2-plugin-extensions-ajpanel_v9.3.1_all.ipk
+Size: 528968
+MD5Sum: cb8f3a7fdf8dd15d6877743c36f4aec7
+Filename: enigma2-plugin-extensions-ajpanel_v10.6.0_all.ipk
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 ajpanel
 Depends: enigma2
 Source: none
 Homepage: unknown
 OE: enigma2
+
+Package: enigma2-plugin-extensions-.Ajpanel_v10.6.0
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 528968
+MD5Sum: cb8f3a7fdf8dd15d6877743c36f4aec7
+Filename: enigma2-plugin-extensions-ajpanel_v10.6.0_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 ajpanel
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
 
 Package: enigma2-plugin-extensions-.Ajpanelv9.3.1
 Version: tarek-hanfy
