@@ -1,5 +1,4 @@
-echo
-#!/bin/bash
+#!/bin/bash 
 ######################################################################################
 ## Command=wget https://raw.githubusercontent.com/tarekzoka/settingsz/main/tarekfeed.sh -O - | /bin/sh
 ##
@@ -9,4 +8,17 @@ wait
 opkg update
 reboot
 sleep 2;
-exit 0  ccc
+exit 0  
+
+
+
+
+
+
+
+
+
+
+
+
+
