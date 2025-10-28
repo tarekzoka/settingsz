@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 ######################################################################################
 ## Command=wget https://raw.githubusercontent.com/tarekzoka/settingsz/main/tarekfeed.sh -O - | /bin/sh
 ##
